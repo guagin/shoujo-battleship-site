@@ -1,0 +1,186 @@
+{
+  "width": 768,
+  "height": 768,
+  "source": "See-through local CUDA",
+  "rig": {
+    "eyes": [
+      {
+        "x": 318.51,
+        "y": 196.76,
+        "left": 0,
+        "right": 354
+      },
+      {
+        "x": 390.98,
+        "y": 164.2,
+        "left": 354,
+        "right": 768
+      }
+    ],
+    "eyeAngle": -0.4223,
+    "headPivot": [
+      344.5,
+      283
+    ],
+    "hairPivot": [
+      344.5,
+      63
+    ]
+  },
+  "layers": [
+    {
+      "name": "back hair",
+      "file": "00-back-hair.png",
+      "visible": true,
+      "bbox": [
+        128,
+        0,
+        640,
+        768
+      ]
+    },
+    {
+      "name": "topwear",
+      "file": "01-topwear.png",
+      "visible": true,
+      "bbox": [
+        128,
+        257,
+        640,
+        768
+      ]
+    },
+    {
+      "name": "neck",
+      "file": "02-neck.png",
+      "visible": true,
+      "bbox": [
+        331,
+        167,
+        444,
+        301
+      ]
+    },
+    {
+      "name": "ears",
+      "file": "03-ears.png",
+      "visible": true,
+      "bbox": [
+        281,
+        137,
+        462,
+        243
+      ]
+    },
+    {
+      "name": "face",
+      "file": "04-face.png",
+      "visible": true,
+      "bbox": [
+        250,
+        43,
+        439,
+        273
+      ]
+    },
+    {
+      "name": "nose",
+      "file": "05-nose.png",
+      "visible": true,
+      "bbox": [
+        344,
+        188,
+        376,
+        228
+      ]
+    },
+    {
+      "name": "mouth",
+      "file": "06-mouth.png",
+      "visible": true,
+      "bbox": [
+        355,
+        229,
+        392,
+        252
+      ]
+    },
+    {
+      "name": "eyelash",
+      "file": "07-eyelash.png",
+      "visible": true,
+      "bbox": [
+        282,
+        146,
+        419,
+        214
+      ]
+    },
+    {
+      "name": "eyebrow",
+      "file": "08-eyebrow.png",
+      "visible": true,
+      "bbox": [
+        281,
+        134,
+        410,
+        189
+      ]
+    },
+    {
+      "name": "eyewhite",
+      "file": "09-eyewhite.png",
+      "visible": true,
+      "bbox": [
+        298,
+        155,
+        410,
+        209
+      ]
+    },
+    {
+      "name": "irides",
+      "file": "10-irides.png",
+      "visible": true,
+      "bbox": [
+        307,
+        154,
+        403,
+        206
+      ]
+    },
+    {
+      "name": "headwear",
+      "file": "11-headwear.png",
+      "visible": true,
+      "bbox": [
+        408,
+        41,
+        462,
+        242
+      ]
+    },
+    {
+      "name": "front hair",
+      "file": "12-front-hair.png",
+      "visible": true,
+      "bbox": [
+        243,
+        29,
+        542,
+        378
+      ]
+    },
+    {
+      "name": "handwear",
+      "file": "13-handwear.png",
+      "visible": true,
+      "bbox": [
+        155,
+        376,
+        402,
+        716
+      ]
+    }
+  ]
+}
