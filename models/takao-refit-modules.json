@@ -1,0 +1,44 @@
+{
+  "parts": [
+    {
+      "id": "TurretShape",
+      "category": "main-gun",
+      "label": "203 mm 雙聯主砲"
+    },
+    {
+      "id": "TurretShape3",
+      "category": "secondary-gun",
+      "label": "127 mm 副砲"
+    },
+    {
+      "id": "refit_bridge",
+      "category": "bridge",
+      "label": "主艦橋"
+    },
+    {
+      "id": "singleTurretShape",
+      "category": "anti-air",
+      "label": "25 mm 防空砲"
+    },
+    {
+      "id": "Type93LShape",
+      "category": "torpedo",
+      "label": "四聯魚雷"
+    },
+    {
+      "id": "CatapultShape",
+      "category": "aviation",
+      "label": "彈射架"
+    },
+    {
+      "id": "refit_funnel",
+      "category": "engine",
+      "label": "動力裝置・煙囪"
+    }
+  ],
+  "notes": [
+    "Source detail catalog retained separately.",
+    "Bridge and funnel partitioned by connected components; gameplay power statistics not configured.",
+    "One module per family currently available; secondary bridge variants pending."
+  ]
+}

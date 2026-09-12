@@ -1,0 +1,1422 @@
+{
+  "parts": [
+    {
+      "id": "AnchorShape",
+      "category": "fittings",
+      "label": "甲板設備 · AnchorShape",
+      "status": "source-group"
+    },
+    {
+      "id": "Binocular_3Shape",
+      "category": "fittings",
+      "label": "甲板設備 · Binocular_3Shape",
+      "status": "source-group"
+    },
+    {
+      "id": "Boat_StowageShape",
+      "category": "fittings",
+      "label": "甲板設備 · Boat_StowageShape",
+      "status": "source-group"
+    },
+    {
+      "id": "Boat_StowageShape1",
+      "category": "fittings",
+      "label": "甲板設備 · Boat_StowageShape1",
+      "status": "source-group"
+    },
+    {
+      "id": "BollardsShape",
+      "category": "fittings",
+      "label": "甲板設備 · BollardsShape",
+      "status": "source-group"
+    },
+    {
+      "id": "BollardsShape1",
+      "category": "fittings",
+      "label": "甲板設備 · BollardsShape1",
+      "status": "source-group"
+    },
+    {
+      "id": "BollardsShape2",
+      "category": "fittings",
+      "label": "甲板設備 · BollardsShape2",
+      "status": "source-group"
+    },
+    {
+      "id": "Bow_patch_MidFront_wireShape",
+      "category": "rigging",
+      "label": "纜索與欄杆 · Bow_patch_MidFront_wireShape",
+      "status": "source-group"
+    },
+    {
+      "id": "Bow_wireShape",
+      "category": "rigging",
+      "label": "纜索與欄杆 · Bow_wireShape",
+      "status": "source-group"
+    },
+    {
+      "id": "CM029_Emergency_BoxShape",
+      "category": "fittings",
+      "label": "甲板設備 · CM029_Emergency_BoxShape",
+      "status": "source-group"
+    },
+    {
+      "id": "CM086_Anchor_topShape",
+      "category": "fittings",
+      "label": "甲板設備 · CM086_Anchor_topShape",
+      "status": "source-group"
+    },
+    {
+      "id": "CM087_Anchor_downShape",
+      "category": "fittings",
+      "label": "甲板設備 · CM087_Anchor_downShape",
+      "status": "source-group"
+    },
+    {
+      "id": "CatapultShape",
+      "category": "aviation",
+      "label": "航空設備 · CatapultShape",
+      "status": "source-group"
+    },
+    {
+      "id": "CatapultShape1",
+      "category": "aviation",
+      "label": "航空設備 · CatapultShape1",
+      "status": "source-group"
+    },
+    {
+      "id": "Chrysanthemum_midShape",
+      "category": "fittings",
+      "label": "甲板設備 · Chrysanthemum_midShape",
+      "status": "source-group"
+    },
+    {
+      "id": "Chrysanthemum_petal_1Shape",
+      "category": "fittings",
+      "label": "甲板設備 · Chrysanthemum_petal_1Shape",
+      "status": "source-group"
+    },
+    {
+      "id": "Chrysanthemum_petal_1Shape1",
+      "category": "fittings",
+      "label": "甲板設備 · Chrysanthemum_petal_1Shape1",
+      "status": "source-group"
+    },
+    {
+      "id": "Chrysanthemum_petal_1Shape10",
+      "category": "fittings",
+      "label": "甲板設備 · Chrysanthemum_petal_1Shape10",
+      "status": "source-group"
+    },
+    {
+      "id": "Chrysanthemum_petal_1Shape11",
+      "category": "fittings",
+      "label": "甲板設備 · Chrysanthemum_petal_1Shape11",
+      "status": "source-group"
+    },
+    {
+      "id": "Chrysanthemum_petal_1Shape12",
+      "category": "fittings",
+      "label": "甲板設備 · Chrysanthemum_petal_1Shape12",
+      "status": "source-group"
+    },
+    {
+      "id": "Chrysanthemum_petal_1Shape13",
+      "category": "fittings",
+      "label": "甲板設備 · Chrysanthemum_petal_1Shape13",
+      "status": "source-group"
+    },
+    {
+      "id": "Chrysanthemum_petal_1Shape14",
+      "category": "fittings",
+      "label": "甲板設備 · Chrysanthemum_petal_1Shape14",
+      "status": "source-group"
+    },
+    {
+      "id": "Chrysanthemum_petal_1Shape15",
+      "category": "fittings",
+      "label": "甲板設備 · Chrysanthemum_petal_1Shape15",
+      "status": "source-group"
+    },
+    {
+      "id": "Chrysanthemum_petal_1Shape2",
+      "category": "fittings",
+      "label": "甲板設備 · Chrysanthemum_petal_1Shape2",
+      "status": "source-group"
+    },
+    {
+      "id": "Chrysanthemum_petal_1Shape3",
+      "category": "fittings",
+      "label": "甲板設備 · Chrysanthemum_petal_1Shape3",
+      "status": "source-group"
+    },
+    {
+      "id": "Chrysanthemum_petal_1Shape4",
+      "category": "fittings",
+      "label": "甲板設備 · Chrysanthemum_petal_1Shape4",
+      "status": "source-group"
+    },
+    {
+      "id": "Chrysanthemum_petal_1Shape5",
+      "category": "fittings",
+      "label": "甲板設備 · Chrysanthemum_petal_1Shape5",
+      "status": "source-group"
+    },
+    {
+      "id": "Chrysanthemum_petal_1Shape6",
+      "category": "fittings",
+      "label": "甲板設備 · Chrysanthemum_petal_1Shape6",
+      "status": "source-group"
+    },
+    {
+      "id": "Chrysanthemum_petal_1Shape7",
+      "category": "fittings",
+      "label": "甲板設備 · Chrysanthemum_petal_1Shape7",
+      "status": "source-group"
+    },
+    {
+      "id": "Chrysanthemum_petal_1Shape8",
+      "category": "fittings",
+      "label": "甲板設備 · Chrysanthemum_petal_1Shape8",
+      "status": "source-group"
+    },
+    {
+      "id": "Chrysanthemum_petal_1Shape9",
+      "category": "fittings",
+      "label": "甲板設備 · Chrysanthemum_petal_1Shape9",
+      "status": "source-group"
+    },
+    {
+      "id": "CoamingStayShape",
+      "category": "fittings",
+      "label": "甲板設備 · CoamingStayShape",
+      "status": "source-group"
+    },
+    {
+      "id": "Cradle1Shape",
+      "category": "aviation",
+      "label": "航空設備 · Cradle1Shape",
+      "status": "source-group"
+    },
+    {
+      "id": "Cradle1Shape1",
+      "category": "aviation",
+      "label": "航空設備 · Cradle1Shape1",
+      "status": "source-group"
+    },
+    {
+      "id": "Cradle2Shape",
+      "category": "aviation",
+      "label": "航空設備 · Cradle2Shape",
+      "status": "source-group"
+    },
+    {
+      "id": "Cradle2Shape1",
+      "category": "aviation",
+      "label": "航空設備 · Cradle2Shape1",
+      "status": "source-group"
+    },
+    {
+      "id": "CylinderShape",
+      "category": "fittings",
+      "label": "甲板設備 · CylinderShape",
+      "status": "source-group"
+    },
+    {
+      "id": "DeckHatch4Shape",
+      "category": "fittings",
+      "label": "甲板設備 · DeckHatch4Shape",
+      "status": "source-group"
+    },
+    {
+      "id": "DeckLampShape",
+      "category": "fittings",
+      "label": "甲板設備 · DeckLampShape",
+      "status": "source-group"
+    },
+    {
+      "id": "DeckLampShape1",
+      "category": "fittings",
+      "label": "甲板設備 · DeckLampShape1",
+      "status": "source-group"
+    },
+    {
+      "id": "Detached_BowShape",
+      "category": "detached-structure",
+      "label": "切出結構組合件 · Detached_BowShape",
+      "status": "combined"
+    },
+    {
+      "id": "Detached_Bow_patch_MidFrontShape",
+      "category": "detached-structure",
+      "label": "切出結構組合件 · Detached_Bow_patch_MidFrontShape",
+      "status": "combined"
+    },
+    {
+      "id": "Detached_MidBackShape",
+      "category": "detached-structure",
+      "label": "切出結構組合件 · Detached_MidBackShape",
+      "status": "combined"
+    },
+    {
+      "id": "Detached_MidBack_patch_SternShape",
+      "category": "detached-structure",
+      "label": "切出結構組合件 · Detached_MidBack_patch_SternShape",
+      "status": "combined"
+    },
+    {
+      "id": "Detached_MidFrontShape",
+      "category": "detached-structure",
+      "label": "切出結構組合件 · Detached_MidFrontShape",
+      "status": "combined"
+    },
+    {
+      "id": "Detached_MidFront_patch_MidBackShape",
+      "category": "detached-structure",
+      "label": "切出結構組合件 · Detached_MidFront_patch_MidBackShape",
+      "status": "combined"
+    },
+    {
+      "id": "Detached_SternShape",
+      "category": "detached-structure",
+      "label": "切出結構組合件 · Detached_SternShape",
+      "status": "combined"
+    },
+    {
+      "id": "DirectorShape",
+      "category": "sensor",
+      "label": "觀測設備 · DirectorShape",
+      "status": "source-group"
+    },
+    {
+      "id": "DirectorShape1",
+      "category": "sensor",
+      "label": "觀測設備 · DirectorShape1",
+      "status": "source-group"
+    },
+    {
+      "id": "DirectorShape2",
+      "category": "sensor",
+      "label": "觀測設備 · DirectorShape2",
+      "status": "source-group"
+    },
+    {
+      "id": "DirectorShape3",
+      "category": "sensor",
+      "label": "觀測設備 · DirectorShape3",
+      "status": "source-group"
+    },
+    {
+      "id": "Director_Type_95_Mod1Shape",
+      "category": "sensor",
+      "label": "觀測設備 · Director_Type_95_Mod1Shape",
+      "status": "source-group"
+    },
+    {
+      "id": "Director_Type_95_Mod1Shape1",
+      "category": "sensor",
+      "label": "觀測設備 · Director_Type_95_Mod1Shape1",
+      "status": "source-group"
+    },
+    {
+      "id": "FairleadShape",
+      "category": "fittings",
+      "label": "甲板設備 · FairleadShape",
+      "status": "source-group"
+    },
+    {
+      "id": "FairleadShape1",
+      "category": "fittings",
+      "label": "甲板設備 · FairleadShape1",
+      "status": "source-group"
+    },
+    {
+      "id": "Fire_Fighting_GearShape",
+      "category": "fittings",
+      "label": "甲板設備 · Fire_Fighting_GearShape",
+      "status": "source-group"
+    },
+    {
+      "id": "Fire_Hose_RackShape",
+      "category": "fittings",
+      "label": "甲板設備 · Fire_Hose_RackShape",
+      "status": "source-group"
+    },
+    {
+      "id": "Fire_Hose_ReelShape",
+      "category": "fittings",
+      "label": "甲板設備 · Fire_Hose_ReelShape",
+      "status": "source-group"
+    },
+    {
+      "id": "Fire_TubeShape",
+      "category": "fittings",
+      "label": "甲板設備 · Fire_TubeShape",
+      "status": "source-group"
+    },
+    {
+      "id": "GridShapem",
+      "category": "rigging",
+      "label": "纜索與欄杆 · GridShapem",
+      "status": "source-group"
+    },
+    {
+      "id": "GunDeckShape2",
+      "category": "fittings",
+      "label": "甲板設備 · GunDeckShape2",
+      "status": "source-group"
+    },
+    {
+      "id": "JD004_Director_Type_94_Shape1",
+      "category": "sensor",
+      "label": "觀測設備 · JD004_Director_Type_94_Shape1",
+      "status": "source-group"
+    },
+    {
+      "id": "JD004_Director_Type_94_Shape11",
+      "category": "sensor",
+      "label": "觀測設備 · JD004_Director_Type_94_Shape11",
+      "status": "source-group"
+    },
+    {
+      "id": "JD022_DirectorShape",
+      "category": "sensor",
+      "label": "觀測設備 · JD022_DirectorShape",
+      "status": "source-group"
+    },
+    {
+      "id": "JD022_DirectorShape1",
+      "category": "sensor",
+      "label": "觀測設備 · JD022_DirectorShape1",
+      "status": "source-group"
+    },
+    {
+      "id": "JF0014Shape",
+      "category": "sensor",
+      "label": "觀測設備 · JF0014Shape",
+      "status": "source-group"
+    },
+    {
+      "id": "JF0014Shape1",
+      "category": "sensor",
+      "label": "觀測設備 · JF0014Shape1",
+      "status": "source-group"
+    },
+    {
+      "id": "JF012_Rangefinder_1_5mShape",
+      "category": "sensor",
+      "label": "觀測設備 · JF012_Rangefinder_1_5mShape",
+      "status": "source-group"
+    },
+    {
+      "id": "JF012_Rangefinder_1_5mShape1",
+      "category": "sensor",
+      "label": "觀測設備 · JF012_Rangefinder_1_5mShape1",
+      "status": "source-group"
+    },
+    {
+      "id": "JM008_SearchlightShape",
+      "category": "fittings",
+      "label": "甲板設備 · JM008_SearchlightShape",
+      "status": "source-group"
+    },
+    {
+      "id": "JM008_SearchlightShape1",
+      "category": "fittings",
+      "label": "甲板設備 · JM008_SearchlightShape1",
+      "status": "source-group"
+    },
+    {
+      "id": "JM00Shape6",
+      "category": "fittings",
+      "label": "甲板設備 · JM00Shape6",
+      "status": "source-group"
+    },
+    {
+      "id": "JM013_Reels_Shape1",
+      "category": "fittings",
+      "label": "甲板設備 · JM013_Reels_Shape1",
+      "status": "source-group"
+    },
+    {
+      "id": "JM014_Reels_Shape2",
+      "category": "fittings",
+      "label": "甲板設備 · JM014_Reels_Shape2",
+      "status": "source-group"
+    },
+    {
+      "id": "JM014_Reels_Shape21",
+      "category": "fittings",
+      "label": "甲板設備 · JM014_Reels_Shape21",
+      "status": "source-group"
+    },
+    {
+      "id": "JM015_Reels_Shape3",
+      "category": "fittings",
+      "label": "甲板設備 · JM015_Reels_Shape3",
+      "status": "source-group"
+    },
+    {
+      "id": "JM015_Reels_Shape31",
+      "category": "fittings",
+      "label": "甲板設備 · JM015_Reels_Shape31",
+      "status": "source-group"
+    },
+    {
+      "id": "JM018_Ventilators_2Shape",
+      "category": "fittings",
+      "label": "甲板設備 · JM018_Ventilators_2Shape",
+      "status": "source-group"
+    },
+    {
+      "id": "JM018_Ventilators_2Shape1",
+      "category": "fittings",
+      "label": "甲板設備 · JM018_Ventilators_2Shape1",
+      "status": "source-group"
+    },
+    {
+      "id": "JM021_VentilatorsShape",
+      "category": "fittings",
+      "label": "甲板設備 · JM021_VentilatorsShape",
+      "status": "source-group"
+    },
+    {
+      "id": "JM021_VentilatorsShape1",
+      "category": "fittings",
+      "label": "甲板設備 · JM021_VentilatorsShape1",
+      "status": "source-group"
+    },
+    {
+      "id": "JM021_VentilatorsShape2",
+      "category": "fittings",
+      "label": "甲板設備 · JM021_VentilatorsShape2",
+      "status": "source-group"
+    },
+    {
+      "id": "JM032_Electric_Deck_WinchShape",
+      "category": "fittings",
+      "label": "甲板設備 · JM032_Electric_Deck_WinchShape",
+      "status": "source-group"
+    },
+    {
+      "id": "JM032_Electric_Deck_WinchShape1",
+      "category": "fittings",
+      "label": "甲板設備 · JM032_Electric_Deck_WinchShape1",
+      "status": "source-group"
+    },
+    {
+      "id": "JM037Shape",
+      "category": "boat",
+      "label": "小艇 · JM037Shape",
+      "status": "source-group"
+    },
+    {
+      "id": "JM044_After_CapstanShape",
+      "category": "fittings",
+      "label": "甲板設備 · JM044_After_CapstanShape",
+      "status": "source-group"
+    },
+    {
+      "id": "JM049_Davit_2Shape",
+      "category": "fittings",
+      "label": "甲板設備 · JM049_Davit_2Shape",
+      "status": "source-group"
+    },
+    {
+      "id": "JM049_Davit_2Shape1",
+      "category": "fittings",
+      "label": "甲板設備 · JM049_Davit_2Shape1",
+      "status": "source-group"
+    },
+    {
+      "id": "JM049_Davit_3Shape",
+      "category": "fittings",
+      "label": "甲板設備 · JM049_Davit_3Shape",
+      "status": "source-group"
+    },
+    {
+      "id": "JM049_Davit_3Shape1",
+      "category": "fittings",
+      "label": "甲板設備 · JM049_Davit_3Shape1",
+      "status": "source-group"
+    },
+    {
+      "id": "JM058_Deck_Hatch_7Shape",
+      "category": "fittings",
+      "label": "甲板設備 · JM058_Deck_Hatch_7Shape",
+      "status": "source-group"
+    },
+    {
+      "id": "JM058_Deck_Hatch_7Shape1",
+      "category": "fittings",
+      "label": "甲板設備 · JM058_Deck_Hatch_7Shape1",
+      "status": "source-group"
+    },
+    {
+      "id": "JM058_Deck_Hatch_7Shape2",
+      "category": "fittings",
+      "label": "甲板設備 · JM058_Deck_Hatch_7Shape2",
+      "status": "source-group"
+    },
+    {
+      "id": "JM059_Deck_HatchShape",
+      "category": "fittings",
+      "label": "甲板設備 · JM059_Deck_HatchShape",
+      "status": "source-group"
+    },
+    {
+      "id": "JM059_Deck_HatchShape1",
+      "category": "fittings",
+      "label": "甲板設備 · JM059_Deck_HatchShape1",
+      "status": "source-group"
+    },
+    {
+      "id": "JM059_Deck_HatchShape2",
+      "category": "fittings",
+      "label": "甲板設備 · JM059_Deck_HatchShape2",
+      "status": "source-group"
+    },
+    {
+      "id": "JM059_Deck_HatchShape3",
+      "category": "fittings",
+      "label": "甲板設備 · JM059_Deck_HatchShape3",
+      "status": "source-group"
+    },
+    {
+      "id": "JM061_Deck_HatchShape",
+      "category": "fittings",
+      "label": "甲板設備 · JM061_Deck_HatchShape",
+      "status": "source-group"
+    },
+    {
+      "id": "JM061_Deck_HatchShape1",
+      "category": "fittings",
+      "label": "甲板設備 · JM061_Deck_HatchShape1",
+      "status": "source-group"
+    },
+    {
+      "id": "JM061_Deck_HatchShape2",
+      "category": "fittings",
+      "label": "甲板設備 · JM061_Deck_HatchShape2",
+      "status": "source-group"
+    },
+    {
+      "id": "JM061_Deck_HatchShape3",
+      "category": "fittings",
+      "label": "甲板設備 · JM061_Deck_HatchShape3",
+      "status": "source-group"
+    },
+    {
+      "id": "JM062_Deck_Hatch_Shape11",
+      "category": "fittings",
+      "label": "甲板設備 · JM062_Deck_Hatch_Shape11",
+      "status": "source-group"
+    },
+    {
+      "id": "JM062_Deck_Hatch_Shape111",
+      "category": "fittings",
+      "label": "甲板設備 · JM062_Deck_Hatch_Shape111",
+      "status": "source-group"
+    },
+    {
+      "id": "JM062_Deck_Hatch_Shape112",
+      "category": "fittings",
+      "label": "甲板設備 · JM062_Deck_Hatch_Shape112",
+      "status": "source-group"
+    },
+    {
+      "id": "JM062_Deck_Hatch_Shape113",
+      "category": "fittings",
+      "label": "甲板設備 · JM062_Deck_Hatch_Shape113",
+      "status": "source-group"
+    },
+    {
+      "id": "JM063_Sky_LightShape",
+      "category": "fittings",
+      "label": "甲板設備 · JM063_Sky_LightShape",
+      "status": "source-group"
+    },
+    {
+      "id": "JM063_Sky_LightShape1",
+      "category": "fittings",
+      "label": "甲板設備 · JM063_Sky_LightShape1",
+      "status": "source-group"
+    },
+    {
+      "id": "JM063_Sky_LightShape2",
+      "category": "fittings",
+      "label": "甲板設備 · JM063_Sky_LightShape2",
+      "status": "source-group"
+    },
+    {
+      "id": "JM089_Signal_Platform_1Shape",
+      "category": "fittings",
+      "label": "甲板設備 · JM089_Signal_Platform_1Shape",
+      "status": "source-group"
+    },
+    {
+      "id": "JM0Shape38",
+      "category": "boat",
+      "label": "小艇 · JM0Shape38",
+      "status": "source-group"
+    },
+    {
+      "id": "JM0Shape39",
+      "category": "boat",
+      "label": "小艇 · JM0Shape39",
+      "status": "source-group"
+    },
+    {
+      "id": "JM107Shape",
+      "category": "fittings",
+      "label": "甲板設備 · JM107Shape",
+      "status": "source-group"
+    },
+    {
+      "id": "JM107Shape1",
+      "category": "fittings",
+      "label": "甲板設備 · JM107Shape1",
+      "status": "source-group"
+    },
+    {
+      "id": "JM107Shape2",
+      "category": "fittings",
+      "label": "甲板設備 · JM107Shape2",
+      "status": "source-group"
+    },
+    {
+      "id": "JM107Shape3",
+      "category": "fittings",
+      "label": "甲板設備 · JM107Shape3",
+      "status": "source-group"
+    },
+    {
+      "id": "JM114_Fuse_Second_ControllerShape",
+      "category": "fittings",
+      "label": "甲板設備 · JM114_Fuse_Second_ControllerShape",
+      "status": "source-group"
+    },
+    {
+      "id": "JM114_Fuse_Second_ControllerShape1",
+      "category": "fittings",
+      "label": "甲板設備 · JM114_Fuse_Second_ControllerShape1",
+      "status": "source-group"
+    },
+    {
+      "id": "JM117_Crew_Exercise_MachineShape",
+      "category": "fittings",
+      "label": "甲板設備 · JM117_Crew_Exercise_MachineShape",
+      "status": "source-group"
+    },
+    {
+      "id": "JM124_Signal_Lamp_Shape2",
+      "category": "fittings",
+      "label": "甲板設備 · JM124_Signal_Lamp_Shape2",
+      "status": "source-group"
+    },
+    {
+      "id": "JM125_Signal_Lamp_Shape3",
+      "category": "fittings",
+      "label": "甲板設備 · JM125_Signal_Lamp_Shape3",
+      "status": "source-group"
+    },
+    {
+      "id": "JM125_Signal_Lamp_Shape31",
+      "category": "fittings",
+      "label": "甲板設備 · JM125_Signal_Lamp_Shape31",
+      "status": "source-group"
+    },
+    {
+      "id": "JM125_Signal_Lamp_Shape32",
+      "category": "fittings",
+      "label": "甲板設備 · JM125_Signal_Lamp_Shape32",
+      "status": "source-group"
+    },
+    {
+      "id": "JM125_Signal_Lamp_Shape33",
+      "category": "fittings",
+      "label": "甲板設備 · JM125_Signal_Lamp_Shape33",
+      "status": "source-group"
+    },
+    {
+      "id": "JM126_Signal_Lamp_Shape4",
+      "category": "fittings",
+      "label": "甲板設備 · JM126_Signal_Lamp_Shape4",
+      "status": "source-group"
+    },
+    {
+      "id": "JM137Shape",
+      "category": "fittings",
+      "label": "甲板設備 · JM137Shape",
+      "status": "source-group"
+    },
+    {
+      "id": "JM140_Binocular_4Shape",
+      "category": "fittings",
+      "label": "甲板設備 · JM140_Binocular_4Shape",
+      "status": "source-group"
+    },
+    {
+      "id": "JM165_Telegraph_EngineShape",
+      "category": "fittings",
+      "label": "甲板設備 · JM165_Telegraph_EngineShape",
+      "status": "source-group"
+    },
+    {
+      "id": "JM166_Voice_TubeShape",
+      "category": "fittings",
+      "label": "甲板設備 · JM166_Voice_TubeShape",
+      "status": "source-group"
+    },
+    {
+      "id": "JM189_Compass_BinnacleShape",
+      "category": "fittings",
+      "label": "甲板設備 · JM189_Compass_BinnacleShape",
+      "status": "source-group"
+    },
+    {
+      "id": "JM220_611mm_93TorpedoShape",
+      "category": "fittings",
+      "label": "甲板設備 · JM220_611mm_93TorpedoShape",
+      "status": "source-group"
+    },
+    {
+      "id": "JM238_Speaker_tube_2Shape",
+      "category": "fittings",
+      "label": "甲板設備 · JM238_Speaker_tube_2Shape",
+      "status": "source-group"
+    },
+    {
+      "id": "JM240_Speaker_tube_4Shape",
+      "category": "fittings",
+      "label": "甲板設備 · JM240_Speaker_tube_4Shape",
+      "status": "source-group"
+    },
+    {
+      "id": "JM241_Speaker_tube_group_LShape",
+      "category": "fittings",
+      "label": "甲板設備 · JM241_Speaker_tube_group_LShape",
+      "status": "source-group"
+    },
+    {
+      "id": "JM242_Speaker_tube_group_RShape",
+      "category": "fittings",
+      "label": "甲板設備 · JM242_Speaker_tube_group_RShape",
+      "status": "source-group"
+    },
+    {
+      "id": "JM244_Gyro_2Shape",
+      "category": "fittings",
+      "label": "甲板設備 · JM244_Gyro_2Shape",
+      "status": "source-group"
+    },
+    {
+      "id": "JM249_Gauge_Shape1",
+      "category": "fittings",
+      "label": "甲板設備 · JM249_Gauge_Shape1",
+      "status": "source-group"
+    },
+    {
+      "id": "JM250_Gauge_Shape2",
+      "category": "fittings",
+      "label": "甲板設備 · JM250_Gauge_Shape2",
+      "status": "source-group"
+    },
+    {
+      "id": "JM251_Gauge_Shape3",
+      "category": "fittings",
+      "label": "甲板設備 · JM251_Gauge_Shape3",
+      "status": "source-group"
+    },
+    {
+      "id": "JM252_Gauge_Shape4",
+      "category": "fittings",
+      "label": "甲板設備 · JM252_Gauge_Shape4",
+      "status": "source-group"
+    },
+    {
+      "id": "JM253_Gauge_Shape5",
+      "category": "fittings",
+      "label": "甲板設備 · JM253_Gauge_Shape5",
+      "status": "source-group"
+    },
+    {
+      "id": "JM254_Gauge_Shape6",
+      "category": "fittings",
+      "label": "甲板設備 · JM254_Gauge_Shape6",
+      "status": "source-group"
+    },
+    {
+      "id": "JM255_Double_GaugeShape",
+      "category": "fittings",
+      "label": "甲板設備 · JM255_Double_GaugeShape",
+      "status": "source-group"
+    },
+    {
+      "id": "JM257_ClockShape",
+      "category": "fittings",
+      "label": "甲板設備 · JM257_ClockShape",
+      "status": "source-group"
+    },
+    {
+      "id": "JM259_Gauge_Shape8",
+      "category": "fittings",
+      "label": "甲板設備 · JM259_Gauge_Shape8",
+      "status": "source-group"
+    },
+    {
+      "id": "JM261_Fuse_box_1Shape",
+      "category": "fittings",
+      "label": "甲板設備 · JM261_Fuse_box_1Shape",
+      "status": "source-group"
+    },
+    {
+      "id": "JM263_Small_fuse_boxShape",
+      "category": "fittings",
+      "label": "甲板設備 · JM263_Small_fuse_boxShape",
+      "status": "source-group"
+    },
+    {
+      "id": "JM264_Wall_trigger_Shape1",
+      "category": "fittings",
+      "label": "甲板設備 · JM264_Wall_trigger_Shape1",
+      "status": "source-group"
+    },
+    {
+      "id": "JM265_Wall_trigger_2Shape",
+      "category": "fittings",
+      "label": "甲板設備 · JM265_Wall_trigger_2Shape",
+      "status": "source-group"
+    },
+    {
+      "id": "JM266_Wall_trigger_Shape3",
+      "category": "fittings",
+      "label": "甲板設備 · JM266_Wall_trigger_Shape3",
+      "status": "source-group"
+    },
+    {
+      "id": "JRS007_Radar_Type_22_LShape",
+      "category": "sensor",
+      "label": "觀測設備 · JRS007_Radar_Type_22_LShape",
+      "status": "source-group"
+    },
+    {
+      "id": "JRS037_Radar_Type_22_R1Shape",
+      "category": "sensor",
+      "label": "觀測設備 · JRS037_Radar_Type_22_R1Shape",
+      "status": "source-group"
+    },
+    {
+      "id": "Ladder_ClosedShape",
+      "category": "fittings",
+      "label": "甲板設備 · Ladder_ClosedShape",
+      "status": "source-group"
+    },
+    {
+      "id": "Life_BuoyShape",
+      "category": "fittings",
+      "label": "甲板設備 · Life_BuoyShape",
+      "status": "source-group"
+    },
+    {
+      "id": "Life_BuoyShape1",
+      "category": "fittings",
+      "label": "甲板設備 · Life_BuoyShape1",
+      "status": "source-group"
+    },
+    {
+      "id": "Life_BuoyShape2",
+      "category": "fittings",
+      "label": "甲板設備 · Life_BuoyShape2",
+      "status": "source-group"
+    },
+    {
+      "id": "Life_Buoy_boxShape",
+      "category": "fittings",
+      "label": "甲板設備 · Life_Buoy_boxShape",
+      "status": "source-group"
+    },
+    {
+      "id": "MainWheelShape",
+      "category": "fittings",
+      "label": "甲板設備 · MainWheelShape",
+      "status": "source-group"
+    },
+    {
+      "id": "MidBack_DeckHouseShape",
+      "category": "superstructure",
+      "label": "後部上層建築（組合件）",
+      "status": "combined"
+    },
+    {
+      "id": "MidBack_patch_Stern_wireShape",
+      "category": "rigging",
+      "label": "纜索與欄杆 · MidBack_patch_Stern_wireShape",
+      "status": "source-group"
+    },
+    {
+      "id": "MidBack_wireShape",
+      "category": "rigging",
+      "label": "纜索與欄杆 · MidBack_wireShape",
+      "status": "source-group"
+    },
+    {
+      "id": "MidFront_DeckHouseShape",
+      "category": "superstructure",
+      "label": "艦橋與前部上層建築（組合件）",
+      "status": "combined"
+    },
+    {
+      "id": "MidFront_patch_MidBack_DeckHouseShape",
+      "category": "superstructure",
+      "label": "中央上層建築（組合件）",
+      "status": "combined"
+    },
+    {
+      "id": "MidFront_patch_MidBack_wireShape",
+      "category": "rigging",
+      "label": "纜索與欄杆 · MidFront_patch_MidBack_wireShape",
+      "status": "source-group"
+    },
+    {
+      "id": "MidFront_wireShape",
+      "category": "rigging",
+      "label": "纜索與欄杆 · MidFront_wireShape",
+      "status": "source-group"
+    },
+    {
+      "id": "ParavaneShape",
+      "category": "fittings",
+      "label": "甲板設備 · ParavaneShape",
+      "status": "source-group"
+    },
+    {
+      "id": "PlatformShape",
+      "category": "fittings",
+      "label": "甲板設備 · PlatformShape",
+      "status": "source-group"
+    },
+    {
+      "id": "Propeller_meshShape",
+      "category": "propulsion",
+      "label": "螺旋槳 · Propeller_meshShape",
+      "status": "source-group"
+    },
+    {
+      "id": "Propeller_meshShape1",
+      "category": "propulsion",
+      "label": "螺旋槳 · Propeller_meshShape1",
+      "status": "source-group"
+    },
+    {
+      "id": "Propeller_meshShape2",
+      "category": "propulsion",
+      "label": "螺旋槳 · Propeller_meshShape2",
+      "status": "source-group"
+    },
+    {
+      "id": "Propeller_meshShape3",
+      "category": "propulsion",
+      "label": "螺旋槳 · Propeller_meshShape3",
+      "status": "source-group"
+    },
+    {
+      "id": "RadarShape",
+      "category": "sensor",
+      "label": "觀測設備 · RadarShape",
+      "status": "source-group"
+    },
+    {
+      "id": "RadarShape1",
+      "category": "sensor",
+      "label": "觀測設備 · RadarShape1",
+      "status": "source-group"
+    },
+    {
+      "id": "RadarStandShape",
+      "category": "sensor",
+      "label": "觀測設備 · RadarStandShape",
+      "status": "source-group"
+    },
+    {
+      "id": "RangefinderShape",
+      "category": "sensor",
+      "label": "觀測設備 · RangefinderShape",
+      "status": "source-group"
+    },
+    {
+      "id": "RollerFairledShape",
+      "category": "fittings",
+      "label": "甲板設備 · RollerFairledShape",
+      "status": "source-group"
+    },
+    {
+      "id": "RollerFairledShape1",
+      "category": "fittings",
+      "label": "甲板設備 · RollerFairledShape1",
+      "status": "source-group"
+    },
+    {
+      "id": "Rotate_YShape",
+      "category": "fittings",
+      "label": "甲板設備 · Rotate_YShape",
+      "status": "source-group"
+    },
+    {
+      "id": "RunningLightsLShape",
+      "category": "fittings",
+      "label": "甲板設備 · RunningLightsLShape",
+      "status": "source-group"
+    },
+    {
+      "id": "RunningLightsRShape",
+      "category": "fittings",
+      "label": "甲板設備 · RunningLightsRShape",
+      "status": "source-group"
+    },
+    {
+      "id": "ScreenSmokeShape",
+      "category": "fittings",
+      "label": "甲板設備 · ScreenSmokeShape",
+      "status": "source-group"
+    },
+    {
+      "id": "Stern_wireShape",
+      "category": "rigging",
+      "label": "纜索與欄杆 · Stern_wireShape",
+      "status": "source-group"
+    },
+    {
+      "id": "TurretShape",
+      "category": "main-gun",
+      "label": "主砲 · TurretShape",
+      "status": "source-group"
+    },
+    {
+      "id": "TurretShape1",
+      "category": "main-gun",
+      "label": "主砲 · TurretShape1",
+      "status": "source-group"
+    },
+    {
+      "id": "TurretShape2",
+      "category": "main-gun",
+      "label": "主砲 · TurretShape2",
+      "status": "source-group"
+    },
+    {
+      "id": "TurretShape3",
+      "category": "secondary-gun",
+      "label": "副砲 · TurretShape3",
+      "status": "source-group"
+    },
+    {
+      "id": "TurretShape4",
+      "category": "secondary-gun",
+      "label": "副砲 · TurretShape4",
+      "status": "source-group"
+    },
+    {
+      "id": "TurretShape5",
+      "category": "secondary-gun",
+      "label": "副砲 · TurretShape5",
+      "status": "source-group"
+    },
+    {
+      "id": "TurretShape6",
+      "category": "secondary-gun",
+      "label": "副砲 · TurretShape6",
+      "status": "source-group"
+    },
+    {
+      "id": "TurretShape7",
+      "category": "main-gun",
+      "label": "主砲 · TurretShape7",
+      "status": "source-group"
+    },
+    {
+      "id": "TurretShape8",
+      "category": "main-gun",
+      "label": "主砲 · TurretShape8",
+      "status": "source-group"
+    },
+    {
+      "id": "Type93LShape",
+      "category": "torpedo",
+      "label": "魚雷發射器 · Type93LShape",
+      "status": "source-group"
+    },
+    {
+      "id": "Type93LShape1",
+      "category": "torpedo",
+      "label": "魚雷發射器 · Type93LShape1",
+      "status": "source-group"
+    },
+    {
+      "id": "Type93RShape",
+      "category": "torpedo",
+      "label": "魚雷發射器 · Type93RShape",
+      "status": "source-group"
+    },
+    {
+      "id": "Type93RShape1",
+      "category": "torpedo",
+      "label": "魚雷發射器 · Type93RShape1",
+      "status": "source-group"
+    },
+    {
+      "id": "Ventilators2Shape",
+      "category": "fittings",
+      "label": "甲板設備 · Ventilators2Shape",
+      "status": "source-group"
+    },
+    {
+      "id": "Ventilators2Shape1",
+      "category": "fittings",
+      "label": "甲板設備 · Ventilators2Shape1",
+      "status": "source-group"
+    },
+    {
+      "id": "Ventilators2Shape2",
+      "category": "fittings",
+      "label": "甲板設備 · Ventilators2Shape2",
+      "status": "source-group"
+    },
+    {
+      "id": "Ventilators3Shape",
+      "category": "fittings",
+      "label": "甲板設備 · Ventilators3Shape",
+      "status": "source-group"
+    },
+    {
+      "id": "Ventilators3Shape1",
+      "category": "fittings",
+      "label": "甲板設備 · Ventilators3Shape1",
+      "status": "source-group"
+    },
+    {
+      "id": "Ventilators3Shape2",
+      "category": "fittings",
+      "label": "甲板設備 · Ventilators3Shape2",
+      "status": "source-group"
+    },
+    {
+      "id": "Ventilators3Shape3",
+      "category": "fittings",
+      "label": "甲板設備 · Ventilators3Shape3",
+      "status": "source-group"
+    },
+    {
+      "id": "VentilatorsShape",
+      "category": "fittings",
+      "label": "甲板設備 · VentilatorsShape",
+      "status": "source-group"
+    },
+    {
+      "id": "VentilatorsShape1",
+      "category": "fittings",
+      "label": "甲板設備 · VentilatorsShape1",
+      "status": "source-group"
+    },
+    {
+      "id": "WindDirectionShape",
+      "category": "fittings",
+      "label": "甲板設備 · WindDirectionShape",
+      "status": "source-group"
+    },
+    {
+      "id": "WindIntensityShape",
+      "category": "fittings",
+      "label": "甲板設備 · WindIntensityShape",
+      "status": "source-group"
+    },
+    {
+      "id": "miscShape",
+      "category": "fittings",
+      "label": "甲板設備 · miscShape",
+      "status": "source-group"
+    },
+    {
+      "id": "miscShape1",
+      "category": "fittings",
+      "label": "甲板設備 · miscShape1",
+      "status": "source-group"
+    },
+    {
+      "id": "signallampShape",
+      "category": "fittings",
+      "label": "甲板設備 · signallampShape",
+      "status": "source-group"
+    },
+    {
+      "id": "singleTurretShape",
+      "category": "anti-air",
+      "label": "防空砲 · singleTurretShape",
+      "status": "source-group"
+    },
+    {
+      "id": "singleTurretShape1",
+      "category": "anti-air",
+      "label": "防空砲 · singleTurretShape1",
+      "status": "source-group"
+    },
+    {
+      "id": "singleTurretShape10",
+      "category": "anti-air",
+      "label": "防空砲 · singleTurretShape10",
+      "status": "source-group"
+    },
+    {
+      "id": "singleTurretShape11",
+      "category": "anti-air",
+      "label": "防空砲 · singleTurretShape11",
+      "status": "source-group"
+    },
+    {
+      "id": "singleTurretShape12",
+      "category": "anti-air",
+      "label": "防空砲 · singleTurretShape12",
+      "status": "source-group"
+    },
+    {
+      "id": "singleTurretShape13",
+      "category": "anti-air",
+      "label": "防空砲 · singleTurretShape13",
+      "status": "source-group"
+    },
+    {
+      "id": "singleTurretShape14",
+      "category": "anti-air",
+      "label": "防空砲 · singleTurretShape14",
+      "status": "source-group"
+    },
+    {
+      "id": "singleTurretShape15",
+      "category": "anti-air",
+      "label": "防空砲 · singleTurretShape15",
+      "status": "source-group"
+    },
+    {
+      "id": "singleTurretShape16",
+      "category": "anti-air",
+      "label": "防空砲 · singleTurretShape16",
+      "status": "source-group"
+    },
+    {
+      "id": "singleTurretShape17",
+      "category": "anti-air",
+      "label": "防空砲 · singleTurretShape17",
+      "status": "source-group"
+    },
+    {
+      "id": "singleTurretShape18",
+      "category": "anti-air",
+      "label": "防空砲 · singleTurretShape18",
+      "status": "source-group"
+    },
+    {
+      "id": "singleTurretShape19",
+      "category": "anti-air",
+      "label": "防空砲 · singleTurretShape19",
+      "status": "source-group"
+    },
+    {
+      "id": "singleTurretShape2",
+      "category": "anti-air",
+      "label": "防空砲 · singleTurretShape2",
+      "status": "source-group"
+    },
+    {
+      "id": "singleTurretShape20",
+      "category": "anti-air",
+      "label": "防空砲 · singleTurretShape20",
+      "status": "source-group"
+    },
+    {
+      "id": "singleTurretShape21",
+      "category": "anti-air",
+      "label": "防空砲 · singleTurretShape21",
+      "status": "source-group"
+    },
+    {
+      "id": "singleTurretShape22",
+      "category": "anti-air",
+      "label": "防空砲 · singleTurretShape22",
+      "status": "source-group"
+    },
+    {
+      "id": "singleTurretShape23",
+      "category": "anti-air",
+      "label": "防空砲 · singleTurretShape23",
+      "status": "source-group"
+    },
+    {
+      "id": "singleTurretShape24",
+      "category": "anti-air",
+      "label": "防空砲 · singleTurretShape24",
+      "status": "source-group"
+    },
+    {
+      "id": "singleTurretShape25",
+      "category": "anti-air",
+      "label": "防空砲 · singleTurretShape25",
+      "status": "source-group"
+    },
+    {
+      "id": "singleTurretShape26",
+      "category": "anti-air",
+      "label": "防空砲 · singleTurretShape26",
+      "status": "source-group"
+    },
+    {
+      "id": "singleTurretShape27",
+      "category": "anti-air",
+      "label": "防空砲 · singleTurretShape27",
+      "status": "source-group"
+    },
+    {
+      "id": "singleTurretShape3",
+      "category": "anti-air",
+      "label": "防空砲 · singleTurretShape3",
+      "status": "source-group"
+    },
+    {
+      "id": "singleTurretShape4",
+      "category": "anti-air",
+      "label": "防空砲 · singleTurretShape4",
+      "status": "source-group"
+    },
+    {
+      "id": "singleTurretShape5",
+      "category": "anti-air",
+      "label": "防空砲 · singleTurretShape5",
+      "status": "source-group"
+    },
+    {
+      "id": "singleTurretShape6",
+      "category": "anti-air",
+      "label": "防空砲 · singleTurretShape6",
+      "status": "source-group"
+    },
+    {
+      "id": "singleTurretShape7",
+      "category": "anti-air",
+      "label": "防空砲 · singleTurretShape7",
+      "status": "source-group"
+    },
+    {
+      "id": "singleTurretShape8",
+      "category": "anti-air",
+      "label": "防空砲 · singleTurretShape8",
+      "status": "source-group"
+    },
+    {
+      "id": "singleTurretShape9",
+      "category": "anti-air",
+      "label": "防空砲 · singleTurretShape9",
+      "status": "source-group"
+    }
+  ],
+  "original_removed": 229,
+  "cut_from_hull": 7
+}

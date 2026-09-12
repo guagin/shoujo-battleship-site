@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="zh-Hant"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>造艦工坊 · TIDEBOUND</title>  <script type="module" crossorigin src="./assets/shipyard-Dkm4o44H.js"></script>
+  <link rel="modulepreload" crossorigin href="./assets/GLTFLoader-BKIkM3-9.js">
+  <link rel="modulepreload" crossorigin href="./assets/gun-refit-HOuBV2ql.js">
+  <link rel="modulepreload" crossorigin href="./assets/OrbitControls-C1TVyBCG.js">
+  <link rel="stylesheet" crossorigin href="./assets/shipyard-X--MYyG2.css">
+</head><body>
+<header><div><small>TIDEBOUND</small><h1>戰艦改裝</h1></div><nav aria-label="改裝步驟"><button data-step="1" aria-current="step">01 選艦</button><button data-step="2">02 改裝</button><button data-step="3">03 確認</button></nav><a href="./">返回海域</a></header>
+<main><aside>
+<section data-panel="1"><span class="eyebrow">完整艦艇 · 原裝配置</span><h2>選擇你的戰艦</h2><p>從配備完整的戰艦開始，只更換你想改裝的裝備。</p><label class="hull-card">巡洋艦<select id="hull" aria-label="艦艇"><option>ARP 高雄</option></select><span>原裝武器、上層建築與附件</span></label><p class="note">目前提供一款艦艇，所有設備已有固定安裝位置。</p><button class="primary" id="start" disabled>選擇要改裝的裝備 →</button><button id="load">讀取改裝存檔</button></section>
+<section data-panel="2" hidden><span class="eyebrow">選裝備，再選型號</span><h2>局部改裝</h2><div id="module-tabs" class="module-tabs" aria-label="改裝類別"></div><label>要改裝哪一座？<select id="installed" aria-label="現有裝備"></select></label><article class="module-card"><small id="module-kind"></small><h3 id="module-title">正在準備設備</h3><p id="module-description"></p><label>替換型號<select id="part" aria-label="替換型號"></select></label><button id="suggest">預覽替換</button><button class="primary" id="confirm">套用改裝</button><button id="add">取消預覽</button></article><div class="row"><button id="move">查看設備</button><button id="remove">恢復原裝</button></div><p class="note">已改裝 <span id="installed-count">0</span> 座。現有型號庫仍在擴充。</p><button class="next" id="review">確認改裝 →</button></section>
+<section data-panel="3" hidden><span class="eyebrow">回顧你的選擇</span><h2>改裝結果</h2><p>未改裝的裝備沿用原裝配置。</p><div id="configuration-summary"></div><p class="note">此版本儲存裝備替換結果。動力、射界與戰鬥能力尚未接入。</p><button class="primary" id="save">儲存改裝</button><button id="back-edit">繼續改裝</button></section>
+<p id="status" role="status" aria-live="polite">正在準備船體…</p></aside>
+<div id="viewport"><div class="view-label"><small>SHIP REFIT / 01</small><span>ARP 高雄 · 完整艦艇</span></div><div class="view-actions"><button id="reset-view">全艦視角</button></div><p class="view-help">拖曳旋轉視角 · 滾輪縮放 · 點選裝備改裝</p></div>
+</main></body></html>

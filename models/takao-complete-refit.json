@@ -1,0 +1,239 @@
+{
+  "objects": 237,
+  "slots": [
+    {
+      "id": "CatapultShape",
+      "category": "aviation",
+      "label": "彈射架 1"
+    },
+    {
+      "id": "CatapultShape1",
+      "category": "aviation",
+      "label": "彈射架 2"
+    },
+    {
+      "id": "TurretShape",
+      "category": "main-gun",
+      "label": "主砲 1"
+    },
+    {
+      "id": "TurretShape1",
+      "category": "main-gun",
+      "label": "主砲 2"
+    },
+    {
+      "id": "TurretShape2",
+      "category": "main-gun",
+      "label": "主砲 3"
+    },
+    {
+      "id": "TurretShape3",
+      "category": "secondary-gun",
+      "label": "副砲 1"
+    },
+    {
+      "id": "TurretShape4",
+      "category": "secondary-gun",
+      "label": "副砲 2"
+    },
+    {
+      "id": "TurretShape5",
+      "category": "secondary-gun",
+      "label": "副砲 3"
+    },
+    {
+      "id": "TurretShape6",
+      "category": "secondary-gun",
+      "label": "副砲 4"
+    },
+    {
+      "id": "TurretShape7",
+      "category": "main-gun",
+      "label": "主砲 4"
+    },
+    {
+      "id": "TurretShape8",
+      "category": "main-gun",
+      "label": "主砲 5"
+    },
+    {
+      "id": "Type93LShape",
+      "category": "torpedo",
+      "label": "魚雷 1"
+    },
+    {
+      "id": "Type93LShape1",
+      "category": "torpedo",
+      "label": "魚雷 2"
+    },
+    {
+      "id": "Type93RShape",
+      "category": "torpedo",
+      "label": "魚雷 3"
+    },
+    {
+      "id": "Type93RShape1",
+      "category": "torpedo",
+      "label": "魚雷 4"
+    },
+    {
+      "id": "refit_bridge",
+      "category": "bridge",
+      "label": "艦橋 1"
+    },
+    {
+      "id": "refit_funnel",
+      "category": "engine",
+      "label": "煙囪 1"
+    },
+    {
+      "id": "singleTurretShape",
+      "category": "anti-air",
+      "label": "防空砲 1"
+    },
+    {
+      "id": "singleTurretShape1",
+      "category": "anti-air",
+      "label": "防空砲 2"
+    },
+    {
+      "id": "singleTurretShape10",
+      "category": "anti-air",
+      "label": "防空砲 3"
+    },
+    {
+      "id": "singleTurretShape11",
+      "category": "anti-air",
+      "label": "防空砲 4"
+    },
+    {
+      "id": "singleTurretShape12",
+      "category": "anti-air",
+      "label": "防空砲 5"
+    },
+    {
+      "id": "singleTurretShape13",
+      "category": "anti-air",
+      "label": "防空砲 6"
+    },
+    {
+      "id": "singleTurretShape14",
+      "category": "anti-air",
+      "label": "防空砲 7"
+    },
+    {
+      "id": "singleTurretShape15",
+      "category": "anti-air",
+      "label": "防空砲 8"
+    },
+    {
+      "id": "singleTurretShape16",
+      "category": "anti-air",
+      "label": "防空砲 9"
+    },
+    {
+      "id": "singleTurretShape17",
+      "category": "anti-air",
+      "label": "防空砲 10"
+    },
+    {
+      "id": "singleTurretShape18",
+      "category": "anti-air",
+      "label": "防空砲 11"
+    },
+    {
+      "id": "singleTurretShape19",
+      "category": "anti-air",
+      "label": "防空砲 12"
+    },
+    {
+      "id": "singleTurretShape2",
+      "category": "anti-air",
+      "label": "防空砲 13"
+    },
+    {
+      "id": "singleTurretShape20",
+      "category": "anti-air",
+      "label": "防空砲 14"
+    },
+    {
+      "id": "singleTurretShape21",
+      "category": "anti-air",
+      "label": "防空砲 15"
+    },
+    {
+      "id": "singleTurretShape22",
+      "category": "anti-air",
+      "label": "防空砲 16"
+    },
+    {
+      "id": "singleTurretShape23",
+      "category": "anti-air",
+      "label": "防空砲 17"
+    },
+    {
+      "id": "singleTurretShape24",
+      "category": "anti-air",
+      "label": "防空砲 18"
+    },
+    {
+      "id": "singleTurretShape25",
+      "category": "anti-air",
+      "label": "防空砲 19"
+    },
+    {
+      "id": "singleTurretShape26",
+      "category": "anti-air",
+      "label": "防空砲 20"
+    },
+    {
+      "id": "singleTurretShape27",
+      "category": "anti-air",
+      "label": "防空砲 21"
+    },
+    {
+      "id": "singleTurretShape3",
+      "category": "anti-air",
+      "label": "防空砲 22"
+    },
+    {
+      "id": "singleTurretShape4",
+      "category": "anti-air",
+      "label": "防空砲 23"
+    },
+    {
+      "id": "singleTurretShape5",
+      "category": "anti-air",
+      "label": "防空砲 24"
+    },
+    {
+      "id": "singleTurretShape6",
+      "category": "anti-air",
+      "label": "防空砲 25"
+    },
+    {
+      "id": "singleTurretShape7",
+      "category": "anti-air",
+      "label": "防空砲 26"
+    },
+    {
+      "id": "singleTurretShape8",
+      "category": "anti-air",
+      "label": "防空砲 27"
+    },
+    {
+      "id": "singleTurretShape9",
+      "category": "anti-air",
+      "label": "防空砲 28"
+    }
+  ],
+  "counts": {
+    "aviation": 2,
+    "main-gun": 5,
+    "secondary-gun": 4,
+    "torpedo": 4,
+    "bridge": 1,
+    "engine": 1,
+    "anti-air": 28
+  }
+}
