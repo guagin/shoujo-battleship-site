@@ -1,0 +1,38 @@
+{
+  "smoke": {
+    "source": "SmokeSprite1.exr",
+    "sha256": "72eb6f1782a42578fc83731c5f9860e22e5a8c25ac2f6617b4da001e494e9b8b",
+    "grid": [
+      6,
+      6
+    ],
+    "frames": 36,
+    "cellSize": 128,
+    "size": [
+      768,
+      768
+    ],
+    "colorSpace": "linear",
+    "alpha": "straight",
+    "bytes": 397849,
+    "rgba8BytesWithMipmapsApprox": 3145728
+  },
+  "fire": {
+    "source": "FireSprite1.exr",
+    "sha256": "25fb16a5d2563947e70d886834442a9e62923dc4c71b1893769d6d03641de5d2",
+    "grid": [
+      6,
+      6
+    ],
+    "frames": 36,
+    "cellSize": 128,
+    "size": [
+      768,
+      768
+    ],
+    "colorSpace": "linear",
+    "alpha": "straight",
+    "bytes": 289490,
+    "rgba8BytesWithMipmapsApprox": 3145728
+  }
+}

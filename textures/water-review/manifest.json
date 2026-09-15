@@ -1,0 +1,15 @@
+{
+  "source": "Physical Water FX Deluxe 4.3 / water_decals.blend",
+  "groups": [
+    "Foam 1 [DECAL]",
+    "Foam 2 [DECAL]"
+  ],
+  "size": 512,
+  "channels": {
+    "R": "Blender low-frequency distortion noise",
+    "G": "56_sea water foam texture-seamless (1).jpg luminance",
+    "B": "water_river_foam_bsm_Mat_BaseColor.png luminance"
+  },
+  "runtime": "static linear RGB texture, mipmapped; existing wake shader animation",
+  "bytes": 650682
+}

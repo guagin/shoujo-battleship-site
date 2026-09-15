@@ -1,0 +1,425 @@
+{
+  "version": 2,
+  "asset": "yukikaze",
+  "sourceSHA256": "cfc7043b7127ee186f5569495a24c646ba1af3ca228c09283ea87f771839126f",
+  "padding": 16,
+  "constantSpecularMaterials": {},
+  "atlases": [
+    {
+      "id": 0,
+      "role": "detail",
+      "width": 1024,
+      "height": 2048,
+      "materials": {
+        "JM038_Motor_Boats_11m_580": {
+          "x": 16,
+          "y": 16,
+          "width": 512,
+          "height": 512,
+          "offset": [
+            0,
+            1
+          ]
+        },
+        "CM028_Swab_Rack_55": {
+          "x": 560,
+          "y": 16,
+          "width": 256,
+          "height": 256,
+          "offset": [
+            0,
+            1
+          ]
+        },
+        "JM013_Reels_1_272": {
+          "x": 16,
+          "y": 560,
+          "width": 256,
+          "height": 256,
+          "offset": [
+            0,
+            1
+          ]
+        },
+        "JM117_Crew_Exercise_Machine_156": {
+          "x": 304,
+          "y": 560,
+          "width": 256,
+          "height": 256,
+          "offset": [
+            0,
+            1
+          ]
+        },
+        "CM056_Ships_bell_873": {
+          "x": 592,
+          "y": 560,
+          "width": 128,
+          "height": 128,
+          "offset": [
+            0,
+            1
+          ]
+        },
+        "CM060_Flag_Box_60": {
+          "x": 752,
+          "y": 560,
+          "width": 128,
+          "height": 128,
+          "offset": [
+            0,
+            1
+          ]
+        },
+        "CM126_Cleat_987": {
+          "x": 16,
+          "y": 848,
+          "width": 128,
+          "height": 128,
+          "offset": [
+            0,
+            1
+          ]
+        },
+        "JM009_Signal_Lamp_261": {
+          "x": 176,
+          "y": 848,
+          "width": 128,
+          "height": 128,
+          "offset": [
+            0,
+            1
+          ]
+        },
+        "JM061_Deck_Hatch_10_118": {
+          "x": 336,
+          "y": 848,
+          "width": 128,
+          "height": 128,
+          "offset": [
+            0,
+            1
+          ]
+        },
+        "JM062_Deck_Hatch_11_130": {
+          "x": 496,
+          "y": 848,
+          "width": 128,
+          "height": 128,
+          "offset": [
+            0,
+            1
+          ]
+        },
+        "JM127_Ventilators_11_896": {
+          "x": 656,
+          "y": 848,
+          "width": 128,
+          "height": 128,
+          "offset": [
+            0,
+            1
+          ]
+        },
+        "JM005_Freon_Cylinder_519": {
+          "x": 816,
+          "y": 848,
+          "width": 64,
+          "height": 64,
+          "offset": [
+            0,
+            1
+          ]
+        },
+        "JM059_Deck_Hatch_8_107": {
+          "x": 912,
+          "y": 848,
+          "width": 64,
+          "height": 64,
+          "offset": [
+            0,
+            1
+          ]
+        },
+        "JM124_Signal_Lamp_2_320": {
+          "x": 16,
+          "y": 1008,
+          "width": 64,
+          "height": 64,
+          "offset": [
+            0,
+            1
+          ]
+        },
+        "JM399_Binocular_786": {
+          "x": 112,
+          "y": 1008,
+          "width": 128,
+          "height": 64,
+          "offset": [
+            0,
+            1
+          ]
+        },
+        "CM029_Emergency_Box_940": {
+          "x": 272,
+          "y": 1008,
+          "width": 32,
+          "height": 32,
+          "offset": [
+            0,
+            1
+          ]
+        }
+      },
+      "textures": {
+        "map": "yukikaze-atlas-0-map.png"
+      }
+    },
+    {
+      "id": 1,
+      "role": "keep",
+      "width": 1024,
+      "height": 1024,
+      "materials": {
+        "CM021_Accommodation_Ladder_924": {
+          "x": 16,
+          "y": 16,
+          "width": 256,
+          "height": 256,
+          "offset": [
+            0,
+            1
+          ]
+        },
+        "JD092_Director_Type_94_880": {
+          "x": 304,
+          "y": 16,
+          "width": 256,
+          "height": 256,
+          "offset": [
+            0,
+            1
+          ]
+        },
+        "JM089_Signal_Platform_1_20": {
+          "x": 592,
+          "y": 16,
+          "width": 256,
+          "height": 256,
+          "offset": [
+            0,
+            1
+          ]
+        },
+        "JM226_Float_172": {
+          "x": 16,
+          "y": 304,
+          "width": 256,
+          "height": 256,
+          "offset": [
+            0,
+            1
+          ]
+        },
+        "JM249_327_364": {
+          "x": 304,
+          "y": 304,
+          "width": 256,
+          "height": 256,
+          "offset": [
+            0,
+            1
+          ]
+        },
+        "JM391_Depth_Charge_Thrower_320": {
+          "x": 592,
+          "y": 304,
+          "width": 256,
+          "height": 256,
+          "offset": [
+            0,
+            1
+          ]
+        },
+        "CM001_Propeller_62": {
+          "x": 880,
+          "y": 304,
+          "width": 128,
+          "height": 128,
+          "offset": [
+            0,
+            1
+          ]
+        },
+        "JF034_Rangefinder_3m_896": {
+          "x": 16,
+          "y": 592,
+          "width": 128,
+          "height": 128,
+          "offset": [
+            0,
+            1
+          ]
+        },
+        "JM168_Ventilation_540": {
+          "x": 176,
+          "y": 592,
+          "width": 128,
+          "height": 128,
+          "offset": [
+            0,
+            1
+          ]
+        },
+        "JM178_winch_328": {
+          "x": 336,
+          "y": 592,
+          "width": 128,
+          "height": 128,
+          "offset": [
+            0,
+            1
+          ]
+        },
+        "JM202_Fender_534": {
+          "x": 496,
+          "y": 592,
+          "width": 128,
+          "height": 128,
+          "offset": [
+            0,
+            1
+          ]
+        },
+        "JM366_Rangefinder_2m_441": {
+          "x": 656,
+          "y": 592,
+          "width": 128,
+          "height": 128,
+          "offset": [
+            0,
+            1
+          ]
+        },
+        "default_853": {
+          "x": 816,
+          "y": 592,
+          "width": 128,
+          "height": 128,
+          "offset": [
+            0,
+            1
+          ]
+        },
+        "JM030_Wind_detection_304": {
+          "x": 16,
+          "y": 752,
+          "width": 64,
+          "height": 64,
+          "offset": [
+            0,
+            1
+          ]
+        },
+        "JM397_Ventilation_678": {
+          "x": 112,
+          "y": 752,
+          "width": 128,
+          "height": 64,
+          "offset": [
+            0,
+            1
+          ]
+        },
+        "CM092_Siren_962": {
+          "x": 272,
+          "y": 752,
+          "width": 32,
+          "height": 32,
+          "offset": [
+            0,
+            1
+          ]
+        }
+      },
+      "textures": {
+        "map": "yukikaze-atlas-1-map.png"
+      }
+    }
+  ],
+  "skipped": [
+    {
+      "material": "JSD031_Kagero_1944_802",
+      "reason": "large texture retained"
+    },
+    {
+      "material": "CM010_Fire_Hose_Reel_27",
+      "reason": "UV crosses tile boundary"
+    },
+    {
+      "material": "JGT171_610mm4_Type_93_skinned_409",
+      "reason": "protected or unreviewed nodes"
+    },
+    {
+      "material": "JM008_Searchlight_247",
+      "reason": "UV crosses tile boundary"
+    },
+    {
+      "material": "JM208_Controler_Sl_341",
+      "reason": "UV crosses tile boundary"
+    },
+    {
+      "material": "JM303_Running_Lights_F_8",
+      "reason": "UV crosses tile boundary"
+    },
+    {
+      "material": "JM402_610mm_93_torpedo_bogie_503",
+      "reason": "protected or unreviewed nodes"
+    },
+    {
+      "material": "JM403_Torpedo_Director_978",
+      "reason": "protected or unreviewed nodes"
+    },
+    {
+      "material": "JRS105_Radar_Type_22_skinned_927",
+      "reason": "protected or unreviewed nodes"
+    },
+    {
+      "material": "C004_Grid_1_alpha_331",
+      "reason": "UV crosses tile boundary"
+    },
+    {
+      "material": "JSD031_Kagero_1944_wire_335",
+      "reason": "UV crosses tile boundary"
+    },
+    {
+      "material": "JGA018_25mm_Type96_single_560",
+      "reason": "protected or unreviewed nodes"
+    },
+    {
+      "material": "JGM151_127mm50_Type_C_712",
+      "reason": "protected or unreviewed nodes"
+    },
+    {
+      "material": "JGA010_25mm_Type96_613",
+      "reason": "protected or unreviewed nodes"
+    },
+    {
+      "material": "JGM151_127mm50_Type_C_skinned_680",
+      "reason": "protected or unreviewed nodes"
+    },
+    {
+      "material": "JM089_Signal_Platform_1_wire_36",
+      "reason": "UV crosses tile boundary"
+    },
+    {
+      "material": "JM226_Float_wire_196",
+      "reason": "UV crosses tile boundary"
+    },
+    {
+      "material": "transparent_glass_alpha_670",
+      "reason": "fewer than three compatible materials"
+    }
+  ]
+}

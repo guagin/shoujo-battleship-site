@@ -1,0 +1,42 @@
+{
+  "sourceArchive": "assets\\Omega Particle Fx\\Omega Particle Fx V4.5.rar",
+  "sourceMember": "Omega Particle Fx V4.5/Textures/Sparks/Sparks.png",
+  "sourceSHA256": "a1ada9ac3cbe5c8df8e0fc70e30161d14ceb4b9bc6cc85da0b508be7f4cb9e02",
+  "size": [
+    512,
+    128
+  ],
+  "cellSize": 128,
+  "columns": 4,
+  "rows": 1,
+  "variants": 4,
+  "animated": false,
+  "sourceCrops": [
+    [
+      666,
+      0,
+      1333,
+      550
+    ],
+    [
+      1333,
+      0,
+      2000,
+      550
+    ],
+    [
+      0,
+      550,
+      666,
+      1100
+    ],
+    [
+      666,
+      550,
+      1333,
+      1100
+    ]
+  ],
+  "alpha": "source luminance multiplied by source alpha",
+  "rgba8BytesWithMipmapsApprox": 349528
+}

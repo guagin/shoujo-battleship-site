@@ -1,0 +1,1 @@
+import{t as e}from"./pbrMaterialLoadingAdapter-BJIutrp3.js";export{e as PBRMaterialLoadingAdapter};

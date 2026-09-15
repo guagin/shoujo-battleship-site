@@ -1,0 +1,36 @@
+{
+  "sourceMember": "Omega Particle Fx V4.5/Textures/Embers/Embers.png",
+  "sourceSHA256": "34898c0f4850ee917cd309f75edec25049bde67bc79e6728ef790e4e38bc882b",
+  "crops": [
+    [
+      0,
+      0,
+      500,
+      500
+    ],
+    [
+      500,
+      0,
+      1000,
+      500
+    ],
+    [
+      1500,
+      0,
+      2000,
+      500
+    ],
+    [
+      1000,
+      500,
+      1500,
+      1000
+    ]
+  ],
+  "size": [
+    256,
+    64
+  ],
+  "variants": 4,
+  "rgba8MipBytesApprox": 87381
+}

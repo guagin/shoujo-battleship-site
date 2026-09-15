@@ -1,0 +1,4738 @@
+{
+  "schemaVersion": 2,
+  "asset": "yukikaze",
+  "sourceSHA256": "cfc7043b7127ee186f5569495a24c646ba1af3ca228c09283ea87f771839126f",
+  "policySHA256": "8e1ecccf4a8913e0287322f121720b3e84627efd375dc1bbe6133efa96f17fa4",
+  "pixelStandard": {
+    "version": 2,
+    "lod": {
+      "nearExit": 200,
+      "nearEnter": 240,
+      "farEnter": 70,
+      "farExit": 90
+    },
+    "envelopes": {
+      "medium": 240,
+      "far": 90
+    },
+    "omission": {
+      "rigging": {
+        "long": 12,
+        "short": 0.75,
+        "area": 8
+      },
+      "small-boat": {
+        "long": 6,
+        "short": 4,
+        "area": 24
+      },
+      "deck-fitting": {
+        "long": 4,
+        "short": 3,
+        "area": 12
+      }
+    },
+    "review": {
+      "cssHeights": [
+        720,
+        1080,
+        1440,
+        2160
+      ],
+      "renderScales": [
+        0.5,
+        1,
+        2
+      ],
+      "shipPixels": [
+        60,
+        70,
+        80,
+        90,
+        110,
+        190,
+        200,
+        220,
+        240,
+        280
+      ],
+      "views": [
+        "side",
+        "bow",
+        "top",
+        "oblique"
+      ]
+    }
+  },
+  "hullLength": 136.24400329589844,
+  "summary": {
+    "meshes": 108,
+    "triangles": 175511,
+    "omissionCandidates": 19,
+    "warnings": 0
+  },
+  "parts": [
+    {
+      "node": 0,
+      "name": "Bow_patch_MidFrontShape",
+      "materials": [
+        "JSD031_Kagero_1944_802"
+      ],
+      "classification": "unknown",
+      "triangles": 12,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "keep",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            0.0724005252122879,
+            -0.056886229664087296,
+            -1.384229063987732
+          ],
+          "max": [
+            0.18617278337478638,
+            0.05688602849841118,
+            -1.268733024597168
+          ]
+        },
+        "dimensions": [
+          0.11377225816249847,
+          0.11377225816249847,
+          0.11549603939056396
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        },
+        "far": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 1,
+      "name": "BowShape",
+      "materials": [
+        "JSD031_Kagero_1944_802"
+      ],
+      "classification": "unknown",
+      "triangles": 12,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "keep",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -0.4447460472583771,
+            -0.5740328431129456,
+            -1.2118468284606934
+          ],
+          "max": [
+            0.7050431966781616,
+            0.574032723903656,
+            -0.06205754354596138
+          ]
+        },
+        "dimensions": [
+          1.1497892439365387,
+          1.1480655670166016,
+          1.149789284914732
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        },
+        "far": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 2,
+      "name": "CleatShape",
+      "materials": [
+        "CM126_Cleat_987"
+      ],
+      "classification": "deck-fitting",
+      "triangles": 204,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "omit-candidate",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -4.681900501251221,
+            5.007702350616455,
+            -6.869431018829346
+          ],
+          "max": [
+            4.940473556518555,
+            13.744034767150879,
+            25.70046043395996
+          ]
+        },
+        "dimensions": [
+          9.622374057769775,
+          8.736332416534424,
+          32.56989145278931
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "visible size exceeds omission threshold",
+          "longPixels": 61.77253838864953,
+          "shortPixels": 22.894235051788794,
+          "areaPixels": 1414.2350136153889
+        },
+        "far": {
+          "action": "keep",
+          "reason": "visible size exceeds omission threshold",
+          "longPixels": 23.164701895743576,
+          "shortPixels": 8.585338144420797,
+          "areaPixels": 198.87679878966406
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 3,
+      "name": "CleatShape1",
+      "materials": [
+        "CM126_Cleat_987"
+      ],
+      "classification": "deck-fitting",
+      "triangles": 68,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "omit-candidate",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -2.306473970413208,
+            4.538818359375,
+            -64.89155578613281
+          ],
+          "max": [
+            0.1051531434059143,
+            7.491729259490967,
+            -24.392080307006836
+          ]
+        },
+        "dimensions": [
+          2.4116271138191223,
+          2.952910900115967,
+          40.49947547912598
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "visible size exceeds omission threshold",
+          "longPixels": 71.65708555664906,
+          "shortPixels": 6.716000925178163,
+          "areaPixels": 481.2490528940259
+        },
+        "far": {
+          "action": "keep",
+          "reason": "visible size exceeds omission threshold",
+          "longPixels": 26.8714070837434,
+          "shortPixels": 2.5185003469418112,
+          "areaPixels": 67.6756480632224
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 4,
+      "name": "CM028_Swab_RackShape",
+      "materials": [
+        "CM028_Swab_Rack_55"
+      ],
+      "classification": "deck-fitting",
+      "triangles": 80,
+      "near": "keep",
+      "medium": "keep",
+      "far": "omit-candidate",
+      "auxiliary": "omit-candidate",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -3.9923717975616455,
+            3.182173490524292,
+            -25.11781120300293
+          ],
+          "max": [
+            -3.528663396835327,
+            4.9163384437561035,
+            -23.31986427307129
+          ]
+        },
+        "dimensions": [
+          0.46370840072631836,
+          1.7341649532318115,
+          1.7979469299316406
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "visible size exceeds omission threshold",
+          "longPixels": 4.475492664308179,
+          "shortPixels": 3.162135245792662,
+          "areaPixels": 14.1521130960954
+        },
+        "far": {
+          "action": "omit-candidate",
+          "reason": "below conservative CSS pixel envelope",
+          "longPixels": 1.6783097491155672,
+          "shortPixels": 1.1858007171722482,
+          "areaPixels": 1.9901409041384155
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 5,
+      "name": "CM029_Emergency_BoxShape",
+      "materials": [
+        "CM029_Emergency_Box_940"
+      ],
+      "classification": "deck-fitting",
+      "triangles": 90,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "omit-candidate",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -5.190427780151367,
+            4.0647735595703125,
+            -6.012691497802734
+          ],
+          "max": [
+            3.3631765842437744,
+            11.665105819702148,
+            33.84035110473633
+          ]
+        },
+        "dimensions": [
+          8.553604364395142,
+          7.600332260131836,
+          39.85304260253906
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "visible size exceeds omission threshold",
+          "longPixels": 73.03925160842662,
+          "shortPixels": 20.156359680850624,
+          "areaPixels": 1472.2054262395945
+        },
+        "far": {
+          "action": "keep",
+          "reason": "visible size exceeds omission threshold",
+          "longPixels": 27.389719353159986,
+          "shortPixels": 7.558634880318984,
+          "areaPixels": 207.02888806494298
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 6,
+      "name": "CM029_Emergency_BoxShape1",
+      "materials": [
+        "CM029_Emergency_Box_940"
+      ],
+      "classification": "deck-fitting",
+      "triangles": 20,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "omit-candidate",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -3.754484176635742,
+            4.414706230163574,
+            -32.05619430541992
+          ],
+          "max": [
+            3.225270986557007,
+            4.900823593139648,
+            -27.253625869750977
+          ]
+        },
+        "dimensions": [
+          6.979755163192749,
+          0.4861173629760742,
+          4.802568435668945
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "visible size exceeds omission threshold",
+          "longPixels": 14.9490722394271,
+          "shortPixels": 8.503170358658778,
+          "areaPixels": 127.11450795574531
+        },
+        "far": {
+          "action": "keep",
+          "reason": "visible size exceeds omission threshold",
+          "longPixels": 5.605902089785163,
+          "shortPixels": 3.188688884497042,
+          "areaPixels": 17.875477681276685
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 7,
+      "name": "CM060_Flag_BoxShape",
+      "materials": [
+        "CM060_Flag_Box_60"
+      ],
+      "classification": "deck-fitting",
+      "triangles": 534,
+      "near": "keep",
+      "medium": "keep",
+      "far": "omit-candidate",
+      "auxiliary": "omit-candidate",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -2.2461400032043457,
+            10.284323692321777,
+            22.937175750732422
+          ],
+          "max": [
+            2.468513250350952,
+            11.161748886108398,
+            26.57271385192871
+          ]
+        },
+        "dimensions": [
+          4.714653253555298,
+          0.8774251937866211,
+          3.635538101196289
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "visible size exceeds omission threshold",
+          "longPixels": 10.600781811270899,
+          "shortPixels": 6.588041454964948,
+          "areaPixels": 69.83839002769109
+        },
+        "far": {
+          "action": "omit-candidate",
+          "reason": "below conservative CSS pixel envelope",
+          "longPixels": 3.975293179226587,
+          "shortPixels": 2.470515545611856,
+          "areaPixels": 9.82102359764406
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 8,
+      "name": "CM145Shape",
+      "materials": [
+        "default_853"
+      ],
+      "classification": "unknown",
+      "triangles": 1,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "keep",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            0.12411517649888992,
+            0.0000018459759303368628,
+            24.45069122314453
+          ],
+          "max": [
+            0.13445812463760376,
+            0.0000018468867892806884,
+            24.462757110595703
+          ]
+        },
+        "dimensions": [
+          0.010342948138713837,
+          9.108589438255876e-10,
+          0.012065887451171875
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        },
+        "far": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 9,
+      "name": "CM145Shape1",
+      "materials": [
+        "default_853"
+      ],
+      "classification": "unknown",
+      "triangles": 1,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "keep",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            0.12411517649888992,
+            -0.000001972086465684697,
+            -26.121074676513672
+          ],
+          "max": [
+            0.13445812463760376,
+            -0.000001971175379367196,
+            -26.109006881713867
+          ]
+        },
+        "dimensions": [
+          0.010342948138713837,
+          9.110863175010309e-10,
+          0.012067794799804688
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        },
+        "far": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 10,
+      "name": "DayLightShape",
+      "materials": [
+        "JM009_Signal_Lamp_261"
+      ],
+      "classification": "deck-fitting",
+      "triangles": 140,
+      "near": "keep",
+      "medium": "omit-candidate",
+      "far": "omit-candidate",
+      "auxiliary": "omit-candidate",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -0.3309738337993622,
+            18.00704574584961,
+            23.39743423461914
+          ],
+          "max": [
+            0.04309555143117905,
+            18.899986267089844,
+            23.771503448486328
+          ]
+        },
+        "dimensions": [
+          0.37406938523054123,
+          0.8929405212402344,
+          0.3740692138671875
+        ],
+        "medium": {
+          "action": "omit-candidate",
+          "reason": "below conservative CSS pixel envelope",
+          "longPixels": 1.828275783084477,
+          "shortPixels": 0.9318819715662552,
+          "areaPixels": 1.7037372413076015
+        },
+        "far": {
+          "action": "omit-candidate",
+          "reason": "below conservative CSS pixel envelope",
+          "longPixels": 0.6856034186566788,
+          "shortPixels": 0.3494557393373457,
+          "areaPixels": 0.23958804955888147
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 11,
+      "name": "Depth_Charge_Roller_RackShape",
+      "materials": [
+        "JM391_Depth_Charge_Thrower_320"
+      ],
+      "classification": "unknown",
+      "triangles": 2859,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "keep",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -1.66176438331604,
+            3.26663875579834,
+            -52.516239166259766
+          ],
+          "max": [
+            1.9203376770019531,
+            5.731704235076904,
+            -51.20268249511719
+          ]
+        },
+        "dimensions": [
+          3.582102060317993,
+          2.4650654792785645,
+          1.3135566711425781
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        },
+        "far": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 12,
+      "name": "Depth_Charge_Roller_RackShape1",
+      "materials": [
+        "JM391_Depth_Charge_Thrower_320"
+      ],
+      "classification": "unknown",
+      "triangles": 2682,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "keep",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -3.468329906463623,
+            3.242504596710205,
+            -65.86206817626953
+          ],
+          "max": [
+            3.7286272048950195,
+            4.018224239349365,
+            -62.14378356933594
+          ]
+        },
+        "dimensions": [
+          7.196957111358643,
+          0.7757196426391602,
+          3.7182846069335938
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        },
+        "far": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 13,
+      "name": "Depth_Charge_ThrowerShape",
+      "materials": [
+        "JM391_Depth_Charge_Thrower_320"
+      ],
+      "classification": "unknown",
+      "triangles": 888,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "keep",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -0.9791309237480164,
+            3.256295919418335,
+            -51.24060821533203
+          ],
+          "max": [
+            1.2377041578292847,
+            4.992184638977051,
+            -50.21148681640625
+          ]
+        },
+        "dimensions": [
+          2.216835081577301,
+          1.7358887195587158,
+          1.0291213989257812
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        },
+        "far": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 14,
+      "name": "Fire_Fighting_GearShape",
+      "materials": [
+        "CM010_Fire_Hose_Reel_27"
+      ],
+      "classification": "deck-fitting",
+      "triangles": 1422,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "omit-candidate",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -3.01151704788208,
+            3.0218617916107178,
+            -7.867523670196533
+          ],
+          "max": [
+            5.371429443359375,
+            6.060961723327637,
+            51.44057083129883
+          ]
+        },
+        "dimensions": [
+          8.382946491241455,
+          3.039099931716919,
+          59.30809450149536
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "visible size exceeds omission threshold",
+          "longPixels": 105.64808986104384,
+          "shortPixels": 15.707407271868322,
+          "areaPixels": 1659.457574942358
+        },
+        "far": {
+          "action": "keep",
+          "reason": "visible size exceeds omission threshold",
+          "longPixels": 39.61803369789144,
+          "shortPixels": 5.890277726950621,
+          "areaPixels": 233.3612214762691
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 15,
+      "name": "Fire_Fighting_GearShape1",
+      "materials": [
+        "CM010_Fire_Hose_Reel_27"
+      ],
+      "classification": "deck-fitting",
+      "triangles": 316,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "omit-candidate",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -3.816541910171509,
+            3.083915948867798,
+            -34.819480895996094
+          ],
+          "max": [
+            2.7012290954589844,
+            3.780339241027832,
+            -21.170257568359375
+          ]
+        },
+        "dimensions": [
+          6.517771005630493,
+          0.6964232921600342,
+          13.649223327636719
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "visible size exceeds omission threshold",
+          "longPixels": 26.672592349355767,
+          "shortPixels": 11.546704393445403,
+          "areaPixels": 307.98053926488444
+        },
+        "far": {
+          "action": "keep",
+          "reason": "visible size exceeds omission threshold",
+          "longPixels": 10.002222131008413,
+          "shortPixels": 4.330014147542026,
+          "areaPixels": 43.309763334124376
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 16,
+      "name": "Fire_Hose_RackShape",
+      "materials": [
+        "CM010_Fire_Hose_Reel_27"
+      ],
+      "classification": "deck-fitting",
+      "triangles": 322,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "omit-candidate",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -2.871887445449829,
+            3.57348370552063,
+            -7.78650426864624
+          ],
+          "max": [
+            3.130460739135742,
+            7.295217037200928,
+            33.80414962768555
+          ]
+        },
+        "dimensions": [
+          6.002348184585571,
+          3.721733331680298,
+          41.59065389633179
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "visible size exceeds omission threshold",
+          "longPixels": 74.31262561758436,
+          "shortPixels": 12.440986420505125,
+          "areaPixels": 924.5223661804482
+        },
+        "far": {
+          "action": "keep",
+          "reason": "visible size exceeds omission threshold",
+          "longPixels": 27.86723460659414,
+          "shortPixels": 4.6653699076894215,
+          "areaPixels": 130.01095774412553
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 17,
+      "name": "Fire_Hose_RackShape1",
+      "materials": [
+        "CM010_Fire_Hose_Reel_27"
+      ],
+      "classification": "deck-fitting",
+      "triangles": 92,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "omit-candidate",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -3.6803598403930664,
+            4.025122165679932,
+            -34.586761474609375
+          ],
+          "max": [
+            2.7270865440368652,
+            4.606050491333008,
+            -20.463491439819336
+          ]
+        },
+        "dimensions": [
+          6.407446384429932,
+          0.5809283256530762,
+          14.123270034790039
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "visible size exceeds omission threshold",
+          "longPixels": 27.33857219267501,
+          "shortPixels": 11.333302847240807,
+          "areaPixels": 309.83631807074204
+        },
+        "far": {
+          "action": "keep",
+          "reason": "visible size exceeds omission threshold",
+          "longPixels": 10.25196457225313,
+          "shortPixels": 4.249988567715302,
+          "areaPixels": 43.5707322286981
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 18,
+      "name": "Fire_TubeShape",
+      "materials": [
+        "CM010_Fire_Hose_Reel_27"
+      ],
+      "classification": "deck-fitting",
+      "triangles": 288,
+      "near": "keep",
+      "medium": "keep",
+      "far": "omit-candidate",
+      "auxiliary": "omit-candidate",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            1.565230369567871,
+            3.7131147384643555,
+            27.44841766357422
+          ],
+          "max": [
+            4.26818323135376,
+            4.668111801147461,
+            27.84489631652832
+          ]
+        },
+        "dimensions": [
+          2.7029528617858887,
+          0.9549970626831055,
+          0.39647865295410156
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "visible size exceeds omission threshold",
+          "longPixels": 5.09789201919236,
+          "shortPixels": 1.821487975049553,
+          "areaPixels": 9.285749011059968
+        },
+        "far": {
+          "action": "omit-candidate",
+          "reason": "below conservative CSS pixel envelope",
+          "longPixels": 1.911709507197135,
+          "shortPixels": 0.6830579906435824,
+          "areaPixels": 1.3058084546803082
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 19,
+      "name": "GunShape",
+      "materials": [
+        "JGT171_610mm4_Type_93_skinned_409"
+      ],
+      "classification": "protected",
+      "triangles": 7842,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "keep",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -2.516780138015747,
+            4.138896942138672,
+            1.0067116022109985
+          ],
+          "max": [
+            3.001174211502075,
+            7.17110013961792,
+            11.489273071289062
+          ]
+        },
+        "dimensions": [
+          5.517954349517822,
+          3.032203197479248,
+          10.482561469078064
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        },
+        "far": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 20,
+      "name": "GunShape1",
+      "materials": [
+        "JGT171_610mm4_Type_93_skinned_409"
+      ],
+      "classification": "protected",
+      "triangles": 7842,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "keep",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -2.516780138015747,
+            3.3493847846984863,
+            -18.610382080078125
+          ],
+          "max": [
+            3.001174211502075,
+            6.381587982177734,
+            -8.12782096862793
+          ]
+        },
+        "dimensions": [
+          5.517954349517822,
+          3.032203197479248,
+          10.482561111450195
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        },
+        "far": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 21,
+      "name": "JD092_Director_Type_94Shape",
+      "materials": [
+        "JD092_Director_Type_94_880"
+      ],
+      "classification": "unknown",
+      "triangles": 1577,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "keep",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -1.1222081184387207,
+            12.54770278930664,
+            27.65010643005371
+          ],
+          "max": [
+            1.3807814121246338,
+            14.271524429321289,
+            30.334095001220703
+          ]
+        },
+        "dimensions": [
+          2.5029895305633545,
+          1.7238216400146484,
+          2.683988571166992
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        },
+        "far": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 22,
+      "name": "JM0Shape38",
+      "materials": [
+        "JM038_Motor_Boats_11m_580"
+      ],
+      "classification": "small-boat",
+      "triangles": 2514,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "omit-candidate",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -6.291950225830078,
+            5.092169761657715,
+            -8.998351097106934
+          ],
+          "max": [
+            6.550523281097412,
+            7.445186614990234,
+            0.18789610266685486
+          ]
+        },
+        "dimensions": [
+          12.84247350692749,
+          2.3530168533325195,
+          9.186247199773788
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "visible size exceeds omission threshold",
+          "longPixels": 28.121512777234713,
+          "shortPixels": 16.70441356704245,
+          "areaPixels": 469.7533795617972
+        },
+        "far": {
+          "action": "keep",
+          "reason": "visible size exceeds omission threshold",
+          "longPixels": 10.54556729146302,
+          "shortPixels": 6.26415508764092,
+          "areaPixels": 66.05906900087774
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 23,
+      "name": "JM008_SearchlightShape",
+      "materials": [
+        "JM008_Searchlight_247"
+      ],
+      "classification": "unknown",
+      "triangles": 1266,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "keep",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -0.713662326335907,
+            8.20711612701416,
+            -7.174548149108887
+          ],
+          "max": [
+            0.9722356200218201,
+            10.260188102722168,
+            -5.964425086975098
+          ]
+        },
+        "dimensions": [
+          1.685897946357727,
+          2.053071975708008,
+          1.210123062133789
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        },
+        "far": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 24,
+      "name": "JM013_Reels_Shape1",
+      "materials": [
+        "JM013_Reels_1_272"
+      ],
+      "classification": "deck-fitting",
+      "triangles": 796,
+      "near": "keep",
+      "medium": "omit-candidate",
+      "far": "omit-candidate",
+      "auxiliary": "omit-candidate",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -1.8289750814437866,
+            5.547262191772461,
+            42.106075286865234
+          ],
+          "max": [
+            -0.574032723903656,
+            6.448821067810059,
+            43.15760803222656
+          ]
+        },
+        "dimensions": [
+          1.2549423575401306,
+          0.9015588760375977,
+          1.0515327453613281
+        ],
+        "medium": {
+          "action": "omit-candidate",
+          "reason": "below conservative CSS pixel envelope",
+          "longPixels": 3.292445655560466,
+          "shortPixels": 2.4399340554299345,
+          "areaPixels": 8.033350280654318
+        },
+        "far": {
+          "action": "omit-candidate",
+          "reason": "below conservative CSS pixel envelope",
+          "longPixels": 1.234667120835175,
+          "shortPixels": 0.9149752707862255,
+          "areaPixels": 1.1296898832170137
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 25,
+      "name": "JM014_Reels_Shape2",
+      "materials": [
+        "JM013_Reels_1_272"
+      ],
+      "classification": "deck-fitting",
+      "triangles": 1236,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "omit-candidate",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -2.8098299503326416,
+            5.524852752685547,
+            41.871639251708984
+          ],
+          "max": [
+            3.0684030055999756,
+            6.2385149002075195,
+            43.38687515258789
+          ]
+        },
+        "dimensions": [
+          5.878232955932617,
+          0.7136621475219727,
+          1.5152359008789062
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "visible size exceeds omission threshold",
+          "longPixels": 10.766901681392099,
+          "shortPixels": 2.950393222389254,
+          "areaPixels": 31.766593746910715
+        },
+        "far": {
+          "action": "keep",
+          "reason": "visible size exceeds omission threshold",
+          "longPixels": 4.037588130522037,
+          "shortPixels": 1.1063974583959704,
+          "areaPixels": 4.467177245659319
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 26,
+      "name": "JM014_Reels_Shape21",
+      "materials": [
+        "JM013_Reels_1_272"
+      ],
+      "classification": "deck-fitting",
+      "triangles": 824,
+      "near": "keep",
+      "medium": "keep",
+      "far": "omit-candidate",
+      "auxiliary": "omit-candidate",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -1.7807080745697021,
+            4.130274295806885,
+            -36.97425842285156
+          ],
+          "max": [
+            2.742600679397583,
+            5.211111068725586,
+            -35.09873962402344
+          ]
+        },
+        "dimensions": [
+          4.523308753967285,
+          1.0808367729187012,
+          1.875518798828125
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "visible size exceeds omission threshold",
+          "longPixels": 8.833425958998404,
+          "shortPixels": 3.8131574791749148,
+          "areaPixels": 33.68324426229261
+        },
+        "far": {
+          "action": "omit-candidate",
+          "reason": "below conservative CSS pixel envelope",
+          "longPixels": 3.3125347346244016,
+          "shortPixels": 1.4299340546905932,
+          "areaPixels": 4.736706224384899
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 27,
+      "name": "JM015_Reels_Shape3",
+      "materials": [
+        "JM013_Reels_1_272"
+      ],
+      "classification": "deck-fitting",
+      "triangles": 2088,
+      "near": "keep",
+      "medium": "keep",
+      "far": "omit-candidate",
+      "auxiliary": "omit-candidate",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -2.2719972133636475,
+            3.2476768493652344,
+            -47.81882095336914
+          ],
+          "max": [
+            2.318540573120117,
+            4.357818603515625,
+            -45.94502639770508
+          ]
+        },
+        "dimensions": [
+          4.590537786483765,
+          1.1101417541503906,
+          1.8737945556640625
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "visible size exceeds omission threshold",
+          "longPixels": 8.950411744850182,
+          "shortPixels": 3.836579907007509,
+          "areaPixels": 34.33896985973623
+        },
+        "far": {
+          "action": "omit-candidate",
+          "reason": "below conservative CSS pixel envelope",
+          "longPixels": 3.3564044043188184,
+          "shortPixels": 1.4387174651278158,
+          "areaPixels": 4.828917636525407
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 28,
+      "name": "JM059_Deck_HatchShape",
+      "materials": [
+        "JM059_Deck_Hatch_8_107"
+      ],
+      "classification": "deck-fitting",
+      "triangles": 44,
+      "near": "keep",
+      "medium": "omit-candidate",
+      "far": "omit-candidate",
+      "auxiliary": "omit-candidate",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            2.9477357864379883,
+            3.245955228805542,
+            -22.638954162597656
+          ],
+          "max": [
+            3.7493128776550293,
+            3.763101816177368,
+            -21.571908950805664
+          ]
+        },
+        "dimensions": [
+          0.801577091217041,
+          0.5171465873718262,
+          1.0670452117919922
+        ],
+        "medium": {
+          "action": "omit-candidate",
+          "reason": "below conservative CSS pixel envelope",
+          "longPixels": 2.521258249737879,
+          "shortPixels": 1.6803762319678772,
+          "areaPixels": 4.236662437512462
+        },
+        "far": {
+          "action": "omit-candidate",
+          "reason": "below conservative CSS pixel envelope",
+          "longPixels": 0.9454718436517047,
+          "shortPixels": 0.630141086987954,
+          "areaPixels": 0.5957806552751901
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 29,
+      "name": "JM061_Deck_HatchShape",
+      "materials": [
+        "JM061_Deck_Hatch_10_118"
+      ],
+      "classification": "deck-fitting",
+      "triangles": 140,
+      "near": "keep",
+      "medium": "omit-candidate",
+      "far": "omit-candidate",
+      "auxiliary": "omit-candidate",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -1.8910326957702637,
+            3.294220209121704,
+            -48.2601203918457
+          ],
+          "max": [
+            -1.234256625175476,
+            3.7217278480529785,
+            -46.97242736816406
+          ]
+        },
+        "dimensions": [
+          0.6567760705947876,
+          0.4275076389312744,
+          1.2876930236816406
+        ],
+        "medium": {
+          "action": "omit-candidate",
+          "reason": "below conservative CSS pixel envelope",
+          "longPixels": 2.6553630033018565,
+          "shortPixels": 1.380446606336758,
+          "areaPixels": 3.6655868465002293
+        },
+        "far": {
+          "action": "omit-candidate",
+          "reason": "below conservative CSS pixel envelope",
+          "longPixels": 0.9957611262381962,
+          "shortPixels": 0.5176674773762843,
+          "areaPixels": 0.5154731502890948
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 30,
+      "name": "JM062_Deck_Hatch_Shape11",
+      "materials": [
+        "JM062_Deck_Hatch_11_130"
+      ],
+      "classification": "deck-fitting",
+      "triangles": 70,
+      "near": "keep",
+      "medium": "omit-candidate",
+      "far": "omit-candidate",
+      "auxiliary": "omit-candidate",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            1.370438575744629,
+            3.040818691253662,
+            -45.5537223815918
+          ],
+          "max": [
+            2.344398021697998,
+            3.5527939796447754,
+            -44.58665466308594
+          ]
+        },
+        "dimensions": [
+          0.9739594459533691,
+          0.5119752883911133,
+          0.9670677185058594
+        ],
+        "medium": {
+          "action": "omit-candidate",
+          "reason": "below conservative CSS pixel envelope",
+          "longPixels": 2.5804900865234184,
+          "shortPixels": 1.9275353419419363,
+          "areaPixels": 4.973985841304694
+        },
+        "far": {
+          "action": "omit-candidate",
+          "reason": "below conservative CSS pixel envelope",
+          "longPixels": 0.967683782446282,
+          "shortPixels": 0.7228257532282262,
+          "areaPixels": 0.6994667589334727
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 31,
+      "name": "JM107_Binocular_2Shape",
+      "materials": [
+        "JM399_Binocular_786"
+      ],
+      "classification": "deck-fitting",
+      "triangles": 3228,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "omit-candidate",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -3.085641384124756,
+            10.170552253723145,
+            27.874202728271484
+          ],
+          "max": [
+            3.344214677810669,
+            11.8133544921875,
+            33.33699417114258
+          ]
+        },
+        "dimensions": [
+          6.429856061935425,
+          1.6428022384643555,
+          5.462791442871094
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "visible size exceeds omission threshold",
+          "longPixels": 15.141498738375688,
+          "shortPixels": 10.048669346818555,
+          "areaPixels": 152.1519142372076
+        },
+        "far": {
+          "action": "keep",
+          "reason": "visible size exceeds omission threshold",
+          "longPixels": 5.678062026890883,
+          "shortPixels": 3.7682510050569578,
+          "areaPixels": 21.396362939607318
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 32,
+      "name": "JM117_Crew_Exercise_MachineShape",
+      "materials": [
+        "JM117_Crew_Exercise_Machine_156"
+      ],
+      "classification": "deck-fitting",
+      "triangles": 860,
+      "near": "keep",
+      "medium": "keep",
+      "far": "omit-candidate",
+      "auxiliary": "omit-candidate",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -0.38441231846809387,
+            3.304563283920288,
+            -49.41852951049805
+          ],
+          "max": [
+            2.235797166824341,
+            4.878412246704102,
+            -48.151519775390625
+          ]
+        },
+        "dimensions": [
+          2.6202094852924347,
+          1.5738489627838135,
+          1.2670097351074219
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "visible size exceeds omission threshold",
+          "longPixels": 5.828509524656446,
+          "shortPixels": 3.5591563031189506,
+          "areaPixels": 20.74457641246983
+        },
+        "far": {
+          "action": "omit-candidate",
+          "reason": "below conservative CSS pixel envelope",
+          "longPixels": 2.185691071746167,
+          "shortPixels": 1.3346836136696065,
+          "areaPixels": 2.9172060580035697
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 33,
+      "name": "JM124_Signal_Lamp_Shape2",
+      "materials": [
+        "JM124_Signal_Lamp_2_320"
+      ],
+      "classification": "deck-fitting",
+      "triangles": 104,
+      "near": "keep",
+      "medium": "keep",
+      "far": "omit-candidate",
+      "auxiliary": "omit-candidate",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -0.9670641422271729,
+            9.513772010803223,
+            -24.61100959777832
+          ],
+          "max": [
+            -0.7843390107154846,
+            11.882303237915039,
+            -24.402423858642578
+          ]
+        },
+        "dimensions": [
+          0.18272513151168823,
+          2.3685312271118164,
+          0.2085857391357422
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "visible size exceeds omission threshold",
+          "longPixels": 4.200773085121713,
+          "shortPixels": 0.4884803381862313,
+          "areaPixels": 2.0519950572638725
+        },
+        "far": {
+          "action": "omit-candidate",
+          "reason": "below conservative CSS pixel envelope",
+          "longPixels": 1.5752899069206423,
+          "shortPixels": 0.18318012681983675,
+          "areaPixels": 0.2885618049277321
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 34,
+      "name": "JM125_Signal_Lamp_Shape3",
+      "materials": [
+        "JM124_Signal_Lamp_2_320"
+      ],
+      "classification": "deck-fitting",
+      "triangles": 52,
+      "near": "keep",
+      "medium": "omit-candidate",
+      "far": "omit-candidate",
+      "auxiliary": "omit-candidate",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -0.46543195843696594,
+            24.178329467773438,
+            23.281936645507812
+          ],
+          "max": [
+            -0.2827068269252777,
+            24.433454513549805,
+            23.490520477294922
+          ]
+        },
+        "dimensions": [
+          0.18272513151168823,
+          0.2551250457763672,
+          0.20858383178710938
+        ],
+        "medium": {
+          "action": "omit-candidate",
+          "reason": "below conservative CSS pixel envelope",
+          "longPixels": 0.6637648943938999,
+          "shortPixels": 0.4884778108999704,
+          "areaPixels": 0.3242344225657822
+        },
+        "far": {
+          "action": "omit-candidate",
+          "reason": "below conservative CSS pixel envelope",
+          "longPixels": 0.24891183539771244,
+          "shortPixels": 0.1831791790874889,
+          "areaPixels": 0.04559546567331313
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 35,
+      "name": "JM125_Signal_Lamp_Shape31",
+      "materials": [
+        "JM124_Signal_Lamp_2_320"
+      ],
+      "classification": "deck-fitting",
+      "triangles": 104,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "omit-candidate",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -0.9670641422271729,
+            10.572198867797852,
+            -24.95922088623047
+          ],
+          "max": [
+            -0.7843390107154846,
+            16.695215225219727,
+            -24.402423858642578
+          ]
+        },
+        "dimensions": [
+          0.18272513151168823,
+          6.123016357421875,
+          0.5567970275878906
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "visible size exceeds omission threshold",
+          "longPixels": 10.835257245990343,
+          "shortPixels": 1.0322887678469679,
+          "areaPixels": 11.185114351768302
+        },
+        "far": {
+          "action": "keep",
+          "reason": "visible size exceeds omission threshold",
+          "longPixels": 4.063221467246379,
+          "shortPixels": 0.387108287942613,
+          "areaPixels": 1.5729067057174178
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 36,
+      "name": "JM126_Signal_Lamp_Shape4",
+      "materials": [
+        "JM124_Signal_Lamp_2_320"
+      ],
+      "classification": "deck-fitting",
+      "triangles": 156,
+      "near": "keep",
+      "medium": "keep",
+      "far": "omit-candidate",
+      "auxiliary": "omit-candidate",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -2.0306622982025146,
+            10.572198867797852,
+            -24.61100959777832
+          ],
+          "max": [
+            0.27925917506217957,
+            12.947626113891602,
+            -24.402423858642578
+          ]
+        },
+        "dimensions": [
+          2.309921473264694,
+          2.37542724609375,
+          0.2085857391357422
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "visible size exceeds omission threshold",
+          "longPixels": 5.848198099693952,
+          "shortPixels": 4.085587508493437,
+          "areaPixels": 23.893325103304665
+        },
+        "far": {
+          "action": "omit-candidate",
+          "reason": "below conservative CSS pixel envelope",
+          "longPixels": 2.1930742873852322,
+          "shortPixels": 1.532095315685039,
+          "areaPixels": 3.359998842652219
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 37,
+      "name": "JM127_VentilatorsShape",
+      "materials": [
+        "JM127_Ventilators_11_896"
+      ],
+      "classification": "deck-fitting",
+      "triangles": 640,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "omit-candidate",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            0.14307722449302673,
+            5.5386433601379395,
+            41.830265045166016
+          ],
+          "max": [
+            2.1737396717071533,
+            7.412439823150635,
+            61.038814544677734
+          ]
+        },
+        "dimensions": [
+          2.0306624472141266,
+          1.8737964630126953,
+          19.20854949951172
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "visible size exceeds omission threshold",
+          "longPixels": 34.18501522209213,
+          "shortPixels": 4.867320268445266,
+          "areaPixels": 166.389417467599
+        },
+        "far": {
+          "action": "keep",
+          "reason": "visible size exceeds omission threshold",
+          "longPixels": 12.81938070828455,
+          "shortPixels": 1.8252451006669748,
+          "areaPixels": 23.398511831381107
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 38,
+      "name": "JM127_VentilatorsShape1",
+      "materials": [
+        "JM127_Ventilators_11_896"
+      ],
+      "classification": "deck-fitting",
+      "triangles": 320,
+      "near": "keep",
+      "medium": "omit-candidate",
+      "far": "omit-candidate",
+      "auxiliary": "omit-candidate",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -0.6481570601463318,
+            3.3183536529541016,
+            -46.78452682495117
+          ],
+          "max": [
+            0.06550523638725281,
+            4.519857883453369,
+            -46.06914520263672
+          ]
+        },
+        "dimensions": [
+          0.7136622965335846,
+          1.2015042304992676,
+          0.7153816223144531
+        ],
+        "medium": {
+          "action": "omit-candidate",
+          "reason": "below conservative CSS pixel envelope",
+          "longPixels": 2.7655125105373024,
+          "shortPixels": 1.7800194108275194,
+          "areaPixels": 4.9226659496427425
+        },
+        "far": {
+          "action": "omit-candidate",
+          "reason": "below conservative CSS pixel envelope",
+          "longPixels": 1.0370671914514886,
+          "shortPixels": 0.6675072790603198,
+          "areaPixels": 0.692249899168511
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 39,
+      "name": "JM168_VentilationShape",
+      "materials": [
+        "JM168_Ventilation_540"
+      ],
+      "classification": "unknown",
+      "triangles": 160,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "keep",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -3.5459017753601074,
+            5.600695610046387,
+            -27.251901626586914
+          ],
+          "max": [
+            -1.384229063987732,
+            5.98166036605835,
+            -24.111099243164062
+          ]
+        },
+        "dimensions": [
+          2.1616727113723755,
+          0.3809647560119629,
+          3.1408023834228516
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        },
+        "far": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 40,
+      "name": "JM178_winchShape",
+      "materials": [
+        "JM178_winch_328"
+      ],
+      "classification": "unknown",
+      "triangles": 276,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "keep",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            1.8186321258544922,
+            3.270089864730835,
+            -6.283331394195557
+          ],
+          "max": [
+            2.9977264404296875,
+            4.163029670715332,
+            -3.826885223388672
+          ]
+        },
+        "dimensions": [
+          1.1790943145751953,
+          0.8929398059844971,
+          2.4564461708068848
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        },
+        "far": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 41,
+      "name": "JM202_FenderShape",
+      "materials": [
+        "JM202_Fender_534"
+      ],
+      "classification": "unknown",
+      "triangles": 1088,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "keep",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -3.3200812339782715,
+            3.1425275802612305,
+            1.8962039947509766
+          ],
+          "max": [
+            3.5786545276641846,
+            6.393658638000488,
+            34.033416748046875
+          ]
+        },
+        "dimensions": [
+          6.898735761642456,
+          3.251131057739258,
+          32.1372127532959
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        },
+        "far": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 42,
+      "name": "JM202_FenderShape1",
+      "materials": [
+        "JM202_Fender_534"
+      ],
+      "classification": "unknown",
+      "triangles": 544,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "keep",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -2.3202643394470215,
+            3.1425247192382812,
+            -36.60880661010742
+          ],
+          "max": [
+            2.3530170917510986,
+            4.357819557189941,
+            -35.40213394165039
+          ]
+        },
+        "dimensions": [
+          4.67328143119812,
+          1.2152948379516602,
+          1.2066726684570312
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        },
+        "far": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 43,
+      "name": "JM208Shape",
+      "materials": [
+        "JM208_Controler_Sl_341"
+      ],
+      "classification": "unknown",
+      "triangles": 338,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "keep",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -0.19651570916175842,
+            10.189513206481934,
+            23.264699935913086
+          ],
+          "max": [
+            0.4550890028476715,
+            11.687515258789062,
+            24.436899185180664
+          ]
+        },
+        "dimensions": [
+          0.6516047120094299,
+          1.498002052307129,
+          1.1721992492675781
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        },
+        "far": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 44,
+      "name": "JM235_Crane_Paravane_R_JMShape235",
+      "materials": [
+        "JM226_Float_172"
+      ],
+      "classification": "unknown",
+      "triangles": 2061,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "keep",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            1.4549057483673096,
+            3.214923620223999,
+            -61.18189239501953
+          ],
+          "max": [
+            4.276802062988281,
+            6.950445652008057,
+            -57.38603591918945
+          ]
+        },
+        "dimensions": [
+          2.8218963146209717,
+          3.7355220317840576,
+          3.795856475830078
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        },
+        "far": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 45,
+      "name": "JM235Shape",
+      "materials": [
+        "JM226_Float_172"
+      ],
+      "classification": "unknown",
+      "triangles": 2061,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "keep",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -4.018229007720947,
+            3.214923620223999,
+            -61.18189239501953
+          ],
+          "max": [
+            -1.1963324546813965,
+            6.950445652008057,
+            -57.38603591918945
+          ]
+        },
+        "dimensions": [
+          2.821896553039551,
+          3.7355220317840576,
+          3.795856475830078
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        },
+        "far": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 46,
+      "name": "JM243_Gyro_1Shape",
+      "materials": [
+        "JM249_327_364"
+      ],
+      "classification": "unknown",
+      "triangles": 616,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "keep",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -0.2896021008491516,
+            10.1757230758667,
+            32.232025146484375
+          ],
+          "max": [
+            0.5343848466873169,
+            11.523752212524414,
+            32.828468322753906
+          ]
+        },
+        "dimensions": [
+          0.8239869475364685,
+          1.3480291366577148,
+          0.5964431762695312
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        },
+        "far": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 47,
+      "name": "JM244_Gyro_2Shape",
+      "materials": [
+        "JM249_327_364"
+      ],
+      "classification": "unknown",
+      "triangles": 396,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "keep",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -0.29304975271224976,
+            10.180895805358887,
+            33.157718658447266
+          ],
+          "max": [
+            0.532660961151123,
+            11.613390922546387,
+            33.68865203857422
+          ]
+        },
+        "dimensions": [
+          0.8257107138633728,
+          1.4324951171875,
+          0.5309333801269531
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        },
+        "far": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 48,
+      "name": "JM247_Electric_gauge_LShape",
+      "materials": [
+        "JM249_327_364"
+      ],
+      "classification": "unknown",
+      "triangles": 156,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "keep",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -1.0584267377853394,
+            10.398097038269043,
+            33.536956787109375
+          ],
+          "max": [
+            -0.7171099781990051,
+            11.470314025878906,
+            33.87999725341797
+          ]
+        },
+        "dimensions": [
+          0.34131675958633423,
+          1.0722169876098633,
+          0.34304046630859375
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        },
+        "far": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 49,
+      "name": "JM249_Gauge_Shape1",
+      "materials": [
+        "JM249_327_364"
+      ],
+      "classification": "unknown",
+      "triangles": 48,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "keep",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            0.4102696478366852,
+            11.185883522033691,
+            33.711063385009766
+          ],
+          "max": [
+            0.6412618160247803,
+            11.537543296813965,
+            33.895511627197266
+          ]
+        },
+        "dimensions": [
+          0.2309921681880951,
+          0.35165977478027344,
+          0.1844482421875
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        },
+        "far": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 50,
+      "name": "JM251_Gauge_Shape3",
+      "materials": [
+        "JM249_327_364"
+      ],
+      "classification": "unknown",
+      "triangles": 48,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "keep",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            0.4102696478366852,
+            10.83077621459961,
+            33.554195404052734
+          ],
+          "max": [
+            0.6412618160247803,
+            11.14795970916748,
+            33.77656936645508
+          ]
+        },
+        "dimensions": [
+          0.2309921681880951,
+          0.3171834945678711,
+          0.22237396240234375
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        },
+        "far": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 51,
+      "name": "JM252_Gauge_Shape4",
+      "materials": [
+        "JM249_327_364"
+      ],
+      "classification": "unknown",
+      "triangles": 48,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "keep",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            0.7309005260467529,
+            10.841118812561035,
+            33.58522415161133
+          ],
+          "max": [
+            0.9618927240371704,
+            11.122101783752441,
+            33.77139663696289
+          ]
+        },
+        "dimensions": [
+          0.23099219799041748,
+          0.28098297119140625,
+          0.1861724853515625
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        },
+        "far": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 52,
+      "name": "JM256_Gauge_Shape7",
+      "materials": [
+        "JM249_327_364"
+      ],
+      "classification": "unknown",
+      "triangles": 44,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "keep",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -0.47060340642929077,
+            10.751480102539062,
+            33.828285217285156
+          ],
+          "max": [
+            -0.21892540156841278,
+            11.030739784240723,
+            33.93171310424805
+          ]
+        },
+        "dimensions": [
+          0.251678004860878,
+          0.27925968170166016,
+          0.10342788696289062
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        },
+        "far": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 53,
+      "name": "JM259_Gauge_Shape8",
+      "materials": [
+        "JM249_327_364"
+      ],
+      "classification": "unknown",
+      "triangles": 50,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "keep",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            0.7205576300621033,
+            11.192778587341309,
+            33.68003463745117
+          ],
+          "max": [
+            0.9308639168739319,
+            11.523752212524414,
+            33.895511627197266
+          ]
+        },
+        "dimensions": [
+          0.2103062868118286,
+          0.33097362518310547,
+          0.21547698974609375
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        },
+        "far": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 54,
+      "name": "JM262_Fuse_Box_2Shape",
+      "materials": [
+        "JM249_327_364"
+      ],
+      "classification": "unknown",
+      "triangles": 68,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "keep",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -2.1858062744140625,
+            10.82215690612793,
+            31.68901824951172
+          ],
+          "max": [
+            -2.0306622982025146,
+            11.263455390930176,
+            31.9941349029541
+          ]
+        },
+        "dimensions": [
+          0.15514397621154785,
+          0.4412984848022461,
+          0.3051166534423828
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        },
+        "far": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 55,
+      "name": "JM263_Small_fuse_boxShape",
+      "materials": [
+        "JM249_327_364"
+      ],
+      "classification": "unknown",
+      "triangles": 26,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "keep",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -2.1858062744140625,
+            11.039358139038086,
+            32.133766174316406
+          ],
+          "max": [
+            -2.101339101791382,
+            11.244492530822754,
+            32.259605407714844
+          ]
+        },
+        "dimensions": [
+          0.08446717262268066,
+          0.20513439178466797,
+          0.1258392333984375
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        },
+        "far": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 56,
+      "name": "JM303_Running_Lights_FShape",
+      "materials": [
+        "JM303_Running_Lights_F_8"
+      ],
+      "classification": "deck-fitting",
+      "triangles": 112,
+      "near": "keep",
+      "medium": "keep",
+      "far": "omit-candidate",
+      "auxiliary": "omit-candidate",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -0.03447644039988518,
+            19.634334564208984,
+            23.25952911376953
+          ],
+          "max": [
+            0.29477357864379883,
+            22.323495864868164,
+            23.640493392944336
+          ]
+        },
+        "dimensions": [
+          0.329250019043684,
+          2.6891613006591797,
+          0.3809642791748047
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "visible size exceeds omission threshold",
+          "longPixels": 4.81940536929763,
+          "shortPixels": 0.8869855360383355,
+          "areaPixels": 4.274742854872491
+        },
+        "far": {
+          "action": "omit-candidate",
+          "reason": "below conservative CSS pixel envelope",
+          "longPixels": 1.8072770134866116,
+          "shortPixels": 0.3326195760143758,
+          "areaPixels": 0.601135713966444
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 57,
+      "name": "JM304_Running_Lights_BShape",
+      "materials": [
+        "JM303_Running_Lights_F_8"
+      ],
+      "classification": "deck-fitting",
+      "triangles": 96,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "omit-candidate",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -0.9980929493904114,
+            4.278521537780762,
+            -65.16046905517578
+          ],
+          "max": [
+            0.25340184569358826,
+            15.941904067993164,
+            -24.814420700073242
+          ]
+        },
+        "dimensions": [
+          1.2514947950839996,
+          11.663382530212402,
+          40.34604835510254
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "visible size exceeds omission threshold",
+          "longPixels": 74.01435207348642,
+          "shortPixels": 20.663515795416902,
+          "areaPixels": 1529.3967331580345
+        },
+        "far": {
+          "action": "keep",
+          "reason": "visible size exceeds omission threshold",
+          "longPixels": 27.75538202755741,
+          "shortPixels": 7.748818423281339,
+          "areaPixels": 215.07141560034862
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 58,
+      "name": "JM366_Rangefinder_2mShape",
+      "materials": [
+        "JM366_Rangefinder_2m_441"
+      ],
+      "classification": "unknown",
+      "triangles": 723,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "keep",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -2.135815382003784,
+            6.200585842132568,
+            -20.268699645996094
+          ],
+          "max": [
+            0.37406936287879944,
+            8.379497528076172,
+            -19.218891143798828
+          ]
+        },
+        "dimensions": [
+          2.5098847448825836,
+          2.1789116859436035,
+          1.0498085021972656
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        },
+        "far": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 59,
+      "name": "JM367_Rangefinder_66cm1Shape",
+      "materials": [
+        "JM366_Rangefinder_2m_441"
+      ],
+      "classification": "unknown",
+      "triangles": 334,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "keep",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -0.3102879822254181,
+            12.64423656463623,
+            30.723678588867188
+          ],
+          "max": [
+            0.5705850720405579,
+            13.27687931060791,
+            31.021902084350586
+          ]
+        },
+        "dimensions": [
+          0.880873054265976,
+          0.6326427459716797,
+          0.29822349548339844
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        },
+        "far": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 60,
+      "name": "JM397_ventilationShape",
+      "materials": [
+        "JM397_Ventilation_678"
+      ],
+      "classification": "unknown",
+      "triangles": 1056,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "keep",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -4.673281192779541,
+            5.264554500579834,
+            28.089679718017578
+          ],
+          "max": [
+            4.931854724884033,
+            6.383316993713379,
+            54.14524841308594
+          ]
+        },
+        "dimensions": [
+          9.605135917663574,
+          1.118762493133545,
+          26.05556869506836
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        },
+        "far": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 61,
+      "name": "JM402_610mm_93_torpedo_bogieShape",
+      "materials": [
+        "JM402_610mm_93_torpedo_bogie_503"
+      ],
+      "classification": "protected",
+      "triangles": 526,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "keep",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -4.847387313842773,
+            3.3614542484283447,
+            15.360978126525879
+          ],
+          "max": [
+            -3.864809036254883,
+            4.2957658767700195,
+            16.534900665283203
+          ]
+        },
+        "dimensions": [
+          0.9825782775878906,
+          0.9343116283416748,
+          1.1739225387573242
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        },
+        "far": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 62,
+      "name": "JM403_Torpedo_DirectorShape",
+      "materials": [
+        "JM403_Torpedo_Director_978"
+      ],
+      "classification": "protected",
+      "triangles": 2004,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "keep",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -2.506437063217163,
+            10.18951416015625,
+            30.18239974975586
+          ],
+          "max": [
+            2.765010356903076,
+            11.832316398620605,
+            31.183940887451172
+          ]
+        },
+        "dimensions": [
+          5.271447420120239,
+          1.6428022384643555,
+          1.0015411376953125
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        },
+        "far": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 63,
+      "name": "JM450_InsulatorShape",
+      "materials": [
+        "JM005_Freon_Cylinder_519"
+      ],
+      "classification": "deck-fitting",
+      "triangles": 256,
+      "near": "keep",
+      "medium": "keep",
+      "far": "omit-candidate",
+      "auxiliary": "omit-candidate",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -2.380598306655884,
+            9.420689582824707,
+            26.81922149658203
+          ],
+          "max": [
+            2.639171600341797,
+            9.865435600280762,
+            30.11861801147461
+          ]
+        },
+        "dimensions": [
+          5.019769906997681,
+          0.4447460174560547,
+          3.299396514892578
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "visible size exceeds omission threshold",
+          "longPixels": 10.61057438425016,
+          "shortPixels": 5.864601496196252,
+          "areaPixels": 62.22679040937511
+        },
+        "far": {
+          "action": "omit-candidate",
+          "reason": "below conservative CSS pixel envelope",
+          "longPixels": 3.97896539409381,
+          "shortPixels": 2.1992255610735945,
+          "areaPixels": 8.750642401318375
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 64,
+      "name": "JM450_InsulatorShape1",
+      "materials": [
+        "JM005_Freon_Cylinder_519"
+      ],
+      "classification": "deck-fitting",
+      "triangles": 160,
+      "near": "keep",
+      "medium": "keep",
+      "far": "omit-candidate",
+      "auxiliary": "omit-candidate",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -1.8927565813064575,
+            7.052154064178467,
+            -25.841815948486328
+          ],
+          "max": [
+            -0.21892540156841278,
+            7.203850269317627,
+            -20.64449119567871
+          ]
+        },
+        "dimensions": [
+          1.6738311797380447,
+          0.15169620513916016,
+          5.197324752807617
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "visible size exceeds omission threshold",
+          "longPixels": 9.622119515302701,
+          "shortPixels": 2.9606137007837754,
+          "areaPixels": 28.48737886758412
+        },
+        "far": {
+          "action": "omit-candidate",
+          "reason": "below conservative CSS pixel envelope",
+          "longPixels": 3.6082948182385133,
+          "shortPixels": 1.1102301377939159,
+          "areaPixels": 4.006037653254017
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 65,
+      "name": "JMShape226",
+      "materials": [
+        "JM226_Float_172"
+      ],
+      "classification": "unknown",
+      "triangles": 232,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "keep",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -0.691252589225769,
+            3.3580007553100586,
+            -60.971580505371094
+          ],
+          "max": [
+            0.9308639168739319,
+            4.076834678649902,
+            -59.62527847290039
+          ]
+        },
+        "dimensions": [
+          1.622116506099701,
+          0.7188339233398438,
+          1.3463020324707031
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        },
+        "far": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 66,
+      "name": "JMShape288",
+      "materials": [
+        "CM092_Siren_962"
+      ],
+      "classification": "unknown",
+      "triangles": 224,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "keep",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -0.8274345397949219,
+            11.16692066192627,
+            17.851898193359375
+          ],
+          "max": [
+            1.0877315998077393,
+            11.666829109191895,
+            18.091510772705078
+          ]
+        },
+        "dimensions": [
+          1.9151661396026611,
+          0.499908447265625,
+          0.23961257934570312
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        },
+        "far": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 67,
+      "name": "JRS105Shape",
+      "materials": [
+        "JRS105_Radar_Type_22_skinned_927"
+      ],
+      "classification": "protected",
+      "triangles": 440,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "keep",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -0.16721074283123016,
+            15.529913902282715,
+            24.20418357849121
+          ],
+          "max": [
+            0.42578402161598206,
+            17.302001953125,
+            26.595125198364258
+          ]
+        },
+        "dimensions": [
+          0.5929947644472122,
+          1.7720880508422852,
+          2.390941619873047
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        },
+        "far": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 68,
+      "name": "Ladder_ClosedShape",
+      "materials": [
+        "CM021_Accommodation_Ladder_924"
+      ],
+      "classification": "unknown",
+      "triangles": 204,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "keep",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -3.447643995285034,
+            3.2821578979492188,
+            9.849919319152832
+          ],
+          "max": [
+            -1.9048233032226562,
+            4.368165493011475,
+            15.56783676147461
+          ]
+        },
+        "dimensions": [
+          1.542820692062378,
+          1.0860075950622559,
+          5.717917442321777
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        },
+        "far": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 69,
+      "name": "MidBack_NetShape",
+      "materials": [
+        "C004_Grid_1_alpha_331"
+      ],
+      "classification": "unknown",
+      "triangles": 41,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "keep",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -1.7393362522125244,
+            5.750668525695801,
+            -27.113996505737305
+          ],
+          "max": [
+            0.3895837664604187,
+            6.760828018188477,
+            -20.323862075805664
+          ]
+        },
+        "dimensions": [
+          2.128920018672943,
+          1.0101594924926758,
+          6.790134429931641
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        },
+        "far": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 70,
+      "name": "MidBack_patch_SternShape",
+      "materials": [
+        "JSD031_Kagero_1944_802"
+      ],
+      "classification": "unknown",
+      "triangles": 12,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "keep",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            0.0724005252122879,
+            -0.056886229664087296,
+            -1.384229063987732
+          ],
+          "max": [
+            0.18617278337478638,
+            0.05688602849841118,
+            -1.268733024597168
+          ]
+        },
+        "dimensions": [
+          0.11377225816249847,
+          0.11377225816249847,
+          0.11549603939056396
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        },
+        "far": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 71,
+      "name": "MidBack_wireShape",
+      "materials": [
+        "JSD031_Kagero_1944_wire_335"
+      ],
+      "classification": "rigging",
+      "triangles": 2604,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "omit-candidate",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -5.840309143066406,
+            1.1997758150100708,
+            -67.7875747680664
+          ],
+          "max": [
+            6.09888219833374,
+            17.460590362548828,
+            -18.8344783782959
+          ]
+        },
+        "dimensions": [
+          11.939191341400146,
+          16.260814547538757,
+          48.95309638977051
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "visible size exceeds omission threshold",
+          "longPixels": 93.26819962027315,
+          "shortPixels": 35.536024717457074,
+          "areaPixels": 3314.3810470587473
+        },
+        "far": {
+          "action": "keep",
+          "reason": "visible size exceeds omission threshold",
+          "longPixels": 34.97557485760243,
+          "shortPixels": 13.326009269046402,
+          "areaPixels": 466.0848347426363
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 72,
+      "name": "MidBackShape",
+      "materials": [
+        "JSD031_Kagero_1944_802"
+      ],
+      "classification": "unknown",
+      "triangles": 22346,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "keep",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -6.2023115158081055,
+            -4.323348522186279,
+            -68.12200164794922
+          ],
+          "max": [
+            6.462608814239502,
+            17.208913803100586,
+            -11.022117614746094
+          ]
+        },
+        "dimensions": [
+          12.664920330047607,
+          21.532262325286865,
+          57.099884033203125
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        },
+        "far": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 73,
+      "name": "MidFront_glassShape",
+      "materials": [
+        "transparent_glass_alpha_670"
+      ],
+      "classification": "unknown",
+      "triangles": 42,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "keep",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -2.8529253005981445,
+            11.384122848510742,
+            29.99967384338379
+          ],
+          "max": [
+            3.1114985942840576,
+            12.394282341003418,
+            33.959293365478516
+          ]
+        },
+        "dimensions": [
+          5.964423894882202,
+          1.0101594924926758,
+          3.9596195220947266
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        },
+        "far": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 74,
+      "name": "MidFront_NetShape",
+      "materials": [
+        "C004_Grid_1_alpha_331"
+      ],
+      "classification": "unknown",
+      "triangles": 352,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "keep",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -4.8629021644592285,
+            4.918063640594482,
+            -8.781149864196777
+          ],
+          "max": [
+            5.1214752197265625,
+            8.036460876464844,
+            29.9531307220459
+          ]
+        },
+        "dimensions": [
+          9.984377384185791,
+          3.1183972358703613,
+          38.734280586242676
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        },
+        "far": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 75,
+      "name": "MidFront_patch_MidBack_wireShape",
+      "materials": [
+        "JSD031_Kagero_1944_wire_335"
+      ],
+      "classification": "rigging",
+      "triangles": 108,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "omit-candidate",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -2.5236754417419434,
+            7.124554634094238,
+            -24.717884063720703
+          ],
+          "max": [
+            1.7445077896118164,
+            24.050765991210938,
+            23.340547561645508
+          ]
+        },
+        "dimensions": [
+          4.26818323135376,
+          16.9262113571167,
+          48.05843162536621
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "visible size exceeds omission threshold",
+          "longPixels": 90.06867809554232,
+          "shortPixels": 30.74964195175303,
+          "areaPixels": 2769.5796025056275
+        },
+        "far": {
+          "action": "keep",
+          "reason": "visible size exceeds omission threshold",
+          "longPixels": 33.77575428582838,
+          "shortPixels": 11.531115731907388,
+          "areaPixels": 389.47213160235395
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 76,
+      "name": "MidFront_patch_MidBackShape",
+      "materials": [
+        "JSD031_Kagero_1944_802"
+      ],
+      "classification": "unknown",
+      "triangles": 460,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "keep",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -6.264369010925293,
+            -4.3233466148376465,
+            -14.295656204223633
+          ],
+          "max": [
+            6.522942066192627,
+            3.5424535274505615,
+            -7.246947765350342
+          ]
+        },
+        "dimensions": [
+          12.78731107711792,
+          7.865800142288208,
+          7.048708438873291
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        },
+        "far": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 77,
+      "name": "MidFront_wireShape",
+      "materials": [
+        "JSD031_Kagero_1944_wire_335"
+      ],
+      "classification": "rigging",
+      "triangles": 12753,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "omit-candidate",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -5.955804824829102,
+            3.013242244720459,
+            -8.84837818145752
+          ],
+          "max": [
+            6.214378356933594,
+            26.340002059936523,
+            67.96167755126953
+          ]
+        },
+        "dimensions": [
+          12.170183181762695,
+          23.326759815216064,
+          76.81005573272705
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "visible size exceeds omission threshold",
+          "longPixels": 143.0222553849402,
+          "shortPixels": 46.34743107185538,
+          "areaPixels": 6628.714123194813
+        },
+        "far": {
+          "action": "keep",
+          "reason": "visible size exceeds omission threshold",
+          "longPixels": 53.63334576935257,
+          "shortPixels": 17.38028665194577,
+          "areaPixels": 932.1629235742706
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 78,
+      "name": "MidFrontShape",
+      "materials": [
+        "JSD031_Kagero_1944_802"
+      ],
+      "classification": "unknown",
+      "triangles": 53745,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "keep",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -6.316083908081055,
+            -4.32334566116333,
+            -11.234148025512695
+          ],
+          "max": [
+            6.574656963348389,
+            26.003856658935547,
+            68.12200164794922
+          ]
+        },
+        "dimensions": [
+          12.890740871429443,
+          30.327202320098877,
+          79.35614967346191
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        },
+        "far": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 79,
+      "name": "Propeller_meshShape",
+      "materials": [
+        "CM001_Propeller_62"
+      ],
+      "classification": "unknown",
+      "triangles": 166,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "keep",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            1.9289567470550537,
+            -4.442293643951416,
+            -59.363258361816406
+          ],
+          "max": [
+            4.681900501251221,
+            -1.892760992050171,
+            -57.286048889160156
+          ]
+        },
+        "dimensions": [
+          2.752943754196167,
+          2.549532651901245,
+          2.07720947265625
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        },
+        "far": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 80,
+      "name": "Propeller_meshShape1",
+      "materials": [
+        "CM001_Propeller_62"
+      ],
+      "classification": "unknown",
+      "triangles": 166,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "keep",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -4.426774978637695,
+            -4.445741653442383,
+            -59.36842727661133
+          ],
+          "max": [
+            -1.666935920715332,
+            -1.8893131017684937,
+            -57.286048889160156
+          ]
+        },
+        "dimensions": [
+          2.7598390579223633,
+          2.556428551673889,
+          2.082378387451172
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        },
+        "far": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 81,
+      "name": "RangefinderShape",
+      "materials": [
+        "JF034_Rangefinder_3m_896"
+      ],
+      "classification": "unknown",
+      "triangles": 216,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "keep",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -1.6117736101150513,
+            14.159475326538086,
+            27.765602111816406
+          ],
+          "max": [
+            1.8720706701278687,
+            15.067930221557617,
+            28.7757625579834
+          ]
+        },
+        "dimensions": [
+          3.48384428024292,
+          0.9084548950195312,
+          1.0101604461669922
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        },
+        "far": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 82,
+      "name": "Rotate_YShape",
+      "materials": [
+        "JM030_Wind_detection_304"
+      ],
+      "classification": "unknown",
+      "triangles": 50,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "keep",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            1.1497892141342163,
+            24.51102638244629,
+            23.137136459350586
+          ],
+          "max": [
+            1.546268343925476,
+            24.623075485229492,
+            23.53533935546875
+          ]
+        },
+        "dimensions": [
+          0.39647912979125977,
+          0.11204910278320312,
+          0.39820289611816406
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        },
+        "far": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 83,
+      "name": "Ships_bellShape",
+      "materials": [
+        "CM056_Ships_bell_873"
+      ],
+      "classification": "deck-fitting",
+      "triangles": 93,
+      "near": "keep",
+      "medium": "omit-candidate",
+      "far": "omit-candidate",
+      "auxiliary": "omit-candidate",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -2.440932035446167,
+            4.1113176345825195,
+            24.5627384185791
+          ],
+          "max": [
+            -1.8410418033599854,
+            5.464518070220947,
+            25.162630081176758
+          ]
+        },
+        "dimensions": [
+          0.5998902320861816,
+          1.3532004356384277,
+          0.5998916625976562
+        ],
+        "medium": {
+          "action": "omit-candidate",
+          "reason": "below conservative CSS pixel envelope",
+          "longPixels": 2.81345314644564,
+          "shortPixels": 1.494449182032094,
+          "areaPixels": 4.204562753391308
+        },
+        "far": {
+          "action": "omit-candidate",
+          "reason": "below conservative CSS pixel envelope",
+          "longPixels": 1.055044929917115,
+          "shortPixels": 0.5604184432620353,
+          "areaPixels": 0.5912666371956526
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 84,
+      "name": "SignalPlatformShape",
+      "materials": [
+        "JM089_Signal_Platform_1_20"
+      ],
+      "classification": "unknown",
+      "triangles": 72,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "keep",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -2.263378143310547,
+            12.42358684539795,
+            30.692651748657227
+          ],
+          "max": [
+            2.5236754417419434,
+            13.604406356811523,
+            31.364940643310547
+          ]
+        },
+        "dimensions": [
+          4.78705358505249,
+          1.1808195114135742,
+          0.6722888946533203
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        },
+        "far": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 85,
+      "name": "singleTurretShape",
+      "materials": [
+        "JGA018_25mm_Type96_single_560"
+      ],
+      "classification": "protected",
+      "triangles": 692,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "keep",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            3.313185930252075,
+            5.431766033172607,
+            36.033050537109375
+          ],
+          "max": [
+            5.33522891998291,
+            8.026118278503418,
+            38.31366729736328
+          ]
+        },
+        "dimensions": [
+          2.022042989730835,
+          2.5943522453308105,
+          2.2806167602539062
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        },
+        "far": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 86,
+      "name": "singleTurretShape1",
+      "materials": [
+        "JGA018_25mm_Type96_single_560"
+      ],
+      "classification": "protected",
+      "triangles": 692,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "keep",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -6.574656963348389,
+            3.145972728729248,
+            -31.916563034057617
+          ],
+          "max": [
+            -3.8941140174865723,
+            5.742048740386963,
+            -30.894338607788086
+          ]
+        },
+        "dimensions": [
+          2.6805429458618164,
+          2.596076011657715,
+          1.0222244262695312
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        },
+        "far": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 87,
+      "name": "singleTurretShape2",
+      "materials": [
+        "JGA018_25mm_Type96_single_560"
+      ],
+      "classification": "protected",
+      "triangles": 692,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "keep",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -6.238511562347412,
+            3.166658401489258,
+            -35.80550765991211
+          ],
+          "max": [
+            -3.5579683780670166,
+            5.76101016998291,
+            -34.78327941894531
+          ]
+        },
+        "dimensions": [
+          2.6805431842803955,
+          2.5943517684936523,
+          1.0222282409667969
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        },
+        "far": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 88,
+      "name": "singleTurretShape3",
+      "materials": [
+        "JGA018_25mm_Type96_single_560"
+      ],
+      "classification": "protected",
+      "triangles": 692,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "keep",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            3.0356504917144775,
+            3.197685956954956,
+            -51.44401931762695
+          ],
+          "max": [
+            5.317990779876709,
+            5.7920379638671875,
+            -49.42197799682617
+          ]
+        },
+        "dimensions": [
+          2.2823402881622314,
+          2.5943520069122314,
+          2.0220413208007812
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        },
+        "far": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 89,
+      "name": "singleTurretShape4",
+      "materials": [
+        "JGA018_25mm_Type96_single_560"
+      ],
+      "classification": "protected",
+      "triangles": 692,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "keep",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            2.8563730716705322,
+            3.2063047885894775,
+            -55.3795051574707
+          ],
+          "max": [
+            5.138713359832764,
+            5.800656795501709,
+            -53.357460021972656
+          ]
+        },
+        "dimensions": [
+          2.2823402881622314,
+          2.5943520069122314,
+          2.022045135498047
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        },
+        "far": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 90,
+      "name": "singleTurretShape5",
+      "materials": [
+        "JGA018_25mm_Type96_single_560"
+      ],
+      "classification": "protected",
+      "triangles": 692,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "keep",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -5.076655864715576,
+            5.431766033172607,
+            36.291622161865234
+          ],
+          "max": [
+            -2.7943155765533447,
+            8.026118278503418,
+            38.31366729736328
+          ]
+        },
+        "dimensions": [
+          2.2823402881622314,
+          2.5943522453308105,
+          2.022045135498047
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        },
+        "far": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 91,
+      "name": "singleTurretShape6",
+      "materials": [
+        "JGA018_25mm_Type96_single_560"
+      ],
+      "classification": "protected",
+      "triangles": 692,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "keep",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            3.4872918128967285,
+            5.411079406738281,
+            32.057918548583984
+          ],
+          "max": [
+            6.167835235595703,
+            8.00543212890625,
+            33.08014678955078
+          ]
+        },
+        "dimensions": [
+          2.6805434226989746,
+          2.5943527221679688,
+          1.0222282409667969
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        },
+        "far": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 92,
+      "name": "singleTurretShape7",
+      "materials": [
+        "JGA018_25mm_Type96_single_560"
+      ],
+      "classification": "protected",
+      "triangles": 692,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "keep",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -5.909261703491211,
+            5.411079406738281,
+            32.42336654663086
+          ],
+          "max": [
+            -3.2287187576293945,
+            8.00543212890625,
+            33.445594787597656
+          ]
+        },
+        "dimensions": [
+          2.6805429458618164,
+          2.5943527221679688,
+          1.0222282409667969
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        },
+        "far": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 93,
+      "name": "singleTurretShape8",
+      "materials": [
+        "JGA018_25mm_Type96_single_560"
+      ],
+      "classification": "protected",
+      "triangles": 692,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "keep",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            3.5355591773986816,
+            5.411079406738281,
+            28.655092239379883
+          ],
+          "max": [
+            6.216102123260498,
+            8.00543212890625,
+            29.677318572998047
+          ]
+        },
+        "dimensions": [
+          2.6805429458618164,
+          2.5943527221679688,
+          1.022226333618164
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        },
+        "far": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 94,
+      "name": "singleTurretShape9",
+      "materials": [
+        "JGA018_25mm_Type96_single_560"
+      ],
+      "classification": "protected",
+      "triangles": 692,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "keep",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -5.957529067993164,
+            5.411079406738281,
+            29.02054214477539
+          ],
+          "max": [
+            -3.2769856452941895,
+            8.00543212890625,
+            30.042768478393555
+          ]
+        },
+        "dimensions": [
+          2.6805434226989746,
+          2.5943527221679688,
+          1.022226333618164
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        },
+        "far": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 95,
+      "name": "SternShape",
+      "materials": [
+        "JSD031_Kagero_1944_802"
+      ],
+      "classification": "unknown",
+      "triangles": 12,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "keep",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -0.4447460472583771,
+            -0.5740329623222351,
+            -2.590904474258423
+          ],
+          "max": [
+            0.7050431966781616,
+            0.5740326046943665,
+            -1.4411152601242065
+          ]
+        },
+        "dimensions": [
+          1.1497892439365387,
+          1.1480655670166016,
+          1.1497892141342163
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        },
+        "far": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 96,
+      "name": "Turret1Shape",
+      "materials": [
+        "JGM151_127mm50_Type_C_712"
+      ],
+      "classification": "protected",
+      "triangles": 19,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "keep",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -0.4619843065738678,
+            9.151768684387207,
+            -32.30097961425781
+          ],
+          "max": [
+            0.7205576300621033,
+            11.241040229797363,
+            -31.68557357788086
+          ]
+        },
+        "dimensions": [
+          1.182541936635971,
+          2.0892715454101562,
+          0.6154060363769531
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        },
+        "far": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 97,
+      "name": "TurretShape",
+      "materials": [
+        "JGA010_25mm_Type96_613"
+      ],
+      "classification": "protected",
+      "triangles": 2518,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "keep",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -1.1463416814804077,
+            7.948545932769775,
+            35.63140106201172
+          ],
+          "max": [
+            1.4583534002304077,
+            10.213648796081543,
+            38.32918167114258
+          ]
+        },
+        "dimensions": [
+          2.6046950817108154,
+          2.2651028633117676,
+          2.6977806091308594
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        },
+        "far": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 98,
+      "name": "TurretShape1",
+      "materials": [
+        "JGM151_127mm50_Type_C_skinned_680"
+      ],
+      "classification": "protected",
+      "triangles": 3750,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "keep",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -2.6908860206604004,
+            5.805835723876953,
+            43.474788665771484
+          ],
+          "max": [
+            2.951183319091797,
+            8.841486930847168,
+            53.686710357666016
+          ]
+        },
+        "dimensions": [
+          5.642069339752197,
+          3.035651206970215,
+          10.211921691894531
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        },
+        "far": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 99,
+      "name": "TurretShape2",
+      "materials": [
+        "JGA010_25mm_Type96_613"
+      ],
+      "classification": "protected",
+      "triangles": 2518,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "keep",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            2.2340734004974365,
+            7.231433391571045,
+            -0.7636537551879883
+          ],
+          "max": [
+            4.9335784912109375,
+            9.496535301208496,
+            1.8393175601959229
+          ]
+        },
+        "dimensions": [
+          2.699505090713501,
+          2.265101909637451,
+          2.602971315383911
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        },
+        "far": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 100,
+      "name": "TurretShape3",
+      "materials": [
+        "JGM151_127mm50_Type_C_skinned_680"
+      ],
+      "classification": "protected",
+      "triangles": 3750,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "keep",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -2.692610025405884,
+            6.043717384338379,
+            -38.19127655029297
+          ],
+          "max": [
+            2.9494593143463135,
+            9.079368591308594,
+            -27.97935676574707
+          ]
+        },
+        "dimensions": [
+          5.642069339752197,
+          3.035651206970215,
+          10.211919784545898
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        },
+        "far": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 101,
+      "name": "TurretShape4",
+      "materials": [
+        "JGA010_25mm_Type96_613"
+      ],
+      "classification": "protected",
+      "triangles": 2518,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "keep",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -4.675004959106445,
+            7.231433391571045,
+            -0.7102152109146118
+          ],
+          "max": [
+            -1.9755001068115234,
+            9.496535301208496,
+            1.8927559852600098
+          ]
+        },
+        "dimensions": [
+          2.699504852294922,
+          2.265101909637451,
+          2.6029711961746216
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        },
+        "far": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 102,
+      "name": "TurretShape5",
+      "materials": [
+        "JGM151_127mm50_Type_C_skinned_680"
+      ],
+      "classification": "protected",
+      "triangles": 3750,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "keep",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -2.692610025405884,
+            3.60968017578125,
+            -47.71711730957031
+          ],
+          "max": [
+            2.9494593143463135,
+            6.645330429077148,
+            -37.50519561767578
+          ]
+        },
+        "dimensions": [
+          5.642069339752197,
+          3.0356502532958984,
+          10.211921691894531
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        },
+        "far": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 103,
+      "name": "WindDirectionShape",
+      "materials": [
+        "JM030_Wind_detection_304"
+      ],
+      "classification": "unknown",
+      "triangles": 67,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "keep",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -1.008435845375061,
+            24.14557647705078,
+            23.097490310668945
+          ],
+          "max": [
+            -0.8705301284790039,
+            24.64203643798828,
+            23.50948143005371
+          ]
+        },
+        "dimensions": [
+          0.13790571689605713,
+          0.4964599609375,
+          0.4119911193847656
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        },
+        "far": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 104,
+      "name": "WindIntensityShape",
+      "materials": [
+        "JM030_Wind_detection_304"
+      ],
+      "classification": "unknown",
+      "triangles": 30,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "keep",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            1.2790758609771729,
+            24.14557647705078,
+            23.26814842224121
+          ],
+          "max": [
+            1.4169816970825195,
+            24.559293746948242,
+            23.404329299926758
+          ]
+        },
+        "dimensions": [
+          0.13790583610534668,
+          0.41371726989746094,
+          0.13618087768554688
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        },
+        "far": {
+          "action": "keep",
+          "reason": "protected, unknown or unsafe source"
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 105,
+      "name": "wiresShape",
+      "materials": [
+        "JM089_Signal_Platform_1_wire_36"
+      ],
+      "classification": "rigging",
+      "triangles": 228,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "omit-candidate",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -2.2064921855926514,
+            12.430482864379883,
+            30.721956253051758
+          ],
+          "max": [
+            2.4667892456054688,
+            13.633710861206055,
+            31.39596939086914
+          ]
+        },
+        "dimensions": [
+          4.67328143119812,
+          1.2032279968261719,
+          0.6740131378173828
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "visible size exceeds omission threshold",
+          "longPixels": 8.583194122534184,
+          "shortPixels": 2.429433194420508,
+          "areaPixels": 20.852296715439554
+        },
+        "far": {
+          "action": "keep",
+          "reason": "visible size exceeds omission threshold",
+          "longPixels": 3.2186977959503196,
+          "shortPixels": 0.9110374479076906,
+          "areaPixels": 2.932354225608688
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 106,
+      "name": "wiresShape1",
+      "materials": [
+        "JM226_Float_wire_196"
+      ],
+      "classification": "rigging",
+      "triangles": 38,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "omit-candidate",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            2.8891255855560303,
+            3.7234511375427246,
+            -59.77180480957031
+          ],
+          "max": [
+            3.821713447570801,
+            6.241954803466797,
+            -58.32034683227539
+          ]
+        },
+        "dimensions": [
+          0.9325878620147705,
+          2.5185036659240723,
+          1.4514579772949219
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "visible size exceeds omission threshold",
+          "longPixels": 5.37756601299081,
+          "shortPixels": 3.039087253438998,
+          "areaPixels": 16.342892324607146
+        },
+        "far": {
+          "action": "keep",
+          "reason": "visible size exceeds omission threshold",
+          "longPixels": 2.016587254871554,
+          "shortPixels": 1.1396577200396243,
+          "areaPixels": 2.29821923314788
+        }
+      },
+      "warnings": []
+    },
+    {
+      "node": 107,
+      "name": "wiresShape2",
+      "materials": [
+        "JM226_Float_wire_196"
+      ],
+      "classification": "rigging",
+      "triangles": 38,
+      "near": "keep",
+      "medium": "keep",
+      "far": "keep",
+      "auxiliary": "omit-candidate",
+      "pixelPolicy": {
+        "bounds": {
+          "min": [
+            -3.5631399154663086,
+            3.5510687828063965,
+            -60.132080078125
+          ],
+          "max": [
+            -2.628828525543213,
+            6.241954803466797,
+            -58.32034683227539
+          ]
+        },
+        "dimensions": [
+          0.9343113899230957,
+          2.6908860206604004,
+          1.8117332458496094
+        ],
+        "medium": {
+          "action": "keep",
+          "reason": "visible size exceeds omission threshold",
+          "longPixels": 5.946666007624564,
+          "shortPixels": 3.5908381293444647,
+          "areaPixels": 21.353515042654905
+        },
+        "far": {
+          "action": "keep",
+          "reason": "visible size exceeds omission threshold",
+          "longPixels": 2.2299997528592113,
+          "shortPixels": 1.3465642985041741,
+          "areaPixels": 3.0028380528733454
+        }
+      },
+      "warnings": []
+    }
+  ]
+}

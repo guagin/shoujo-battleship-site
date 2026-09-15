@@ -1,0 +1,1800 @@
+{
+  "version": 1,
+  "asset": "kongo",
+  "sourceSHA256": "fa8e78193f9f3a4d36eb9f1d01832e6be4b2ad67c19c420d5a569597acd71eaf",
+  "lodSHA256": "f70feeefa58e213d0aafedbfe1cd7996a815a99f2cd0854945e90a096582993e",
+  "policy": "rigid preset turrets; original combat anchors retained",
+  "textureLimit": 512,
+  "atlasBytesEstimate": 89478485.33333333,
+  "textures": [
+    {
+      "file": "kongo-distant-pixel-atlas-0-base.png",
+      "sha256": "d4ddd1860ae00d5c818f411e89610939b218f6e8a74a39a073af9874f29c5889",
+      "width": 4096,
+      "height": 4096
+    }
+  ],
+  "levels": [
+    {
+      "level": 1,
+      "file": "kongo-distant-pixel-lod1.glb",
+      "sha256": "9fe893f1474e0a2ef0ea9df50dd1c90a97b3e5fb2acd15a362ae4830712809eb",
+      "bytes": 6421380,
+      "batches": 1,
+      "triangles": 78776,
+      "parts": [
+        {
+          "name": "AircraftDeckRailsShape",
+          "batch": 0,
+          "triangles": 552
+        },
+        {
+          "name": "AnchorShape",
+          "batch": 0,
+          "triangles": 226
+        },
+        {
+          "name": "Binocular_3Shape",
+          "batch": 0,
+          "triangles": 464
+        },
+        {
+          "name": "Boat_StowageShape",
+          "batch": 0,
+          "triangles": 64
+        },
+        {
+          "name": "Boat_StowageShape1",
+          "batch": 0,
+          "triangles": 324
+        },
+        {
+          "name": "Boat_StowageShape2",
+          "batch": 0,
+          "triangles": 64
+        },
+        {
+          "name": "BollardsShape",
+          "batch": 0,
+          "triangles": 108
+        },
+        {
+          "name": "BollardsShape1",
+          "batch": 0,
+          "triangles": 60
+        },
+        {
+          "name": "BollardsShape2",
+          "batch": 0,
+          "triangles": 88
+        },
+        {
+          "name": "Bow_patch_MidFront_wireShape",
+          "batch": 0,
+          "triangles": 84
+        },
+        {
+          "name": "Bow_patch_MidFrontShape",
+          "batch": 0,
+          "triangles": 74
+        },
+        {
+          "name": "Bow_wireShape",
+          "batch": 0,
+          "triangles": 460
+        },
+        {
+          "name": "BowShape",
+          "batch": 0,
+          "triangles": 2600
+        },
+        {
+          "name": "CatapultShape",
+          "batch": 0,
+          "triangles": 987
+        },
+        {
+          "name": "Chain_FairleadShape",
+          "batch": 0,
+          "triangles": 60
+        },
+        {
+          "name": "Chrysanthemum_midShape",
+          "batch": 0,
+          "triangles": 24
+        },
+        {
+          "name": "Chrysanthemum_petal_1Shape",
+          "batch": 0,
+          "triangles": 16
+        },
+        {
+          "name": "Chrysanthemum_petal_1Shape1",
+          "batch": 0,
+          "triangles": 16
+        },
+        {
+          "name": "Chrysanthemum_petal_1Shape2",
+          "batch": 0,
+          "triangles": 16
+        },
+        {
+          "name": "Chrysanthemum_petal_1Shape3",
+          "batch": 0,
+          "triangles": 16
+        },
+        {
+          "name": "Chrysanthemum_petal_1Shape4",
+          "batch": 0,
+          "triangles": 16
+        },
+        {
+          "name": "Chrysanthemum_petal_1Shape5",
+          "batch": 0,
+          "triangles": 16
+        },
+        {
+          "name": "Chrysanthemum_petal_1Shape6",
+          "batch": 0,
+          "triangles": 16
+        },
+        {
+          "name": "Chrysanthemum_petal_1Shape7",
+          "batch": 0,
+          "triangles": 16
+        },
+        {
+          "name": "Chrysanthemum_petal_1Shape8",
+          "batch": 0,
+          "triangles": 16
+        },
+        {
+          "name": "Chrysanthemum_petal_1Shape9",
+          "batch": 0,
+          "triangles": 16
+        },
+        {
+          "name": "Chrysanthemum_petal_1Shape10",
+          "batch": 0,
+          "triangles": 16
+        },
+        {
+          "name": "Chrysanthemum_petal_1Shape11",
+          "batch": 0,
+          "triangles": 16
+        },
+        {
+          "name": "Chrysanthemum_petal_1Shape12",
+          "batch": 0,
+          "triangles": 16
+        },
+        {
+          "name": "Chrysanthemum_petal_1Shape13",
+          "batch": 0,
+          "triangles": 16
+        },
+        {
+          "name": "Chrysanthemum_petal_1Shape14",
+          "batch": 0,
+          "triangles": 16
+        },
+        {
+          "name": "Chrysanthemum_petal_1Shape15",
+          "batch": 0,
+          "triangles": 16
+        },
+        {
+          "name": "CM029_Emergency_BoxShape1",
+          "batch": 0,
+          "triangles": 36
+        },
+        {
+          "name": "Cradle1Shape",
+          "batch": 0,
+          "triangles": 554
+        },
+        {
+          "name": "Cradle2Shape",
+          "batch": 0,
+          "triangles": 262
+        },
+        {
+          "name": "CraneShape",
+          "batch": 0,
+          "triangles": 1020
+        },
+        {
+          "name": "Cutter_9mShape",
+          "batch": 0,
+          "triangles": 362
+        },
+        {
+          "name": "DeckHatchShape",
+          "batch": 0,
+          "triangles": 1050
+        },
+        {
+          "name": "DeckHatchShape1",
+          "batch": 0,
+          "triangles": 1050
+        },
+        {
+          "name": "Director_Type_95_Mod1Shape",
+          "batch": 0,
+          "triangles": 759
+        },
+        {
+          "name": "Director_Type_95_Mod1Shape1",
+          "batch": 0,
+          "triangles": 759
+        },
+        {
+          "name": "DirectorShape",
+          "batch": 0,
+          "triangles": 528
+        },
+        {
+          "name": "DirectorShape1",
+          "batch": 0,
+          "triangles": 528
+        },
+        {
+          "name": "FairleadShape",
+          "batch": 0,
+          "triangles": 156
+        },
+        {
+          "name": "FairleadShape1",
+          "batch": 0,
+          "triangles": 156
+        },
+        {
+          "name": "FairleadShape2",
+          "batch": 0,
+          "triangles": 190
+        },
+        {
+          "name": "Fire_Fighting_GearShape",
+          "batch": 0,
+          "triangles": 190
+        },
+        {
+          "name": "Fire_Fighting_GearShape1",
+          "batch": 0,
+          "triangles": 76
+        },
+        {
+          "name": "Fire_Fighting_GearShape2",
+          "batch": 0,
+          "triangles": 40
+        },
+        {
+          "name": "Fire_Hose_RackShape",
+          "batch": 0,
+          "triangles": 202
+        },
+        {
+          "name": "Fire_Hose_RackShape1",
+          "batch": 0,
+          "triangles": 66
+        },
+        {
+          "name": "Fire_Hose_RackShape2",
+          "batch": 0,
+          "triangles": 64
+        },
+        {
+          "name": "GyroRepeaterShape",
+          "batch": 0,
+          "triangles": 208
+        },
+        {
+          "name": "JF012_Rangefinder_1_5mShape",
+          "batch": 0,
+          "triangles": 198
+        },
+        {
+          "name": "JF012_Rangefinder_1_5mShape1",
+          "batch": 0,
+          "triangles": 198
+        },
+        {
+          "name": "JF052_RangefinderShape",
+          "batch": 0,
+          "triangles": 254
+        },
+        {
+          "name": "JF052_RangefinderShape1",
+          "batch": 0,
+          "triangles": 254
+        },
+        {
+          "name": "JF053_RangefinderShape",
+          "batch": 0,
+          "triangles": 384
+        },
+        {
+          "name": "JF053_RangefinderShape1",
+          "batch": 0,
+          "triangles": 384
+        },
+        {
+          "name": "JGM049Shape",
+          "batch": 0,
+          "triangles": 780
+        },
+        {
+          "name": "JGM049Shape1",
+          "batch": 0,
+          "triangles": 780
+        },
+        {
+          "name": "JGM050Shape",
+          "batch": 0,
+          "triangles": 730
+        },
+        {
+          "name": "JGM050Shape1",
+          "batch": 0,
+          "triangles": 730
+        },
+        {
+          "name": "JM00Shape6",
+          "batch": 0,
+          "triangles": 388
+        },
+        {
+          "name": "JM0Shape40",
+          "batch": 0,
+          "triangles": 1135
+        },
+        {
+          "name": "JM0Shape41",
+          "batch": 0,
+          "triangles": 1292
+        },
+        {
+          "name": "JM008_SearchlightShape",
+          "batch": 0,
+          "triangles": 1412
+        },
+        {
+          "name": "JM008_SearchlightShape1",
+          "batch": 0,
+          "triangles": 941
+        },
+        {
+          "name": "JM021_VentilatorsShape1",
+          "batch": 0,
+          "triangles": 80
+        },
+        {
+          "name": "JM028_Deck_Winch1Shape",
+          "batch": 0,
+          "triangles": 465
+        },
+        {
+          "name": "JM028_Deck_Winch1Shape1",
+          "batch": 0,
+          "triangles": 422
+        },
+        {
+          "name": "JM032_Electric_Deck_WinchShape",
+          "batch": 0,
+          "triangles": 408
+        },
+        {
+          "name": "JM032_Electric_Deck_WinchShape1",
+          "batch": 0,
+          "triangles": 397
+        },
+        {
+          "name": "JM032_Electric_Deck_WinchShape2",
+          "batch": 0,
+          "triangles": 288
+        },
+        {
+          "name": "JM037Shape",
+          "batch": 0,
+          "triangles": 364
+        },
+        {
+          "name": "JM037Shape1",
+          "batch": 0,
+          "triangles": 364
+        },
+        {
+          "name": "JM044_After_CapstanShape",
+          "batch": 0,
+          "triangles": 456
+        },
+        {
+          "name": "JM049_Davit_2Shape",
+          "batch": 0,
+          "triangles": 98
+        },
+        {
+          "name": "JM049_Davit_2Shape1",
+          "batch": 0,
+          "triangles": 98
+        },
+        {
+          "name": "JM049_Davit_3Shape",
+          "batch": 0,
+          "triangles": 100
+        },
+        {
+          "name": "JM049_Davit_3Shape1",
+          "batch": 0,
+          "triangles": 98
+        },
+        {
+          "name": "JM052_Deck_HatchShape",
+          "batch": 0,
+          "triangles": 54
+        },
+        {
+          "name": "JM058_Deck_Hatch_7Shape",
+          "batch": 0,
+          "triangles": 306
+        },
+        {
+          "name": "JM058_Deck_Hatch_7Shape1",
+          "batch": 0,
+          "triangles": 144
+        },
+        {
+          "name": "JM062_Deck_Hatch_Shape111",
+          "batch": 0,
+          "triangles": 38
+        },
+        {
+          "name": "JM109_Deck_Hatch_11Shape",
+          "batch": 0,
+          "triangles": 82
+        },
+        {
+          "name": "JM109_Deck_Hatch_11Shape1",
+          "batch": 0,
+          "triangles": 82
+        },
+        {
+          "name": "JM109_Deck_Hatch_11Shape2",
+          "batch": 0,
+          "triangles": 82
+        },
+        {
+          "name": "JM110_Deck_HatchShape",
+          "batch": 0,
+          "triangles": 98
+        },
+        {
+          "name": "JM113_Flag_BoxShape1",
+          "batch": 0,
+          "triangles": 36
+        },
+        {
+          "name": "JM125_Signal_Lamp_Shape31",
+          "batch": 0,
+          "triangles": 72
+        },
+        {
+          "name": "JM125_Signal_Lamp_Shape32",
+          "batch": 0,
+          "triangles": 28
+        },
+        {
+          "name": "JM160_VentilationShape",
+          "batch": 0,
+          "triangles": 84
+        },
+        {
+          "name": "JM166_Voice_TubeShape",
+          "batch": 0,
+          "triangles": 206
+        },
+        {
+          "name": "JM168_VentilationShape",
+          "batch": 0,
+          "triangles": 268
+        },
+        {
+          "name": "JM168_VentilationShape1",
+          "batch": 0,
+          "triangles": 280
+        },
+        {
+          "name": "JM168_VentilationShape2",
+          "batch": 0,
+          "triangles": 264
+        },
+        {
+          "name": "JM168_VentilationShape3",
+          "batch": 0,
+          "triangles": 216
+        },
+        {
+          "name": "JM172_BinocularsShape",
+          "batch": 0,
+          "triangles": 311
+        },
+        {
+          "name": "JM172_BinocularsShape1",
+          "batch": 0,
+          "triangles": 314
+        },
+        {
+          "name": "JM172_BinocularsShape2",
+          "batch": 0,
+          "triangles": 2590
+        },
+        {
+          "name": "JM183_TableShape",
+          "batch": 0,
+          "triangles": 28
+        },
+        {
+          "name": "JM208Shape",
+          "batch": 0,
+          "triangles": 186
+        },
+        {
+          "name": "Ladder_ClosedShape",
+          "batch": 0,
+          "triangles": 210
+        },
+        {
+          "name": "Life_BuoyShape",
+          "batch": 0,
+          "triangles": 56
+        },
+        {
+          "name": "MainWheelShape",
+          "batch": 0,
+          "triangles": 306
+        },
+        {
+          "name": "MidBack_DeckHouseShape",
+          "batch": 0,
+          "triangles": 1336
+        },
+        {
+          "name": "MidBack_patch_Stern_wireShape",
+          "batch": 0,
+          "triangles": 135
+        },
+        {
+          "name": "MidBack_patch_SternShape",
+          "batch": 0,
+          "triangles": 86
+        },
+        {
+          "name": "MidBack_wireShape",
+          "batch": 0,
+          "triangles": 2252
+        },
+        {
+          "name": "MidBackShape",
+          "batch": 0,
+          "triangles": 2058
+        },
+        {
+          "name": "MidFront_DeckHouse1Shape",
+          "batch": 0,
+          "triangles": 4
+        },
+        {
+          "name": "MidFront_DeckHouse_wireShape",
+          "batch": 0,
+          "triangles": 102
+        },
+        {
+          "name": "MidFront_DeckHouseShape",
+          "batch": 0,
+          "triangles": 3318
+        },
+        {
+          "name": "MidFront_patch_MidBack_DeckHouseShape",
+          "batch": 0,
+          "triangles": 106
+        },
+        {
+          "name": "MidFront_patch_MidBack_wireShape",
+          "batch": 0,
+          "triangles": 216
+        },
+        {
+          "name": "MidFront_patch_MidBackShape",
+          "batch": 0,
+          "triangles": 106
+        },
+        {
+          "name": "MidFront_wireShape",
+          "batch": 0,
+          "triangles": 2108
+        },
+        {
+          "name": "MidFrontShape",
+          "batch": 0,
+          "triangles": 1627
+        },
+        {
+          "name": "ParavaneShape",
+          "batch": 0,
+          "triangles": 184
+        },
+        {
+          "name": "PlatformShape",
+          "batch": 0,
+          "triangles": 73
+        },
+        {
+          "name": "Propeller_meshShape",
+          "batch": 0,
+          "triangles": 126
+        },
+        {
+          "name": "Propeller_meshShape1",
+          "batch": 0,
+          "triangles": 128
+        },
+        {
+          "name": "Propeller_meshShape2",
+          "batch": 0,
+          "triangles": 126
+        },
+        {
+          "name": "Propeller_meshShape3",
+          "batch": 0,
+          "triangles": 128
+        },
+        {
+          "name": "RangefinderShape",
+          "batch": 0,
+          "triangles": 337
+        },
+        {
+          "name": "RollerFairledShape",
+          "batch": 0,
+          "triangles": 264
+        },
+        {
+          "name": "RollerFairledShape1",
+          "batch": 0,
+          "triangles": 262
+        },
+        {
+          "name": "Rotate_YShape",
+          "batch": 0,
+          "triangles": 50
+        },
+        {
+          "name": "Stern_wireShape",
+          "batch": 0,
+          "triangles": 481
+        },
+        {
+          "name": "SternShape",
+          "batch": 0,
+          "triangles": 787
+        },
+        {
+          "name": "TurretShape",
+          "batch": 0,
+          "triangles": 1537
+        },
+        {
+          "name": "turretShape",
+          "batch": 0,
+          "triangles": 137
+        },
+        {
+          "name": "TurretShape1",
+          "batch": 0,
+          "triangles": 1535
+        },
+        {
+          "name": "turretShape1",
+          "batch": 0,
+          "triangles": 141
+        },
+        {
+          "name": "TurretShape2",
+          "batch": 0,
+          "triangles": 1535
+        },
+        {
+          "name": "turretShape2",
+          "batch": 0,
+          "triangles": 139
+        },
+        {
+          "name": "TurretShape3",
+          "batch": 0,
+          "triangles": 1534
+        },
+        {
+          "name": "turretShape3",
+          "batch": 0,
+          "triangles": 139
+        },
+        {
+          "name": "TurretShape4",
+          "batch": 0,
+          "triangles": 1534
+        },
+        {
+          "name": "turretShape4",
+          "batch": 0,
+          "triangles": 137
+        },
+        {
+          "name": "TurretShape5",
+          "batch": 0,
+          "triangles": 1533
+        },
+        {
+          "name": "turretShape5",
+          "batch": 0,
+          "triangles": 137
+        },
+        {
+          "name": "TurretShape6",
+          "batch": 0,
+          "triangles": 2232
+        },
+        {
+          "name": "turretShape6",
+          "batch": 0,
+          "triangles": 137
+        },
+        {
+          "name": "TurretShape7",
+          "batch": 0,
+          "triangles": 2231
+        },
+        {
+          "name": "turretShape7",
+          "batch": 0,
+          "triangles": 137
+        },
+        {
+          "name": "turretShape8",
+          "batch": 0,
+          "triangles": 137
+        },
+        {
+          "name": "TurretShape8",
+          "batch": 0,
+          "triangles": 2232
+        },
+        {
+          "name": "TurretShape9",
+          "batch": 0,
+          "triangles": 2231
+        },
+        {
+          "name": "turretShape9",
+          "batch": 0,
+          "triangles": 137
+        },
+        {
+          "name": "turretShape10",
+          "batch": 0,
+          "triangles": 139
+        },
+        {
+          "name": "turretShape11",
+          "batch": 0,
+          "triangles": 137
+        },
+        {
+          "name": "turretShape12",
+          "batch": 0,
+          "triangles": 137
+        },
+        {
+          "name": "turretShape13",
+          "batch": 0,
+          "triangles": 137
+        },
+        {
+          "name": "Type93Shape",
+          "batch": 0,
+          "triangles": 828
+        },
+        {
+          "name": "Type93Shape1",
+          "batch": 0,
+          "triangles": 1856
+        },
+        {
+          "name": "Type93Shape2",
+          "batch": 0,
+          "triangles": 828
+        },
+        {
+          "name": "Type93Shape3",
+          "batch": 0,
+          "triangles": 1852
+        },
+        {
+          "name": "Type93Shape4",
+          "batch": 0,
+          "triangles": 824
+        },
+        {
+          "name": "Type93Shape5",
+          "batch": 0,
+          "triangles": 837
+        },
+        {
+          "name": "Type94Shape",
+          "batch": 0,
+          "triangles": 272
+        },
+        {
+          "name": "VentilationShape",
+          "batch": 0,
+          "triangles": 128
+        },
+        {
+          "name": "Ventilators3Shape",
+          "batch": 0,
+          "triangles": 76
+        },
+        {
+          "name": "Ventilators3Shape1",
+          "batch": 0,
+          "triangles": 72
+        },
+        {
+          "name": "VentilatorsShape",
+          "batch": 0,
+          "triangles": 44
+        },
+        {
+          "name": "WindDirectionShape",
+          "batch": 0,
+          "triangles": 67
+        },
+        {
+          "name": "WindIntensityShape",
+          "batch": 0,
+          "triangles": 30
+        },
+        {
+          "name": "Wood_BoxShape",
+          "batch": 0,
+          "triangles": 10
+        }
+      ],
+      "omitted": [
+        {
+          "name": "CM029_Emergency_BoxShape",
+          "triangles": 10
+        },
+        {
+          "name": "DayLightShape",
+          "triangles": 140
+        },
+        {
+          "name": "DeckHatch4Shape",
+          "triangles": 30
+        },
+        {
+          "name": "DeckHatch5Shape",
+          "triangles": 110
+        },
+        {
+          "name": "JM021_VentilatorsShape",
+          "triangles": 144
+        },
+        {
+          "name": "JM062_Deck_Hatch_Shape11",
+          "triangles": 70
+        },
+        {
+          "name": "JM113_Flag_BoxShape",
+          "triangles": 12
+        },
+        {
+          "name": "JM125_Signal_Lamp_Shape3",
+          "triangles": 52
+        },
+        {
+          "name": "JM125_Signal_Lamp_Shape33",
+          "triangles": 104
+        },
+        {
+          "name": "JM164_Turning_IndicatorShape",
+          "triangles": 90
+        },
+        {
+          "name": "JM165_Telegraph_EngineShape",
+          "triangles": 372
+        },
+        {
+          "name": "RunningLightsLShape",
+          "triangles": 85
+        },
+        {
+          "name": "RunningLightsRShape",
+          "triangles": 80
+        },
+        {
+          "name": "Ventilators3Shape2",
+          "triangles": 112
+        }
+      ]
+    },
+    {
+      "level": 2,
+      "file": "kongo-distant-pixel-lod2.glb",
+      "sha256": "8091b3c543563b2e5fe1fbb7ee57043413899a864a036f826eba145beda5f32e",
+      "bytes": 3308028,
+      "batches": 1,
+      "triangles": 40952,
+      "parts": [
+        {
+          "name": "AircraftDeckRailsShape",
+          "batch": 0,
+          "triangles": 302
+        },
+        {
+          "name": "AnchorShape",
+          "batch": 0,
+          "triangles": 104
+        },
+        {
+          "name": "Boat_StowageShape",
+          "batch": 0,
+          "triangles": 50
+        },
+        {
+          "name": "Boat_StowageShape1",
+          "batch": 0,
+          "triangles": 248
+        },
+        {
+          "name": "Boat_StowageShape2",
+          "batch": 0,
+          "triangles": 50
+        },
+        {
+          "name": "BollardsShape",
+          "batch": 0,
+          "triangles": 66
+        },
+        {
+          "name": "BollardsShape1",
+          "batch": 0,
+          "triangles": 44
+        },
+        {
+          "name": "BollardsShape2",
+          "batch": 0,
+          "triangles": 52
+        },
+        {
+          "name": "Bow_patch_MidFrontShape",
+          "batch": 0,
+          "triangles": 72
+        },
+        {
+          "name": "BowShape",
+          "batch": 0,
+          "triangles": 741
+        },
+        {
+          "name": "CatapultShape",
+          "batch": 0,
+          "triangles": 771
+        },
+        {
+          "name": "Chain_FairleadShape",
+          "batch": 0,
+          "triangles": 40
+        },
+        {
+          "name": "Chrysanthemum_midShape",
+          "batch": 0,
+          "triangles": 24
+        },
+        {
+          "name": "Chrysanthemum_petal_1Shape",
+          "batch": 0,
+          "triangles": 16
+        },
+        {
+          "name": "Chrysanthemum_petal_1Shape1",
+          "batch": 0,
+          "triangles": 16
+        },
+        {
+          "name": "Chrysanthemum_petal_1Shape2",
+          "batch": 0,
+          "triangles": 16
+        },
+        {
+          "name": "Chrysanthemum_petal_1Shape3",
+          "batch": 0,
+          "triangles": 16
+        },
+        {
+          "name": "Chrysanthemum_petal_1Shape4",
+          "batch": 0,
+          "triangles": 16
+        },
+        {
+          "name": "Chrysanthemum_petal_1Shape5",
+          "batch": 0,
+          "triangles": 16
+        },
+        {
+          "name": "Chrysanthemum_petal_1Shape6",
+          "batch": 0,
+          "triangles": 16
+        },
+        {
+          "name": "Chrysanthemum_petal_1Shape7",
+          "batch": 0,
+          "triangles": 16
+        },
+        {
+          "name": "Chrysanthemum_petal_1Shape8",
+          "batch": 0,
+          "triangles": 16
+        },
+        {
+          "name": "Chrysanthemum_petal_1Shape9",
+          "batch": 0,
+          "triangles": 16
+        },
+        {
+          "name": "Chrysanthemum_petal_1Shape10",
+          "batch": 0,
+          "triangles": 16
+        },
+        {
+          "name": "Chrysanthemum_petal_1Shape11",
+          "batch": 0,
+          "triangles": 16
+        },
+        {
+          "name": "Chrysanthemum_petal_1Shape12",
+          "batch": 0,
+          "triangles": 16
+        },
+        {
+          "name": "Chrysanthemum_petal_1Shape13",
+          "batch": 0,
+          "triangles": 16
+        },
+        {
+          "name": "Chrysanthemum_petal_1Shape14",
+          "batch": 0,
+          "triangles": 16
+        },
+        {
+          "name": "Chrysanthemum_petal_1Shape15",
+          "batch": 0,
+          "triangles": 16
+        },
+        {
+          "name": "CM029_Emergency_BoxShape1",
+          "batch": 0,
+          "triangles": 12
+        },
+        {
+          "name": "Cradle1Shape",
+          "batch": 0,
+          "triangles": 256
+        },
+        {
+          "name": "Cradle2Shape",
+          "batch": 0,
+          "triangles": 116
+        },
+        {
+          "name": "CraneShape",
+          "batch": 0,
+          "triangles": 954
+        },
+        {
+          "name": "Cutter_9mShape",
+          "batch": 0,
+          "triangles": 182
+        },
+        {
+          "name": "DeckHatchShape",
+          "batch": 0,
+          "triangles": 754
+        },
+        {
+          "name": "DeckHatchShape1",
+          "batch": 0,
+          "triangles": 754
+        },
+        {
+          "name": "Director_Type_95_Mod1Shape",
+          "batch": 0,
+          "triangles": 471
+        },
+        {
+          "name": "Director_Type_95_Mod1Shape1",
+          "batch": 0,
+          "triangles": 473
+        },
+        {
+          "name": "DirectorShape",
+          "batch": 0,
+          "triangles": 330
+        },
+        {
+          "name": "DirectorShape1",
+          "batch": 0,
+          "triangles": 330
+        },
+        {
+          "name": "FairleadShape",
+          "batch": 0,
+          "triangles": 40
+        },
+        {
+          "name": "FairleadShape1",
+          "batch": 0,
+          "triangles": 40
+        },
+        {
+          "name": "FairleadShape2",
+          "batch": 0,
+          "triangles": 56
+        },
+        {
+          "name": "Fire_Fighting_GearShape",
+          "batch": 0,
+          "triangles": 120
+        },
+        {
+          "name": "Fire_Fighting_GearShape1",
+          "batch": 0,
+          "triangles": 48
+        },
+        {
+          "name": "Fire_Hose_RackShape",
+          "batch": 0,
+          "triangles": 192
+        },
+        {
+          "name": "Fire_Hose_RackShape1",
+          "batch": 0,
+          "triangles": 66
+        },
+        {
+          "name": "GyroRepeaterShape",
+          "batch": 0,
+          "triangles": 128
+        },
+        {
+          "name": "JF012_Rangefinder_1_5mShape",
+          "batch": 0,
+          "triangles": 120
+        },
+        {
+          "name": "JF012_Rangefinder_1_5mShape1",
+          "batch": 0,
+          "triangles": 120
+        },
+        {
+          "name": "JF052_RangefinderShape",
+          "batch": 0,
+          "triangles": 159
+        },
+        {
+          "name": "JF052_RangefinderShape1",
+          "batch": 0,
+          "triangles": 158
+        },
+        {
+          "name": "JF053_RangefinderShape",
+          "batch": 0,
+          "triangles": 244
+        },
+        {
+          "name": "JF053_RangefinderShape1",
+          "batch": 0,
+          "triangles": 244
+        },
+        {
+          "name": "JGM049Shape",
+          "batch": 0,
+          "triangles": 409
+        },
+        {
+          "name": "JGM049Shape1",
+          "batch": 0,
+          "triangles": 407
+        },
+        {
+          "name": "JGM050Shape",
+          "batch": 0,
+          "triangles": 400
+        },
+        {
+          "name": "JGM050Shape1",
+          "batch": 0,
+          "triangles": 404
+        },
+        {
+          "name": "JM0Shape40",
+          "batch": 0,
+          "triangles": 469
+        },
+        {
+          "name": "JM0Shape41",
+          "batch": 0,
+          "triangles": 884
+        },
+        {
+          "name": "JM008_SearchlightShape",
+          "batch": 0,
+          "triangles": 903
+        },
+        {
+          "name": "JM008_SearchlightShape1",
+          "batch": 0,
+          "triangles": 597
+        },
+        {
+          "name": "JM021_VentilatorsShape1",
+          "batch": 0,
+          "triangles": 32
+        },
+        {
+          "name": "JM028_Deck_Winch1Shape",
+          "batch": 0,
+          "triangles": 373
+        },
+        {
+          "name": "JM028_Deck_Winch1Shape1",
+          "batch": 0,
+          "triangles": 370
+        },
+        {
+          "name": "JM032_Electric_Deck_WinchShape",
+          "batch": 0,
+          "triangles": 258
+        },
+        {
+          "name": "JM032_Electric_Deck_WinchShape1",
+          "batch": 0,
+          "triangles": 297
+        },
+        {
+          "name": "JM032_Electric_Deck_WinchShape2",
+          "batch": 0,
+          "triangles": 195
+        },
+        {
+          "name": "JM037Shape",
+          "batch": 0,
+          "triangles": 188
+        },
+        {
+          "name": "JM037Shape1",
+          "batch": 0,
+          "triangles": 198
+        },
+        {
+          "name": "JM044_After_CapstanShape",
+          "batch": 0,
+          "triangles": 214
+        },
+        {
+          "name": "JM049_Davit_2Shape",
+          "batch": 0,
+          "triangles": 42
+        },
+        {
+          "name": "JM049_Davit_2Shape1",
+          "batch": 0,
+          "triangles": 38
+        },
+        {
+          "name": "JM049_Davit_3Shape",
+          "batch": 0,
+          "triangles": 40
+        },
+        {
+          "name": "JM049_Davit_3Shape1",
+          "batch": 0,
+          "triangles": 40
+        },
+        {
+          "name": "JM052_Deck_HatchShape",
+          "batch": 0,
+          "triangles": 42
+        },
+        {
+          "name": "JM058_Deck_Hatch_7Shape",
+          "batch": 0,
+          "triangles": 170
+        },
+        {
+          "name": "JM058_Deck_Hatch_7Shape1",
+          "batch": 0,
+          "triangles": 112
+        },
+        {
+          "name": "JM062_Deck_Hatch_Shape111",
+          "batch": 0,
+          "triangles": 32
+        },
+        {
+          "name": "JM109_Deck_Hatch_11Shape",
+          "batch": 0,
+          "triangles": 60
+        },
+        {
+          "name": "JM109_Deck_Hatch_11Shape2",
+          "batch": 0,
+          "triangles": 60
+        },
+        {
+          "name": "JM110_Deck_HatchShape",
+          "batch": 0,
+          "triangles": 68
+        },
+        {
+          "name": "JM125_Signal_Lamp_Shape32",
+          "batch": 0,
+          "triangles": 24
+        },
+        {
+          "name": "JM160_VentilationShape",
+          "batch": 0,
+          "triangles": 50
+        },
+        {
+          "name": "JM166_Voice_TubeShape",
+          "batch": 0,
+          "triangles": 160
+        },
+        {
+          "name": "JM168_VentilationShape",
+          "batch": 0,
+          "triangles": 160
+        },
+        {
+          "name": "JM168_VentilationShape1",
+          "batch": 0,
+          "triangles": 184
+        },
+        {
+          "name": "JM168_VentilationShape2",
+          "batch": 0,
+          "triangles": 182
+        },
+        {
+          "name": "JM168_VentilationShape3",
+          "batch": 0,
+          "triangles": 140
+        },
+        {
+          "name": "JM172_BinocularsShape",
+          "batch": 0,
+          "triangles": 113
+        },
+        {
+          "name": "JM172_BinocularsShape1",
+          "batch": 0,
+          "triangles": 112
+        },
+        {
+          "name": "JM172_BinocularsShape2",
+          "batch": 0,
+          "triangles": 1207
+        },
+        {
+          "name": "JM183_TableShape",
+          "batch": 0,
+          "triangles": 28
+        },
+        {
+          "name": "JM208Shape",
+          "batch": 0,
+          "triangles": 112
+        },
+        {
+          "name": "Ladder_ClosedShape",
+          "batch": 0,
+          "triangles": 129
+        },
+        {
+          "name": "Life_BuoyShape",
+          "batch": 0,
+          "triangles": 56
+        },
+        {
+          "name": "MainWheelShape",
+          "batch": 0,
+          "triangles": 191
+        },
+        {
+          "name": "MidBack_DeckHouseShape",
+          "batch": 0,
+          "triangles": 807
+        },
+        {
+          "name": "MidBack_patch_SternShape",
+          "batch": 0,
+          "triangles": 84
+        },
+        {
+          "name": "MidBackShape",
+          "batch": 0,
+          "triangles": 1623
+        },
+        {
+          "name": "MidFront_DeckHouse1Shape",
+          "batch": 0,
+          "triangles": 4
+        },
+        {
+          "name": "MidFront_DeckHouseShape",
+          "batch": 0,
+          "triangles": 2530
+        },
+        {
+          "name": "MidFront_patch_MidBack_DeckHouseShape",
+          "batch": 0,
+          "triangles": 82
+        },
+        {
+          "name": "MidFront_patch_MidBackShape",
+          "batch": 0,
+          "triangles": 95
+        },
+        {
+          "name": "MidFrontShape",
+          "batch": 0,
+          "triangles": 1410
+        },
+        {
+          "name": "ParavaneShape",
+          "batch": 0,
+          "triangles": 80
+        },
+        {
+          "name": "PlatformShape",
+          "batch": 0,
+          "triangles": 73
+        },
+        {
+          "name": "Propeller_meshShape",
+          "batch": 0,
+          "triangles": 56
+        },
+        {
+          "name": "Propeller_meshShape1",
+          "batch": 0,
+          "triangles": 60
+        },
+        {
+          "name": "Propeller_meshShape2",
+          "batch": 0,
+          "triangles": 60
+        },
+        {
+          "name": "Propeller_meshShape3",
+          "batch": 0,
+          "triangles": 60
+        },
+        {
+          "name": "RangefinderShape",
+          "batch": 0,
+          "triangles": 255
+        },
+        {
+          "name": "RollerFairledShape",
+          "batch": 0,
+          "triangles": 158
+        },
+        {
+          "name": "RollerFairledShape1",
+          "batch": 0,
+          "triangles": 168
+        },
+        {
+          "name": "Rotate_YShape",
+          "batch": 0,
+          "triangles": 30
+        },
+        {
+          "name": "SternShape",
+          "batch": 0,
+          "triangles": 670
+        },
+        {
+          "name": "TurretShape",
+          "batch": 0,
+          "triangles": 655
+        },
+        {
+          "name": "turretShape",
+          "batch": 0,
+          "triangles": 81
+        },
+        {
+          "name": "TurretShape1",
+          "batch": 0,
+          "triangles": 655
+        },
+        {
+          "name": "turretShape1",
+          "batch": 0,
+          "triangles": 85
+        },
+        {
+          "name": "TurretShape2",
+          "batch": 0,
+          "triangles": 655
+        },
+        {
+          "name": "turretShape2",
+          "batch": 0,
+          "triangles": 89
+        },
+        {
+          "name": "TurretShape3",
+          "batch": 0,
+          "triangles": 654
+        },
+        {
+          "name": "turretShape3",
+          "batch": 0,
+          "triangles": 87
+        },
+        {
+          "name": "TurretShape4",
+          "batch": 0,
+          "triangles": 651
+        },
+        {
+          "name": "turretShape4",
+          "batch": 0,
+          "triangles": 83
+        },
+        {
+          "name": "TurretShape5",
+          "batch": 0,
+          "triangles": 649
+        },
+        {
+          "name": "turretShape5",
+          "batch": 0,
+          "triangles": 83
+        },
+        {
+          "name": "TurretShape6",
+          "batch": 0,
+          "triangles": 1152
+        },
+        {
+          "name": "turretShape6",
+          "batch": 0,
+          "triangles": 83
+        },
+        {
+          "name": "TurretShape7",
+          "batch": 0,
+          "triangles": 1161
+        },
+        {
+          "name": "turretShape7",
+          "batch": 0,
+          "triangles": 83
+        },
+        {
+          "name": "turretShape8",
+          "batch": 0,
+          "triangles": 81
+        },
+        {
+          "name": "TurretShape8",
+          "batch": 0,
+          "triangles": 1159
+        },
+        {
+          "name": "TurretShape9",
+          "batch": 0,
+          "triangles": 1159
+        },
+        {
+          "name": "turretShape9",
+          "batch": 0,
+          "triangles": 87
+        },
+        {
+          "name": "turretShape10",
+          "batch": 0,
+          "triangles": 85
+        },
+        {
+          "name": "turretShape11",
+          "batch": 0,
+          "triangles": 89
+        },
+        {
+          "name": "turretShape12",
+          "batch": 0,
+          "triangles": 87
+        },
+        {
+          "name": "turretShape13",
+          "batch": 0,
+          "triangles": 87
+        },
+        {
+          "name": "Type93Shape",
+          "batch": 0,
+          "triangles": 331
+        },
+        {
+          "name": "Type93Shape1",
+          "batch": 0,
+          "triangles": 867
+        },
+        {
+          "name": "Type93Shape2",
+          "batch": 0,
+          "triangles": 329
+        },
+        {
+          "name": "Type93Shape3",
+          "batch": 0,
+          "triangles": 872
+        },
+        {
+          "name": "Type93Shape4",
+          "batch": 0,
+          "triangles": 329
+        },
+        {
+          "name": "Type93Shape5",
+          "batch": 0,
+          "triangles": 338
+        },
+        {
+          "name": "Type94Shape",
+          "batch": 0,
+          "triangles": 240
+        },
+        {
+          "name": "VentilationShape",
+          "batch": 0,
+          "triangles": 104
+        },
+        {
+          "name": "Ventilators3Shape1",
+          "batch": 0,
+          "triangles": 42
+        },
+        {
+          "name": "VentilatorsShape",
+          "batch": 0,
+          "triangles": 30
+        },
+        {
+          "name": "WindDirectionShape",
+          "batch": 0,
+          "triangles": 54
+        },
+        {
+          "name": "WindIntensityShape",
+          "batch": 0,
+          "triangles": 26
+        },
+        {
+          "name": "Wood_BoxShape",
+          "batch": 0,
+          "triangles": 8
+        }
+      ],
+      "omitted": [
+        {
+          "name": "Binocular_3Shape",
+          "triangles": 304
+        },
+        {
+          "name": "CM029_Emergency_BoxShape",
+          "triangles": 10
+        },
+        {
+          "name": "DayLightShape",
+          "triangles": 106
+        },
+        {
+          "name": "DeckHatch4Shape",
+          "triangles": 20
+        },
+        {
+          "name": "DeckHatch5Shape",
+          "triangles": 58
+        },
+        {
+          "name": "Fire_Fighting_GearShape2",
+          "triangles": 24
+        },
+        {
+          "name": "Fire_Hose_RackShape2",
+          "triangles": 36
+        },
+        {
+          "name": "JM00Shape6",
+          "triangles": 132
+        },
+        {
+          "name": "JM021_VentilatorsShape",
+          "triangles": 122
+        },
+        {
+          "name": "JM062_Deck_Hatch_Shape11",
+          "triangles": 48
+        },
+        {
+          "name": "JM109_Deck_Hatch_11Shape1",
+          "triangles": 66
+        },
+        {
+          "name": "JM113_Flag_BoxShape",
+          "triangles": 12
+        },
+        {
+          "name": "JM113_Flag_BoxShape1",
+          "triangles": 36
+        },
+        {
+          "name": "JM125_Signal_Lamp_Shape3",
+          "triangles": 52
+        },
+        {
+          "name": "JM125_Signal_Lamp_Shape31",
+          "triangles": 36
+        },
+        {
+          "name": "JM125_Signal_Lamp_Shape33",
+          "triangles": 24
+        },
+        {
+          "name": "JM164_Turning_IndicatorShape",
+          "triangles": 68
+        },
+        {
+          "name": "JM165_Telegraph_EngineShape",
+          "triangles": 176
+        },
+        {
+          "name": "RunningLightsLShape",
+          "triangles": 67
+        },
+        {
+          "name": "RunningLightsRShape",
+          "triangles": 70
+        },
+        {
+          "name": "Ventilators3Shape",
+          "triangles": 56
+        },
+        {
+          "name": "Ventilators3Shape2",
+          "triangles": 72
+        }
+      ]
+    }
+  ],
+  "unmergedMaterials": [],
+  "pixelAuditSHA256": "d6c9d6820a9a4a7e2132276d7cadbda036dc6c0a4e3fc0193a5589962aeced54",
+  "pixelPolicySHA256": "8e1ecccf4a8913e0287322f121720b3e84627efd375dc1bbe6133efa96f17fa4"
+}

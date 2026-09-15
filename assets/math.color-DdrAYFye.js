@@ -1,0 +1,1 @@
+import{r as e}from"./math.color.pure-DBUb_tz1.js";e();

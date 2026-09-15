@@ -1,0 +1,1 @@
+import{n as e,r as t,t as n}from"./pbrMaterial.pure-CEt1_xpy.js";export{n as PBRMaterial,e as RegisterPBRMaterial,t as RegisterPbrMaterial};

@@ -1,0 +1,12 @@
+{
+  "source": "FireSprite1.exr",
+  "sha256": "25fb16a5d2563947e70d886834442a9e62923dc4c71b1893769d6d03641de5d2",
+  "grid": [
+    8,
+    4
+  ],
+  "frames": 32,
+  "cellSize": 256,
+  "colorSpace": "sRGB",
+  "bytes": 1638879
+}

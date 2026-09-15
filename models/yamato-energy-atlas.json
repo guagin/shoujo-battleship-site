@@ -1,0 +1,266 @@
+{
+  "version": 2,
+  "asset": "yamato-energy",
+  "sourceSHA256": "0063feecc35a7f803a2315647fa107dda9b4b88723790873515c9772369a6825",
+  "padding": 16,
+  "constantSpecularMaterials": {
+    "JSB018_Yamato_1944_hull_399": 1.0,
+    "JM086_Crane_3_180": 1.0,
+    "CM001_Propeller_994": 1.0,
+    "JC001_Catapult_Shiki2_skinned_134": 1.0,
+    "CM005_Anchor_1_538": 1.0,
+    "JD099_Director_Type_98_10m_935": 1.0,
+    "JM026_Bollards_542": 1.0,
+    "JSB018_Yamato_1944_hull_wire_400": 1.0,
+    "JM310_Chrysanthemum_full_949": 1.0,
+    "JD019_Machine_Gun_ControlTower_48": 1.0,
+    "JC001_Catapult_Cradle_skinned_135": 1.0,
+    "JM009_Signal_Lamp_849": 1.0,
+    "JM111_Deck_Hatch_13_367": 1.0,
+    "JD022_Director_Type_95_Mod1_14": 1.0,
+    "JM112_Gun_Deck_3_430": 1.0,
+    "JD095_Director_Type_95_Mod2_skinned_468": 1.0,
+    "JD098_Director_Type_98_15m_skinned_169": 1.0,
+    "JM107_Binocular_918": 1.0,
+    "JM039_Cutter_12m_95": 1.0,
+    "JM008_Searchlight_24": 1.0,
+    "JM013_Reels_1_482": 1.0,
+    "JM025_Fairled_500": 1.0,
+    "JM059_Deck_Hatch_8_968": 1.0,
+    "JM109_Deck_Hatch_11_911": 1.0,
+    "JM110_Deck_Hatch_12_817": 1.0,
+    "JGS156_155mm_60_Type3_skinned_787": 1.0,
+    "JGM164_460mm45_Type96_96": 1.0,
+    "JRS007_Radar_Type_22_skinned_370": 1.0,
+    "JM007_Life_Buoy_box_247": 1.0,
+    "JM368_Life_Buoy_814": 1.0,
+    "CM008_Life_Buoy_1_250": 1.0,
+    "JD056_MachineGun_Control_Position_49": 1.0,
+    "JSB018_Yamato_1944_deck_176": 1.0,
+    "JM002_Paravane_845": 1.0,
+    "JM029_Leadsman_Platform_461": 1.0,
+    "JRS010_Radar_Type_13_skinned_337": 1.0,
+    "JF017_Rangefinder_4_5m_13": 1.0,
+    "JF029_Rangefinder_1_5m_Yamato_951": 1.0,
+    "JM033_Roller_Fairled_548": 1.0,
+    "JM030_Wind_detection_985": 1.0,
+    "JM003_Searchlight_Control_1_853": 1.0,
+    "JM089_Signal_Platform_1_985": 1.0,
+    "JGA010_25mm_Type96_443": 1.0,
+    "JGS009_127mm40_Type_89_skinned_626": 1.0,
+    "JGA004_25mm_Type96_Triple_1_421": 1.0,
+    "JGS157_127mm40_Type89_Mod_A_skinned_548": 1.0,
+    "JD013_Director_Type_98_Mod1_2": 1.0
+  },
+  "atlases": [],
+  "skipped": [
+    {
+      "material": "Reactor gunmetal",
+      "reason": "protected or unreviewed nodes"
+    },
+    {
+      "material": "Reactor violet conduits",
+      "reason": "protected or unreviewed nodes"
+    },
+    {
+      "material": "Machined rib edges",
+      "reason": "protected or unreviewed nodes"
+    },
+    {
+      "material": "JSB018_Yamato_1944_hull_399",
+      "reason": "protected or unreviewed nodes"
+    },
+    {
+      "material": "JM086_Crane_3_180",
+      "reason": "protected or unreviewed nodes"
+    },
+    {
+      "material": "CM001_Propeller_994",
+      "reason": "protected or unreviewed nodes"
+    },
+    {
+      "material": "JC001_Catapult_Shiki2_skinned_134",
+      "reason": "protected or unreviewed nodes"
+    },
+    {
+      "material": "CM005_Anchor_1_538",
+      "reason": "protected or unreviewed nodes"
+    },
+    {
+      "material": "JD099_Director_Type_98_10m_935",
+      "reason": "protected or unreviewed nodes"
+    },
+    {
+      "material": "JM026_Bollards_542",
+      "reason": "protected or unreviewed nodes"
+    },
+    {
+      "material": "JSB018_Yamato_1944_hull_wire_400",
+      "reason": "protected or unreviewed nodes"
+    },
+    {
+      "material": "JM310_Chrysanthemum_full_949",
+      "reason": "protected or unreviewed nodes"
+    },
+    {
+      "material": "JD019_Machine_Gun_ControlTower_48",
+      "reason": "protected or unreviewed nodes"
+    },
+    {
+      "material": "JC001_Catapult_Cradle_skinned_135",
+      "reason": "protected or unreviewed nodes"
+    },
+    {
+      "material": "JM009_Signal_Lamp_849",
+      "reason": "protected or unreviewed nodes"
+    },
+    {
+      "material": "JM111_Deck_Hatch_13_367",
+      "reason": "protected or unreviewed nodes"
+    },
+    {
+      "material": "JD022_Director_Type_95_Mod1_14",
+      "reason": "protected or unreviewed nodes"
+    },
+    {
+      "material": "JM112_Gun_Deck_3_430",
+      "reason": "protected or unreviewed nodes"
+    },
+    {
+      "material": "JD095_Director_Type_95_Mod2_skinned_468",
+      "reason": "protected or unreviewed nodes"
+    },
+    {
+      "material": "C004_Grid_1_alpha_skinned_169",
+      "reason": "protected or unreviewed nodes"
+    },
+    {
+      "material": "JD098_Director_Type_98_15m_skinned_169",
+      "reason": "protected or unreviewed nodes"
+    },
+    {
+      "material": "JM107_Binocular_918",
+      "reason": "protected or unreviewed nodes"
+    },
+    {
+      "material": "JM039_Cutter_12m_95",
+      "reason": "protected or unreviewed nodes"
+    },
+    {
+      "material": "JM008_Searchlight_24",
+      "reason": "protected or unreviewed nodes"
+    },
+    {
+      "material": "JM013_Reels_1_482",
+      "reason": "protected or unreviewed nodes"
+    },
+    {
+      "material": "JM025_Fairled_500",
+      "reason": "protected or unreviewed nodes"
+    },
+    {
+      "material": "JM059_Deck_Hatch_8_968",
+      "reason": "protected or unreviewed nodes"
+    },
+    {
+      "material": "JM109_Deck_Hatch_11_911",
+      "reason": "protected or unreviewed nodes"
+    },
+    {
+      "material": "JM110_Deck_Hatch_12_817",
+      "reason": "protected or unreviewed nodes"
+    },
+    {
+      "material": "JGS156_155mm_60_Type3_skinned_787",
+      "reason": "protected or unreviewed nodes"
+    },
+    {
+      "material": "JGM164_460mm45_Type96_96",
+      "reason": "protected or unreviewed nodes"
+    },
+    {
+      "material": "JRS007_Radar_Type_22_skinned_370",
+      "reason": "protected or unreviewed nodes"
+    },
+    {
+      "material": "JM007_Life_Buoy_box_247",
+      "reason": "protected or unreviewed nodes"
+    },
+    {
+      "material": "JM368_Life_Buoy_814",
+      "reason": "protected or unreviewed nodes"
+    },
+    {
+      "material": "CM008_Life_Buoy_1_250",
+      "reason": "protected or unreviewed nodes"
+    },
+    {
+      "material": "JD056_MachineGun_Control_Position_49",
+      "reason": "protected or unreviewed nodes"
+    },
+    {
+      "material": "JSB018_Yamato_1944_deck_176",
+      "reason": "protected or unreviewed nodes"
+    },
+    {
+      "material": "JM002_Paravane_845",
+      "reason": "protected or unreviewed nodes"
+    },
+    {
+      "material": "JM029_Leadsman_Platform_461",
+      "reason": "protected or unreviewed nodes"
+    },
+    {
+      "material": "JRS010_Radar_Type_13_skinned_337",
+      "reason": "protected or unreviewed nodes"
+    },
+    {
+      "material": "JF017_Rangefinder_4_5m_13",
+      "reason": "protected or unreviewed nodes"
+    },
+    {
+      "material": "JF029_Rangefinder_1_5m_Yamato_951",
+      "reason": "protected or unreviewed nodes"
+    },
+    {
+      "material": "JM033_Roller_Fairled_548",
+      "reason": "protected or unreviewed nodes"
+    },
+    {
+      "material": "JM030_Wind_detection_985",
+      "reason": "protected or unreviewed nodes"
+    },
+    {
+      "material": "JM003_Searchlight_Control_1_853",
+      "reason": "protected or unreviewed nodes"
+    },
+    {
+      "material": "JM089_Signal_Platform_1_985",
+      "reason": "protected or unreviewed nodes"
+    },
+    {
+      "material": "C001_Net_alpha_879",
+      "reason": "protected or unreviewed nodes"
+    },
+    {
+      "material": "JGA010_25mm_Type96_443",
+      "reason": "protected or unreviewed nodes"
+    },
+    {
+      "material": "JGS009_127mm40_Type_89_skinned_626",
+      "reason": "protected or unreviewed nodes"
+    },
+    {
+      "material": "JGA004_25mm_Type96_Triple_1_421",
+      "reason": "protected or unreviewed nodes"
+    },
+    {
+      "material": "JGS157_127mm40_Type89_Mod_A_skinned_548",
+      "reason": "protected or unreviewed nodes"
+    },
+    {
+      "material": "JD013_Director_Type_98_Mod1_2",
+      "reason": "protected or unreviewed nodes"
+    }
+  ]
+}
