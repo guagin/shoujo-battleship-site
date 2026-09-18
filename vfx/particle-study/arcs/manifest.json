@@ -1,0 +1,146 @@
+[
+  {
+    "name": "FX_PF_LightningGraph_Oriented_01",
+    "source": "SrRubfish_VFX_04\\Prefabs\\OrientedBolts\\FX_PF_LightningGraph_Oriented_01.prefab",
+    "textureSource": "SrRubfish_VFX_04\\Textures\\Flipbooks\\Electricity\\FX_TX_LightningBolt_01_3x4.png",
+    "url": "/vfx/particle-study/arcs/af9075c0d61f6c44c811d081f71dec62.png",
+    "columns": 3,
+    "rows": 4
+  },
+  {
+    "name": "FX_PF_LightningGraph_Oriented_01_Curve",
+    "source": "SrRubfish_VFX_04\\Prefabs\\OrientedBolts\\FX_PF_LightningGraph_Oriented_01_Curve.prefab",
+    "textureSource": "SrRubfish_VFX_04\\Textures\\Flipbooks\\Electricity\\FX_TX_LightningBolt_01_3x4.png",
+    "url": "/vfx/particle-study/arcs/af9075c0d61f6c44c811d081f71dec62.png",
+    "columns": 3,
+    "rows": 4
+  },
+  {
+    "name": "FX_PF_LightningGraph_Oriented_02",
+    "source": "SrRubfish_VFX_04\\Prefabs\\OrientedBolts\\FX_PF_LightningGraph_Oriented_02.prefab",
+    "textureSource": "SrRubfish_VFX_04\\Textures\\Flipbooks\\Electricity\\FX_TX_LightningBolt_02_4x4.png",
+    "url": "/vfx/particle-study/arcs/f05fd1e0dc930f645897c91df63e67f4.png",
+    "columns": 4,
+    "rows": 4
+  },
+  {
+    "name": "FX_PF_LightningGraph_Oriented_02_Curve",
+    "source": "SrRubfish_VFX_04\\Prefabs\\OrientedBolts\\FX_PF_LightningGraph_Oriented_02_Curve.prefab",
+    "textureSource": "SrRubfish_VFX_04\\Textures\\Flipbooks\\Electricity\\FX_TX_LightningBolt_02_4x4.png",
+    "url": "/vfx/particle-study/arcs/f05fd1e0dc930f645897c91df63e67f4.png",
+    "columns": 4,
+    "rows": 4
+  },
+  {
+    "name": "FX_PF_LightningGraph_Oriented_03",
+    "source": "SrRubfish_VFX_04\\Prefabs\\OrientedBolts\\FX_PF_LightningGraph_Oriented_03.prefab",
+    "textureSource": "SrRubfish_VFX_04\\Textures\\Flipbooks\\Electricity\\FX_TX_LightningBolt_03_4x4.png",
+    "url": "/vfx/particle-study/arcs/27ea7e291a49e28409f60ee7531f8e75.png",
+    "columns": 4,
+    "rows": 4
+  },
+  {
+    "name": "FX_PF_LightningGraph_Oriented_03_Curve",
+    "source": "SrRubfish_VFX_04\\Prefabs\\OrientedBolts\\FX_PF_LightningGraph_Oriented_03_Curve.prefab",
+    "textureSource": "SrRubfish_VFX_04\\Textures\\Flipbooks\\Electricity\\FX_TX_LightningBolt_03_4x4.png",
+    "url": "/vfx/particle-study/arcs/27ea7e291a49e28409f60ee7531f8e75.png",
+    "columns": 4,
+    "rows": 4
+  },
+  {
+    "name": "FX_PF_LightningGraph_Oriented_04",
+    "source": "SrRubfish_VFX_04\\Prefabs\\OrientedBolts\\FX_PF_LightningGraph_Oriented_04.prefab",
+    "textureSource": "SrRubfish_VFX_04\\Textures\\Flipbooks\\Electricity\\FX_TX_LightningBolt_05_2x4.png",
+    "url": "/vfx/particle-study/arcs/8739836b485daf54a9a56a784747cb4b.png",
+    "columns": 2,
+    "rows": 4
+  },
+  {
+    "name": "FX_PF_LightningGraph_Oriented_04_Curve",
+    "source": "SrRubfish_VFX_04\\Prefabs\\OrientedBolts\\FX_PF_LightningGraph_Oriented_04_Curve.prefab",
+    "textureSource": "SrRubfish_VFX_04\\Textures\\Flipbooks\\Electricity\\FX_TX_LightningBolt_05_2x4.png",
+    "url": "/vfx/particle-study/arcs/8739836b485daf54a9a56a784747cb4b.png",
+    "columns": 2,
+    "rows": 4
+  },
+  {
+    "name": "FX_PF_LightningGraph_Oriented_05",
+    "source": "SrRubfish_VFX_04\\Prefabs\\OrientedBolts\\FX_PF_LightningGraph_Oriented_05.prefab",
+    "textureSource": "SrRubfish_VFX_04\\Textures\\Flipbooks\\Electricity\\FX_TX_LightningBolt_07_4x4.png",
+    "url": "/vfx/particle-study/arcs/e54011d65cbde3c44b50cc4c6fd5d7e7.png",
+    "columns": 4,
+    "rows": 4
+  },
+  {
+    "name": "FX_PF_LightningGraph_Oriented_05_Curve",
+    "source": "SrRubfish_VFX_04\\Prefabs\\OrientedBolts\\FX_PF_LightningGraph_Oriented_05_Curve.prefab",
+    "textureSource": "SrRubfish_VFX_04\\Textures\\Flipbooks\\Electricity\\FX_TX_LightningBolt_07_4x4.png",
+    "url": "/vfx/particle-study/arcs/e54011d65cbde3c44b50cc4c6fd5d7e7.png",
+    "columns": 4,
+    "rows": 4
+  },
+  {
+    "name": "FX_PF_LightningGraph_Oriented_06",
+    "source": "SrRubfish_VFX_04\\Prefabs\\OrientedBolts\\FX_PF_LightningGraph_Oriented_06.prefab",
+    "textureSource": "SrRubfish_VFX_04\\Textures\\Flipbooks\\Electricity\\FX_TX_LightningBolt_07_3x4.png",
+    "url": "/vfx/particle-study/arcs/dd66a243736a77045a5f4af5b64c6b02.png",
+    "columns": 3,
+    "rows": 4
+  },
+  {
+    "name": "FX_PF_LightningGraph_Oriented_06_Curve",
+    "source": "SrRubfish_VFX_04\\Prefabs\\OrientedBolts\\FX_PF_LightningGraph_Oriented_06_Curve.prefab",
+    "textureSource": "SrRubfish_VFX_04\\Textures\\Flipbooks\\Electricity\\FX_TX_LightningBolt_07_3x4.png",
+    "url": "/vfx/particle-study/arcs/dd66a243736a77045a5f4af5b64c6b02.png",
+    "columns": 3,
+    "rows": 4
+  },
+  {
+    "name": "FX_PF_LightningGraph_Oriented_07_AlternativeColors",
+    "source": "SrRubfish_VFX_04\\Prefabs\\OrientedBolts\\FX_PF_LightningGraph_Oriented_07_AlternativeColors.prefab",
+    "textureSource": "SrRubfish_VFX_04\\Textures\\Flipbooks\\Electricity\\FX_TX_LightningBolt_07_3x4.png",
+    "url": "/vfx/particle-study/arcs/dd66a243736a77045a5f4af5b64c6b02.png",
+    "columns": 3,
+    "rows": 4
+  },
+  {
+    "name": "FX_PF_LightningGraph_Oriented_07_Curve_AlternativeColors",
+    "source": "SrRubfish_VFX_04\\Prefabs\\OrientedBolts\\FX_PF_LightningGraph_Oriented_07_Curve_AlternativeColors.prefab",
+    "textureSource": "SrRubfish_VFX_04\\Textures\\Flipbooks\\Electricity\\FX_TX_LightningBolt_07_3x4.png",
+    "url": "/vfx/particle-study/arcs/dd66a243736a77045a5f4af5b64c6b02.png",
+    "columns": 3,
+    "rows": 4
+  },
+  {
+    "name": "FX_PF_LightningGraph_TeslaBurst_01",
+    "source": "SrRubfish_VFX_04\\Prefabs\\OrientedBolts\\FX_PF_LightningGraph_TeslaBurst_01.prefab",
+    "textureSource": "SrRubfish_VFX_04\\Textures\\Flipbooks\\Electricity\\FX_TX_CurvlyLightning_01_3x4.png",
+    "url": "/vfx/particle-study/arcs/24fbfb86011799b499895032b40e27d8.png",
+    "columns": 3,
+    "rows": 4
+  },
+  {
+    "name": "FX_PF_LightningGraph_TeslaBurst_01_Curve",
+    "source": "SrRubfish_VFX_04\\Prefabs\\OrientedBolts\\FX_PF_LightningGraph_TeslaBurst_01_Curve.prefab",
+    "textureSource": "SrRubfish_VFX_04\\Textures\\Flipbooks\\Electricity\\FX_TX_CurvlyLightning_01_3x4.png",
+    "url": "/vfx/particle-study/arcs/24fbfb86011799b499895032b40e27d8.png",
+    "columns": 3,
+    "rows": 4
+  },
+  {
+    "name": "FX_PF_LightningGraph_TeslaBurst_02",
+    "source": "SrRubfish_VFX_04\\Prefabs\\OrientedBolts\\FX_PF_LightningGraph_TeslaBurst_02.prefab",
+    "textureSource": "SrRubfish_VFX_04\\Textures\\Flipbooks\\Electricity\\FX_TX_CurvlyLightning_02_3x4.png",
+    "url": "/vfx/particle-study/arcs/2fe30626e8756504b991b60ddc7c22c1.png",
+    "columns": 3,
+    "rows": 4
+  },
+  {
+    "name": "FX_PF_LightningGraph_TeslaBurst_02_Curve",
+    "source": "SrRubfish_VFX_04\\Prefabs\\OrientedBolts\\FX_PF_LightningGraph_TeslaBurst_02_Curve.prefab",
+    "textureSource": "SrRubfish_VFX_04\\Textures\\Flipbooks\\Electricity\\FX_TX_CurvlyLightning_02_3x4.png",
+    "url": "/vfx/particle-study/arcs/2fe30626e8756504b991b60ddc7c22c1.png",
+    "columns": 3,
+    "rows": 4
+  }
+]

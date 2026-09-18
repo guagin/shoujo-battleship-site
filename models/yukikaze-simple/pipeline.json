@@ -1,0 +1,63 @@
+{
+  "asset": "yukikaze",
+  "inputs": {
+    "tools\\ship-recipes\\yukikaze.json": "9ca40cb8776d521fb200670cf1ddb7b1b884fe10e1ac4643b72b525b08a61ec2",
+    "tools\\build-simple-ship.py": "5a4883bcd84599452dc2be7276e97ee90bee52c21f600eb9a3e30eead4971f3a",
+    "tools\\simple-ship-pipeline.py": "40123404440443442116f2700d1213f9fe43193b571281cbf9986b8e0272436e",
+    "public\\models\\yukikaze.glb": "cfc7043b7127ee186f5569495a24c646ba1af3ca228c09283ea87f771839126f",
+    "tools\\ship-recipes\\escort.py": "504e6940bf6df08070d6ede42f3271809bb78f77301235ac46fa7570b926e73e"
+  },
+  "assets": {
+    "simple-medium": {
+      "triangles": 1056,
+      "sha256": "a0556ce3323edd9419354aa5cfabcb8d7242b4c1d7b9f9f724d5cab5337a2d64",
+      "bytes": 485104
+    },
+    "simple-far": {
+      "triangles": 544,
+      "sha256": "ee7d709e1074a4b64771bdfefa265ede11b1948477283ab7765067b79106facd",
+      "bytes": 140144
+    }
+  },
+  "files": {
+    "model.blend": "2afa7c0af9af882609abd0758dd1289ff37aa887cbaf8b48b565b458bf248b73",
+    "report.json": "d3526e0fe377385fe4bf322352fa5b5d49fc74e947f409703de1ee28999a4b17",
+    "Reference-oblique-512.png": "eae3f7149e90e0afc49c5bc36afedf7e28a8bfe886ef86956c98aef4d750cb49",
+    "Reference-oblique-160.png": "cecad92d70624140bd3678f520cda202bae7af5f2b91dbba728426bf401e16f9",
+    "Reference-oblique-80.png": "a2e450a2761b20cb0e04c612274af507403a4020997aa4d2cb168e3061a3740a",
+    "Reference-oblique-32.png": "9d48b7e2da37fe29d67435cf151c01476181023700a7617f24eef5e2083ee387",
+    "Reference-top-512.png": "3b8f05b7a6a883fbc18e1b2a5a0355e2e73931feb48cf1b69a521c4f8ba82964",
+    "Reference-top-160.png": "e6ca683607e9b60afe7562308a21e85dd7ee38f8c2d8b1d3a9188df5895f87a0",
+    "Reference-top-80.png": "0dcecb84a7645ce57c179f91597b015b38ea6ac29bfa107ac8c2238359c9714e",
+    "Reference-top-32.png": "94f849ac0047e7b00cb9d0bc1531eead3517c5206c842bfa8c40076780bbc47e",
+    "Reference-side-512.png": "25fe0ead68645394dc1a149150d6df8945ccb57cf0ed001435a0bb9fbbbab251",
+    "Reference-side-160.png": "4f024f8532ea6360eb1cbf1b6c884ebae17069365c6b589aadb4f11176cd80bd",
+    "Reference-side-80.png": "0c8b71cd35ea25b9695ff896de9a786a5f2a30be65855521ba35d3ce40c9b5c1",
+    "Reference-side-32.png": "a8bdf2e44ad3b0154b02e6a5a6ec5dab3b30e2e3fd27671116a7d944eb5aecaf",
+    "simple-medium-oblique-512.png": "c212c89ed66167bf5381fbc391d075460cb15816187853b50d153c262921af6a",
+    "simple-medium-oblique-160.png": "a73fdef4491475ec5f9361fbb96fb11fd8fa03f039ef516571b19806aef51cc6",
+    "simple-medium-oblique-80.png": "56137060ba4a6cd429db31de4e17f3a395c512c30809db87d9c0556dd231cdf9",
+    "simple-medium-oblique-32.png": "e04463c07b0e70287746b8b5fc0108043d45b86ad5a64ee9d7c8b3ca01f80147",
+    "simple-medium-top-512.png": "f43fdc12f5a545553236d813d9c8220a3ff05797bafb785cae8ec5c2ac4b44da",
+    "simple-medium-top-160.png": "b79f82aea9450e0ce7d53d312dc4d5f24f473f4fe85becefabd49fe5a4b6076a",
+    "simple-medium-top-80.png": "77c417d90a73833ec1b4d44d084ee5aaac3b0a01ec829229ceb33fea3a316254",
+    "simple-medium-top-32.png": "07b8e4b39f9e40bc2973c85d8309bce55ec2e09e2ea3804627998a10dfbfc230",
+    "simple-medium-side-512.png": "f66c10c966e1ea78e124a7b3cbd6dd8919b000f8e834d1761c26b69e26c662a4",
+    "simple-medium-side-160.png": "e805be94133e8686940896e16a614f5a30239b9ca727ab41791a13f8b28fbef1",
+    "simple-medium-side-80.png": "7662f437e691fabf37a68c9e903c87662f0d37cef3adb96ed81e772dd091c2fb",
+    "simple-medium-side-32.png": "6f05375840468ebcfa6f0149a6937f3f99f8ccd28169c6ae9293a76b3139de2f",
+    "simple-far-oblique-512.png": "2fe19fec80758329f07748caf00e87e728983dde14eea3d1aa375fa4b366c712",
+    "simple-far-oblique-160.png": "87a85357d44c3cb547fb7dea58fefdb32bb671f7f8db56313ac8c79ae2e84fbf",
+    "simple-far-oblique-80.png": "daae3af1e61349b42f67f06338b93c63dba1bfaef5871cf18579733a842d532b",
+    "simple-far-oblique-32.png": "c3f274dc46b10b771536746bc11b0451117dce88cfe08b29154e9a1431e97079",
+    "simple-far-top-512.png": "e795931339758d1350062aff26c84e58bf032b35d7ab283398edb2aa3efae6c2",
+    "simple-far-top-160.png": "04c155225930b0d20cf602a087907d10fb77d4040677df5f73ef945dcdc6fe3a",
+    "simple-far-top-80.png": "2b27af1e894959dc53ad132f00e7cf6f135bab62437f0d865a34210b8fb68cce",
+    "simple-far-top-32.png": "8e9b3fef62acd362d38fbb03964645d00f91b1b3507f9d9087123737671e8e44",
+    "simple-far-side-512.png": "94e100a158198e73e1448c94284bd9e41397399f933d7f15a2fdd5316f490214",
+    "simple-far-side-160.png": "fdf08570190605f2adf5f6200d050b0cdac253c51c9f1b1b8bdafc95537bc9cd",
+    "simple-far-side-80.png": "6b5bd42f057b4b9c03d40f1dc9edd0b4ccacecd109ec502d2eb6364a04d99e55",
+    "simple-far-side-32.png": "1b8b6a746076a45a6bb32a1fa1b0202dadb877dd0c7cc3ce1bf555f3e17f9f61"
+  },
+  "visualReview": "Compare Reference and simple previews at the same pixel size; verify game screenshots before accepting a new recipe."
+}

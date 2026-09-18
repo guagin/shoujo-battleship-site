@@ -1,0 +1,4 @@
+function e(e){let t=e&&[e.x,e.z,e.shallow].every(Number.isFinite)?e:void 0,n=t?Math.hypot(t.x,t.z):0,r=n>1e-6?Math.max(0,Math.min(1,t.shallow)):0,i=Math.max(0,Math.min(1,(r-.82)/.175)),a=i*i*(3-2*i),o=r*r;return{x:n>1e-6?t.x/n:0,z:n>1e-6?t.z/n:1,shallow:r,grazing:a,height:1-.38*o-.5*a,duration:1-.18*a,foamStretch:1+1.2*o+2.2*a,foamDrift:.35*o+.8*a}}var t=`
+float entryGrazing(float shallow){return smoothstep(.82,.995,shallow);}
+float entryHeight(float shallow){return 1.-.38*shallow*shallow-.50*entryGrazing(shallow);}
+`;function n(e,t,n){if(![e,t,n].every(Number.isFinite))return{x:0,z:1,shallow:0};let r=Math.hypot(e,n),i=Math.hypot(r,t);return r<1e-6||i<1e-6?{x:0,z:1,shallow:0}:{x:e/r,z:n/r,shallow:r/i}}export{e as n,t as r,n as t};

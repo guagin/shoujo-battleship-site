@@ -1,0 +1,1 @@
+var e=new URL(`glslang-DqqdIFnr.js`,import.meta.url).href,t=new URL(`glslang-G7Yt_-32.wasm`,import.meta.url).href,n=new URL(`twgsl-DqdFeK3J.js`,import.meta.url).href,r=new URL(`twgsl-CB--yrSG.wasm`,import.meta.url).href;export{e as i,n,t as r,r as t};

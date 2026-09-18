@@ -1,0 +1,1 @@
+import{t as e}from"./particles.vertex-DejjyeH6.js";export{e as particlesVertexShader};

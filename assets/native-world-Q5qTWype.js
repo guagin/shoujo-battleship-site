@@ -1,0 +1,1 @@
+import{n as e}from"./native-world-kcTCw8dF.js";export{e as prepareNativeWorld};

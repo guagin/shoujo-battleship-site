@@ -1,0 +1,36 @@
+{
+  "sourceMember": "Omega Particle Fx V4.5/Textures/Rain/Rain.png",
+  "sourceSHA256": "4f858c06e8fbc73fa87f8580a38487439f44a976fabc5b7626e4d4f2a1933185",
+  "crops": [
+    [
+      0,
+      0,
+      500,
+      500
+    ],
+    [
+      500,
+      0,
+      1000,
+      500
+    ],
+    [
+      1000,
+      0,
+      1500,
+      500
+    ],
+    [
+      1500,
+      0,
+      2000,
+      500
+    ]
+  ],
+  "size": [
+    512,
+    128
+  ],
+  "variants": 4,
+  "rgba8MipBytesApprox": 349525
+}

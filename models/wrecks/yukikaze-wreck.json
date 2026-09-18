@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "asset": "yukikaze",
+  "sourceSHA256": "cfc7043b7127ee186f5569495a24c646ba1af3ca228c09283ea87f771839126f",
+  "recipeSHA256": "cba853b934a2c230f7cd57fe93ab57b9a9c058be7edefadb8a80455e6f9eb12c",
+  "file": "yukikaze-wreck.glb",
+  "sha256": "1e53c9e9fbf2986ffa7d46284860b50f119e384e5da678116546aa0ca614116a",
+  "parts": [
+    {
+      "name": "wreck_stern",
+      "triangles": 7258
+    },
+    {
+      "name": "wreck_mid",
+      "triangles": 5077
+    },
+    {
+      "name": "wreck_bow",
+      "triangles": 6409
+    }
+  ],
+  "triangles": 18744,
+  "materials": 2,
+  "textureSize": 1024,
+  "bytes": 1704460,
+  "variants": [
+    "split",
+    "magazine",
+    "capsize"
+  ]
+}

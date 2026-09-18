@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "asset": "atago",
+  "sourceSHA256": "1dc3789d95dae17b0dd4ee40953991ec3cbf3cb6073de8d2cc9c9970012622eb",
+  "recipeSHA256": "cba853b934a2c230f7cd57fe93ab57b9a9c058be7edefadb8a80455e6f9eb12c",
+  "file": "atago-wreck.glb",
+  "sha256": "638176946cdd7f4c9b098e2b8140638dc83cd9f0bde07caadfb7a0236b3a7e4d",
+  "parts": [
+    {
+      "name": "wreck_stern",
+      "triangles": 5770
+    },
+    {
+      "name": "wreck_mid",
+      "triangles": 7831
+    },
+    {
+      "name": "wreck_bow",
+      "triangles": 5407
+    }
+  ],
+  "triangles": 19008,
+  "materials": 2,
+  "textureSize": 1024,
+  "bytes": 1757216,
+  "variants": [
+    "split",
+    "magazine",
+    "capsize"
+  ]
+}

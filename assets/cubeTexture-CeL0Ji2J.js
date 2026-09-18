@@ -1,0 +1,1 @@
+import{i as e}from"./cubeTexture.pure-B2PiaB_A.js";e();

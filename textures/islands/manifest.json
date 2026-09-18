@@ -1,0 +1,12 @@
+{
+  "source": "Authored procedural maps: tools/build-island-detail.py",
+  "seed": 2309,
+  "size": 512,
+  "maps": {
+    "rock-color.png": "sRGB diffuse",
+    "rock-normal.png": "linear tangent-space normal"
+  },
+  "runtime": "shared across all islands; repeat; mipmapped; 24m tile",
+  "estimatedGpuBytesRGBAWithMipmaps": 2796202,
+  "purpose": "surface detail only; silhouette and collision unchanged"
+}

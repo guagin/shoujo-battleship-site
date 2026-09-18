@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "asset": "yamato-energy",
+  "sourceSHA256": "0063feecc35a7f803a2315647fa107dda9b4b88723790873515c9772369a6825",
+  "recipeSHA256": "cba853b934a2c230f7cd57fe93ab57b9a9c058be7edefadb8a80455e6f9eb12c",
+  "file": "yamato-energy-wreck.glb",
+  "sha256": "340955a18de5f7311a48baf0b7b1749f9428dc8ae8cbcf358b1838b9c48adb33",
+  "parts": [
+    {
+      "name": "wreck_stern",
+      "triangles": 2283
+    },
+    {
+      "name": "wreck_mid",
+      "triangles": 8143
+    },
+    {
+      "name": "wreck_bow",
+      "triangles": 8510
+    }
+  ],
+  "triangles": 18936,
+  "materials": 2,
+  "textureSize": 1024,
+  "bytes": 1716380,
+  "variants": [
+    "split",
+    "magazine",
+    "capsize"
+  ]
+}

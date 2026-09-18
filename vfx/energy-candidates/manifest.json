@@ -1,0 +1,59 @@
+[
+  {
+    "id": "void39",
+    "prefab": "VoidRay",
+    "package": "assets\\Stylized Laser Beam Attacks - 39 VFX\\Stylized Laser Beam Attacks - 39 VFX1.0.unitypackage",
+    "textures": [
+      {
+        "url": "/vfx/energy-candidates/void39-VoidRibbon.png",
+        "source": "Assets/Piloto Studio/Textures/VoidRibbon.png",
+        "guid": "a3504956256fd114391159947ed30169",
+        "sha256": "510fd6548bc1765ec091616b51b2f50f2d21c95f6bfd6e20c3f73e738195ab55"
+      },
+      {
+        "url": "/vfx/energy-candidates/void39-Noise_SuperContrasted.tga",
+        "source": "Assets/Piloto Studio/Textures/Noise_SuperContrasted.tga",
+        "guid": "002aedcdab33bf84bb7c2258d04e14d0",
+        "sha256": "00846b79b859a04e6caf53446c5bafbd98119a3c0bf430508202f72fe6793e2d"
+      }
+    ]
+  },
+  {
+    "id": "arcane39",
+    "prefab": "ArcaneRay",
+    "package": "assets\\Stylized Laser Beam Attacks - 39 VFX\\Stylized Laser Beam Attacks - 39 VFX1.0.unitypackage",
+    "textures": [
+      {
+        "url": "/vfx/energy-candidates/arcane39-RibbonTwirly.png",
+        "source": "Assets/Piloto Studio/Textures/RibbonTwirly.png",
+        "guid": "5d08adb460b267445ad1e619adb0ba0d",
+        "sha256": "d2e5d53c6bf1fd8a7b3cd23786e72cbaff948f3843bf49bb80b26606dc36aa98"
+      },
+      {
+        "url": "/vfx/energy-candidates/arcane39-Trail_WispyGeneric.png",
+        "source": "Assets/Piloto Studio/Textures/Trail_WispyGeneric.png",
+        "guid": "4dd4c93f487c05b4f84c39a956be86e9",
+        "sha256": "46801627566a24735a6b976ed55b2998e6414481e990a69c75e60e9639a54fd7"
+      }
+    ]
+  },
+  {
+    "id": "void22",
+    "prefab": "PS_UltimateBeam_Void",
+    "package": "assets\\Stylized Laser Beam Attacks - 22 VFX!\\Stylized Laser Beam Attacks - 22 VFX 1.1.unitypackage",
+    "textures": [
+      {
+        "url": "/vfx/energy-candidates/void22-Tx_Trail_02.png",
+        "source": "Assets/Piloto Studio/Textures/Tx_Trail_02.png",
+        "guid": "8d44927446e83da48b92c307dc3c8936",
+        "sha256": "2e7d7e5daec97bd64cfcdc905beb51341bf91ea49aba27f75afc71b9f5b40244"
+      },
+      {
+        "url": "/vfx/energy-candidates/void22-WindNoise.png",
+        "source": "Assets/Piloto Studio/Textures/WindNoise.png",
+        "guid": "1c8280cf4eec0204abea9cd20776d156",
+        "sha256": "8a35b0e49c83c0b2992a644935053329d7d77db153d28d4516363307bb3d1591"
+      }
+    ]
+  }
+]

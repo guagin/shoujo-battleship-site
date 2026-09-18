@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "sourceSHA256": "7417c4c2aebd6d2c4552fc140594dbd19c7e8f7746621dea00c09c6835434483",
+  "builderSHA256": "d5f6052d9cad693fed2fdfab8e14be6e6a00137b430590e276cf7832e6a9d3dd",
+  "motionSourceSHA256": "0063feecc35a7f803a2315647fa107dda9b4b88723790873515c9772369a6825",
+  "method": "Split authored hull, new hexagonal rings and box supports; runtime shares original rigid motion curves.",
+  "levels": [
+    {
+      "name": "simple-medium",
+      "file": "simple-medium-deployment.glb",
+      "triangles": 2128,
+      "motionOwners": [
+        "Energy_core",
+        "Energy_focus_ring_0",
+        "Energy_focus_ring_1",
+        "Energy_focus_ring_2",
+        "Energy_focus_ring_3",
+        "Energy_lift_-40_-1",
+        "Energy_lift_-40_1",
+        "Energy_lift_0_-1",
+        "Energy_lift_0_1",
+        "Energy_lift_40_-1",
+        "Energy_lift_40_1",
+        "Energy_lower_hull",
+        "Energy_upper_hull"
+      ],
+      "sha256": "c8b9790d228799a905d32ac933487b16acb6f2484fbcb25e271127981597e4e8"
+    },
+    {
+      "name": "simple-far",
+      "file": "simple-far-deployment.glb",
+      "triangles": 1256,
+      "motionOwners": [
+        "Energy_core",
+        "Energy_focus_ring_0",
+        "Energy_focus_ring_1",
+        "Energy_focus_ring_2",
+        "Energy_focus_ring_3",
+        "Energy_lift_-40_-1",
+        "Energy_lift_-40_1",
+        "Energy_lift_0_-1",
+        "Energy_lift_0_1",
+        "Energy_lift_40_-1",
+        "Energy_lift_40_1",
+        "Energy_lower_hull",
+        "Energy_upper_hull"
+      ],
+      "sha256": "2ec102986ec0943661ee3b7795f6a38f49c98b475fa5b01643c7288e2eacf130"
+    }
+  ]
+}

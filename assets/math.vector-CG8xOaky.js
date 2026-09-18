@@ -1,0 +1,1 @@
+import{r as e}from"./math.vector.pure-DvOxp7ND.js";e();

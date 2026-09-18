@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "asset": "nagato",
+  "sourceSHA256": "d0b403c3bb962a7353b3bb4353951bd869bc7488103280bd5dca67a49242427b",
+  "recipeSHA256": "cba853b934a2c230f7cd57fe93ab57b9a9c058be7edefadb8a80455e6f9eb12c",
+  "file": "nagato-wreck.glb",
+  "sha256": "4b6d0e3f0ac119a099b0abf7a2dcdf0361219d91300d3a5a9b2b1a8700279f8b",
+  "parts": [
+    {
+      "name": "wreck_stern",
+      "triangles": 6729
+    },
+    {
+      "name": "wreck_mid",
+      "triangles": 7752
+    },
+    {
+      "name": "wreck_bow",
+      "triangles": 4531
+    }
+  ],
+  "triangles": 19012,
+  "materials": 2,
+  "textureSize": 1024,
+  "bytes": 1790140,
+  "variants": [
+    "split",
+    "magazine",
+    "capsize"
+  ]
+}

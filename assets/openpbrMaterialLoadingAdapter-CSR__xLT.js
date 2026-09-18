@@ -1,0 +1,1 @@
+import{t as e}from"./openpbrMaterialLoadingAdapter-CTcPsiDW.js";export{e as OpenPBRMaterialLoadingAdapter};

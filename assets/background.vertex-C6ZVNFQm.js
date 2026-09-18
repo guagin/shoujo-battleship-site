@@ -1,0 +1,1 @@
+import{t as e}from"./background.vertex-CRKq3QoE.js";export{e as backgroundVertexShaderWGSL};

@@ -1,0 +1,1 @@
+import{t as e}from"./color.vertex-DDnStwL3.js";export{e as colorVertexShaderWGSL};

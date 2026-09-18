@@ -1,0 +1,68 @@
+[
+  {
+    "prefab": "ArcaneRay",
+    "frames": 80,
+    "fps": 20,
+    "seconds": 4,
+    "resolution": [
+      1280,
+      720
+    ],
+    "bytes": 164745
+  },
+  {
+    "prefab": "NatureRay",
+    "frames": 80,
+    "fps": 20,
+    "seconds": 4,
+    "resolution": [
+      1280,
+      720
+    ],
+    "bytes": 316494
+  },
+  {
+    "prefab": "PS_UltimateBeam_Arcane",
+    "frames": 80,
+    "fps": 20,
+    "seconds": 4,
+    "resolution": [
+      1280,
+      720
+    ],
+    "bytes": 91739
+  },
+  {
+    "prefab": "PS_UltimateBeam_Dark",
+    "frames": 80,
+    "fps": 20,
+    "seconds": 4,
+    "resolution": [
+      1280,
+      720
+    ],
+    "bytes": 67906
+  },
+  {
+    "prefab": "PS_UltimateBeam_Void",
+    "frames": 80,
+    "fps": 20,
+    "seconds": 4,
+    "resolution": [
+      1280,
+      720
+    ],
+    "bytes": 90245
+  },
+  {
+    "prefab": "VoidRay",
+    "frames": 80,
+    "fps": 20,
+    "seconds": 4,
+    "resolution": [
+      1280,
+      720
+    ],
+    "bytes": 98599
+  }
+]

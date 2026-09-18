@@ -1,0 +1,1 @@
+import{t as e}from"./lightFragment-CHI52C6q.js";export{e as lightFragmentWGSL};

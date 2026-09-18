@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "asset": "kongo",
+  "sourceSHA256": "fa8e78193f9f3a4d36eb9f1d01832e6be4b2ad67c19c420d5a569597acd71eaf",
+  "recipeSHA256": "cba853b934a2c230f7cd57fe93ab57b9a9c058be7edefadb8a80455e6f9eb12c",
+  "file": "kongo-wreck.glb",
+  "sha256": "6f94fabc946ff0f64121ef00dfeeb26854f6827a890055dd6e58ea57364e49bb",
+  "parts": [
+    {
+      "name": "wreck_stern",
+      "triangles": 7554
+    },
+    {
+      "name": "wreck_mid",
+      "triangles": 7317
+    },
+    {
+      "name": "wreck_bow",
+      "triangles": 3905
+    }
+  ],
+  "triangles": 18776,
+  "materials": 2,
+  "textureSize": 1024,
+  "bytes": 1742916,
+  "variants": [
+    "split",
+    "magazine",
+    "capsize"
+  ]
+}

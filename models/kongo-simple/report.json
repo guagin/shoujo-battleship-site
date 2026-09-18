@@ -1,0 +1,17 @@
+{
+  "method": "New cross-section hull with reference-fitted widths and primitive superstructure; no decimation, remeshing, or reuse of source vertices",
+  "asset": "kongo",
+  "levels": [
+    {
+      "name": "simple-medium",
+      "triangles": 1584,
+      "objects": 75
+    },
+    {
+      "name": "simple-far",
+      "triangles": 568,
+      "objects": 23
+    }
+  ],
+  "limitations": "New authored geometry with original diffuse colour baked to a shared atlas (medium 512, far 256). Bridge and funnel silhouettes remain blockier than the original. Runtime turret integration is provided separately; energy deployment falls back to the original animated model."
+}

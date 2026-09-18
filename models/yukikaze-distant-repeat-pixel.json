@@ -1065,6 +1065,6 @@
   ],
   "unmergedMaterials": [],
   "sampling": "repeat-shader-v1",
-  "pixelAuditSHA256": "79e4626cee5238bf84224efbd81b2f815cb46e4e3f3c3f14eeb03f6472caad12",
-  "pixelPolicySHA256": "8e1ecccf4a8913e0287322f121720b3e84627efd375dc1bbe6133efa96f17fa4"
+  "pixelAuditSHA256": "be69049c7dfcfedd97ffa4550349e19137ef58def50422f94b9abd6b04603267",
+  "pixelPolicySHA256": "07e785b495d3259ee3b4595368b5a451cc46ee2e65e1c9e379e9c1cdaf61ba5f"
 }

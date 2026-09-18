@@ -1,0 +1,36 @@
+{
+  "sourceMember": "Omega Particle Fx V4.5/Textures/Magic/Magic.png",
+  "sourceSHA256": "d5266509f64e4c62fddd66c9813fd46d021aa2ab5e8081bdfe68b19c68e14425",
+  "crops": [
+    [
+      0,
+      0,
+      500,
+      500
+    ],
+    [
+      500,
+      0,
+      1000,
+      500
+    ],
+    [
+      1000,
+      0,
+      1500,
+      500
+    ],
+    [
+      1500,
+      0,
+      2000,
+      500
+    ]
+  ],
+  "size": [
+    512,
+    128
+  ],
+  "variants": 4,
+  "rgba8MipBytesApprox": 349525
+}

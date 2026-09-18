@@ -1,0 +1,51 @@
+[
+  {
+    "key": "heavy",
+    "source": "assets\\S003 战争相关音效【战争&打斗】音效\\战争武器的音效\\CANNON1.mp3",
+    "bytes": 13772,
+    "gain": 0.22,
+    "status": "candidate; requires listening review"
+  },
+  {
+    "key": "medium",
+    "source": "assets\\S003 战争相关音效【战争&打斗】音效\\战争武器的音效\\CANNON2.mp3",
+    "bytes": 9175,
+    "gain": 0.22,
+    "status": "candidate; requires listening review"
+  },
+  {
+    "key": "light",
+    "source": "assets\\S003 战争相关音效【战争&打斗】音效\\战争武器的音效\\CANNON3.mp3",
+    "bytes": 11265,
+    "gain": 0.22,
+    "status": "candidate; requires listening review"
+  },
+  {
+    "key": "torpedo",
+    "source": "assets\\S003 战争相关音效【战争&打斗】音效\\战争武器的音效\\TORPEDOS.mp3",
+    "bytes": 125264,
+    "gain": 0.22,
+    "status": "candidate; requires listening review"
+  },
+  {
+    "key": "ricochet",
+    "source": "assets\\S003 战争相关音效【战争&打斗】音效\\子弹\\子弹跳弹\\BLLTRico_Bullets, Ricochet, Metal, Tank.mp3",
+    "bytes": 80249,
+    "gain": 0.22,
+    "status": "candidate; requires listening review"
+  },
+  {
+    "key": "penetration",
+    "source": "assets\\S003 战争相关音效【战争&打斗】音效\\子弹\\子弹跳弹\\BLLTRico_Bullets, Ricochet, Impact, Metal, Hollow 01.mp3",
+    "bytes": 62009,
+    "gain": 0.22,
+    "status": "candidate; requires listening review"
+  },
+  {
+    "key": "splash",
+    "source": "assets\\S003 战争相关音效【战争&打斗】音效\\子弹\\子弹击中\\BLLTImpt_Bullets, Impact, Ice, Splash, Wet.mp3",
+    "bytes": 331926,
+    "gain": 0.22,
+    "status": "candidate; requires listening review"
+  }
+]

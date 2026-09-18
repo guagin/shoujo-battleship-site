@@ -1,0 +1,1 @@
+import{t as e}from"./color.fragment-CWqoX6N2.js";export{e as colorPixelShader};

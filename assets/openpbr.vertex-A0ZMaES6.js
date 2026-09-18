@@ -1,0 +1,1 @@
+import{t as e}from"./openpbr.vertex-Dy3LuspV.js";export{e as openpbrVertexShader};
